@@ -54,8 +54,8 @@ https://live.obslivestream.com/cdeportivo/index.m3u8
 
 
 #EXTINF:-1 group-title="NOTICIAS", CANAL 26
-https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 
+http://200.115.193.177/live/26hd-720/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CronicaTV.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1477726445690568711/Qb1flBsT_400x400.jpg" group-title="NOTICIAS ", CRÓNICA HD 24.4
 https://g1.mc-hor.transport.edge-access.net/a10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8
