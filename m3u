@@ -182,7 +182,7 @@ https://dacastmmd.mmdlive.lldns.net/dacastmmd/fafa592f5b7b4212928307608b85bdf7/c
 https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-qxyuiw-51EA/X87iUEZLoPI/AAAAAAAA7i4/iUAmvdMqID0mUMlZnAiFiCgk359CtAyjgCLcBGAsYHQ/s0/musictop_logo.png" group- title="NACIONALES", TOP MÚSICA
+#EXTINF:-1  group- title="NACIONALES", TOP MÚSICA
 https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1020255408_b2028000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-jE3Rb32vLEQ/XjtGJpQeqWI/AAAAAAAAvp4/P09Q1wK1oCwNhEhncQUUSJGFBZzjErCwCK8BGAsYHg/s0/2020-02-05.png" group-title="NACIONALES", TERRAMIA TV
@@ -954,11 +954,7 @@ https://cs1.onecast.com.br/7466/7466/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.fmamadeus.com.ar/images/logo-amadeus.png" group-title="MENDOZA", FM AMADEUS 91.9 FM RIVADAVIA
 https://vivo.solumedia.com:19360/fmamadeus/fmamadeus.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROemK8-dSOkvxNct66KtjqZ7Rr1gM_5id3Jg&usqp=CAU" group-title="AMBA", FM 90.1 TRUJUI
-https://inliveserver.com:1936/14102/14102/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/A12ZTP1poAm-r0MSEWCa7r3majA6OuUHKvSHZdaCbiMGccwPQRp2qc_J5lXWPj9drKeZ=s180" group-title="AMBA", LA 1120 AM SANTIAGO Y COPLA - G LAFERRERE
-https://panel.dattalive.com/8140/8140/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6wMd3nUwGsnpGd67jXUmKNToZX-I4ms1XxoYxYPosRPtKgwQaDr4lhnRcW2YYco1YGC0&usqp=CAU" group-title="TUCUMAN", TU RADIO FM DIVERSIDAD 99CUMANIO.
 https://srv2.zcast.com.br/diversidad/diversidad/playlist.m3u8
@@ -977,12 +973,6 @@ https://59537faa0729a.streamlock.net/radio1045/radio1045/playlist.m3u8
 
 
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4gbANSM7ZuvPP3MXVX3w-7W4MqVT09hoGmw&usqp=CAU" group-title="AMBA", LA 100
-https://g4.mc-slo.transport.edge-access.net/a11/ngrp:cienradioshd-10002_all/cienradioshd-10002_540p.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1392874118857564170/1pAEWGj0_400x400.jpg" group-title="AMBA", CONJUNTO DE RADIO
-https://streamcasthd.com:1936/ensamblecontenidostv/ensamblecontenidostv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.radiojai.com/wp-content/uploads/2021/01/logo_jai_celeste-1.png" group-title="AMBA", RADIO JAI
 https://vivo.solumedia.com:19360/jaitv/jaitv.m3u8
