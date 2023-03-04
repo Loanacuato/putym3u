@@ -3793,8 +3793,8 @@ http://200.110.169.237:8202/play/a03r
 #EXTINF:-1  group-title="CULTURA", HISTORY
 http://200.110.169.237:8202/play/a00c
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ijurD8t.png" group-title="PAISAJES", LAKES LIVE
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95385c932c837b49397356/playlist.m3u8
+#EXTINF:-1  group-title="CULTURA", ANIMAL PLANET
+http://200.110.169.237:8202/play/a01i
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XthH1RM.png" group-title="PAISAJES", MOUNTAINS LIVE
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95387b932c837b49397357/playlist.m3u8
