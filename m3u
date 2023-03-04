@@ -3473,8 +3473,8 @@ https://pac12-roku-us.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.wp.com/ossom.cl/wp-content/uploads/2020/03/red_bull_tv.jpg?fit=610%2C350&ssl=1" group-title="EVENTOS DEPORTIVOS", RED BULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNPKmNGqH1IUzEtI7ttOFDMkvy0qkVhR_u0Cq0q9V-ZZEb_YH3pvi9ID1wWreeiJ06g6M&usqp=CAU" group-title="EVENTOS DEPORTIVOS",Abu Dhabi Sports 1
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:-1  group-title="EVENTOS DEPORTIVOS",ESPN 3
+http://200.110.169.237:8202/play/a02f
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNPKmNGqH1IUzEtI7ttOFDMkvy0qkVhR_u0Cq0q9V-ZZEb_YH3pvi9ID1wWreeiJ06g6M&usqp=CAU" group-title="EVENTOS DEPORTIVOS",Abu Dhabi Sports 2
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
