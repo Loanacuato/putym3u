@@ -3787,8 +3787,8 @@ https://videostreaming.cloudserverlatam.com:443/8078/8078/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vNrFKse.png" group-title="PAISAJES", AURORA LIVE
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/playlist.m3u8
+#EXTINF:-1  group-title="CULTURA", DISCOVERY ID
+http://200.110.169.237:8202/play/a03r
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NKW3gW7.png" group-title="PAISAJES", FOREST LIVE
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953836932c837b49397355/playlist.m3u8
