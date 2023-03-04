@@ -3808,11 +3808,11 @@ http://200.110.169.237:8202/play/a02v
 #EXTINF:-1  group-title="CINE", HBO EXTREMO
 http://200.110.169.237:8202/play/a02w
 
-#EXTINF:-1  group-title="PAISAJES", PARAMOUNT
+#EXTINF:-1  group-title="CINE", PARAMOUNT
 http://nmstreaming.live:25461/RamonMx/HMurUsxUyz52/10866
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i43l93j.png" group-title="PAISAJES", WATERFALLS LIVE
-https://95771f8415a84e31bd152fe9c6c9905c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5c953910932c837b4939735d/playlist.m3u8
+#EXTINF:-1  group-title="CINE", WARNER CHANEL
+http://200.110.169.237:8202/play/a01j
 
 
 
