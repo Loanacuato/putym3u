@@ -3805,8 +3805,8 @@ http://nmstreaming.live:25461/RamonMx/HMurUsxUyz52/210845
 #EXTINF:-1  group-title="CINE", HBO PLUS
 http://200.110.169.237:8202/play/a02v
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K4GaruD.png" group-title="PAISAJES", SUNSETS LIVE
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/playlist.m3u8
+#EXTINF:-1  group-title="CINE", HBO EXTREMO
+http://200.110.169.237:8202/play/a02w
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8F9qPbt.png" group-title="PAISAJES", TROPICS LIVE
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/playlist.m3u8
