@@ -3799,8 +3799,8 @@ http://200.110.169.237:8202/play/a01i
 #EXTINF:-1  group-title="CULTURA", DICOVERY TURBO
 http://200.110.169.237:8202/play/a02d
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4rIbV7e.png" group-title="PAISAJES", BEACHES LIVE
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95396f932c837b49397360/playlist.m3u8
+#EXTINF:-1 tvg-logo= group-title="NACIONALES", MAGAZINE
+http://nmstreaming.live:25461/RamonMx/HMurUsxUyz52/210845
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ii2IDmA.png" group-title="PAISAJES", RIVERS LIVE
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
