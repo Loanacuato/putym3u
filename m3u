@@ -3802,8 +3802,8 @@ http://200.110.169.237:8202/play/a02d
 #EXTINF:-1 tvg-logo= group-title="NACIONALES", MAGAZINE
 http://nmstreaming.live:25461/RamonMx/HMurUsxUyz52/210845
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ii2IDmA.png" group-title="PAISAJES", RIVERS LIVE
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
+#EXTINF:-1  group-title="CINE", HBO PLUS
+http://200.110.169.237:8202/play/a02v
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K4GaruD.png" group-title="PAISAJES", SUNSETS LIVE
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/playlist.m3u8
