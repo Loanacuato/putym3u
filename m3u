@@ -150,8 +150,8 @@ https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/900335405580550144/EpLMIlFW_400x400.jpg" group-title="NOTICIAS", DW ESPAÑOL
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1566826453190205442/EWGUZmdC_400x400.jpg" group-title="NOTICIAS", 24 HORAS ESPAÑA
-https://ztnr.rtve.es/ztnr/1694255.m3u8
+#EXTINF:-1  group-title="CINE", HBO
+http://131.196.194.2:8000/play/a09m/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1200px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" group-title="NOTICIAS", GALICIA TV
 http://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
