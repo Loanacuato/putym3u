@@ -157,8 +157,8 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 http://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6V9_yDrni0eTO56Mp2nsglBZaCHKdObHa4-YEpBc4a7Ua-HpieL5q1NPZSc3W_pkq9Eo&usqp=CAU" group-title="NOTICIAS", ABC PARAGUAY
-https://abc-color.cdn.vustreams.com/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
+#EXTINF:-1  group-title="INFANTILES", BABY TV
+http://200.110.169.237:8202/play/a00s
 
 #EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/news/640/amz/worldservice/live/assets/images/2012/01/31/120131193926_hispantv_logo_304x171__nocredit.jpg" group-title= "NOTICIAS", HISPAN TV
 https://live1.presstv.ir/live/hispan.m3u8
