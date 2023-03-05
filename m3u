@@ -20,8 +20,8 @@ http://200.110.169.237:8202/play/a01n
 http://200.110.169.237:8202/play/a031
 
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EVENTOS DEPORTIVOS", GOL TV
-http://45.179.140.242:8000/play/a0l8
+#EXTINF:-1  group-title="EVENTOS DEPORTIVOS", ESPN PREMIUM 
+http://131.196.194.2:8000/play/a0ex/index.m3u8
 
 
 
