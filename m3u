@@ -2870,8 +2870,8 @@ https://cm.hostlagarto.com:4445/Telecibao/Telecibao/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpkPjzeR-ik5a1xa97togEzbwPfmf5eHLmO2_TtSLfwrLSZVxUBbmu58F5TpmGIMI3Cak&usqp=CAU" group-title="REP DOMINICANA",TeleCONTACTO CANAL 57
 https://vdo1.streamgato.us:3578/live/telecontactohdlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0Bbj2lh.jpg" group-title="REP DOMINICANA", Telefuturo Canal 23 
-https://ss9.domint.net:3054/tf_str/telefuturo/playlist.m3u8
+#EXTINF:-1  group-title="INFANTILES", DISNEY JUNIOR 
+http://200.110.169.237:8202/play/a02y
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/780827633734983680/T-6k4RMI_400x400.jpg" group-title="REP DOMINICANA", Teleimpacto
 http://190.122.96.188:8888/http/013
