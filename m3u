@@ -3536,8 +3536,8 @@ http://200.110.169.237:8202/play/a03w
 #EXTINF:-1  group-title="ENTRETENIMIENTO 2", RCN NOVELAS
 http://200.110.169.237:8202/play/a03q
 
-#EXTINF:-1 tvg-logo="http://verlateleonline.weebly.com/uploads/5/1/3/4/51344345/tnt-sports.png" group-title="EVENTOS DEPORTIVOS", EVENTOS TNT Sports 5 Brasil
-https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+#EXTINF:-1  group-title="NOTICIAS", CNN INTERNACIONAL
+http://200.110.169.237:8202/play/a02m
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-4gdqGn04Bng/Xb9WF2WzB6I/AAAAAAAAr7A/tbeDeaQTuuMuHOka_gYv4trQHwAyzqKPQCK8BGAsYHg/s0/2019-11-03.png" group-title="EVENTOS DEPORTIVOS", TV Turf Movil
