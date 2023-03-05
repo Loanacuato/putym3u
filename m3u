@@ -3540,8 +3540,8 @@ http://200.110.169.237:8202/play/a03q
 http://200.110.169.237:8202/play/a02m
 
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-4gdqGn04Bng/Xb9WF2WzB6I/AAAAAAAAr7A/tbeDeaQTuuMuHOka_gYv4trQHwAyzqKPQCK8BGAsYHg/s0/2019-11-03.png" group-title="EVENTOS DEPORTIVOS", TV Turf Movil
-https://janus.tvturf.cl/playlist/stream.m3u8
+#EXTINF:-1  group-title="CULTURA", NAT GEO HD
+http://131.196.194.2:8000/play/a0ej/index.m3u8
 
 #EXTINF:-1  group-title="EVENTOS DEPORTIVOS", FOX HD
 http://131.196.194.2:8000/play/a0ew/index.m3u8
