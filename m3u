@@ -2855,8 +2855,8 @@ https://5fa5de1a545ae.streamlock.net/sportvision35tv/sportvision35tv/playlist.m3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7v46dB1.png" group-title="REP DOMINICANA", TeleBendicion
 https://ss5.domint.net:3180/tbt_str/telebendicion/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/739_Telecanal_12.jpg" group-title="REP DOMINICANA", Telecanal 12
-https://cdn4.hostlagarto.com:8081/static/telecanal12/playlist.m3u8
+#EXTINF:-1  group-title="ENTRETENIMIENTO 2", EL CANAL DE LAS ESTRELLAS
+http://200.110.169.237:8202/play/a01v
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wYklHWy.png" group-title="REP DOMINICANA", Telecanal 28
 http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/playlist.m3u8
