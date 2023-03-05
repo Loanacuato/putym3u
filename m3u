@@ -41,8 +41,8 @@ https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/in
 http://45.179.140.242:8000/play/a0ik
 
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/7787d1d2ab3382cc09d2c3fa9bb8720d.png" group-title="EVENTOS DEPORTIVOS", Contacto Deportivo
-https://live.obslivestream.com/cdeportivo/index.m3u8
+#EXTINF:-1  group-title="CULTURA", DISCOVERY CHANNEL HD
+http://131.196.194.2:8000/play/a0f5/index.m3u8
 
 
 
