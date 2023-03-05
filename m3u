@@ -3048,8 +3048,8 @@ http://131.196.194.2:8000/play/a0eu/index.m3u8
 #EXTINF:-1  group-title="CINE", STAR CHANNEL
 http://131.196.194.2:8000/play/a0dx/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/ESBC3500003YK_20221109T010945.png" group-title="EVENTOS DEPORTIVOS", MyPadel TV
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01970-mypadeldigitals-mypadeltv-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1  group-title="PELÍCULAS", EL HOMBRE ARAÑA 2
+http://tvpremiumhd.club/lista-gratuita/161210/on/vod.php?cid=DD5496267F7EE6C4&resid=DD5496267F7EE6C4%21105&authkey=AEPdbiftPw6Ct8E
 
 #EXTINF:-1 tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/92/ESBC1400002MN_20220412T141122.png" group-title="ENTRETENIMIENTO",Entrena Virtual by Vikika
 https://d1b3ih5h5mvhe9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xzw42c0gbtlyw-prod/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
