@@ -1,8 +1,8 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/argentina-flag-with-soccer-ball-background-vector-id529977489?k=20&m=529977489&s=170667a&w=0&h=9syx6_Bbox6Qb_IvmKcbV8ajCqyXfyG6CgfYAf_4c2w= " group-title="EVENTOS DEPORTIVOS", SSIPTV ARG SPORTS 3
-https://live.seo.tv.bo/live/6SEO.m3u8
+#EXTINF:-1  " group-title="EVENTOS DEPORTIVOS", ESPN HD
+http://131.196.194.2:8000/play/a0ew/index.m3u8
 
 
 
