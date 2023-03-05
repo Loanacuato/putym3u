@@ -135,7 +135,7 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 #EXTINF:-1 group-title="NACIONALES 2”,DEPORTE TV 24.1
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w1909906624.m3u8
 
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="NACIONALES", TyC SPORTS
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="EVENTOS DEPORTIVOS", TyC SPORTS
 http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/34686
 
 #EXTINF:-1 group- title="NACIONALES 2", GARAJE TV
@@ -1187,8 +1187,8 @@ http://s8.stweb.tv/unlam/video2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://antena91.com.ar/wp-content/uploads/2022/05/LOGO-nuevo-a91fm-1.png" group-title="AMBA", A91 FM 90.9 ANTENA 91 LOMAS DE ZAMORA
 https://tuvideoonline.com.ar:3393/live/antena91live.m3u8
 
-#EXTINF:-1 tvg-logo="http://fm1049.com.ar/wp-content/uploads/2017/10/TOP.png" group-title="AMBA", RADIO TOP 104.9 FM  
-http://inliveserver.com:1935/14082/14082/playlist.m3u8  
+#EXTINF:-1  group-title="CULTURA", DISCOVERY CHANNEL  
+  http://131.196.194.2:8000/play/a0c9/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s83607/images/logod.jpg?t=157062" group-title="AMBA", CADENA 1470 AM LANUS
 https://stmvideo1.livecastv.com/am1470/am1470/playlist.m3u8
