@@ -2846,8 +2846,8 @@ https://ss2.domint.net:3206/rv_str/rvida/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sanisidrotv.com/wp-content/uploads/2020/10/logo-san-isidro-tv-png-1-300x221.png" group-title="REP DOMINICANA", San Isidro TV
 https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://dominicanchannels.net/wp-content/uploads/2019/05/sitv.png" group-title="REP DOMINICANA", SiTV
-http://190.122.104.221/Player/sitv.m3u8
+#EXTINF:-1  group-title="ENTRETENIMIENTO 2", E entertaim
+http://200.110.169.237:8202/play/a01k
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTuRMkk4N69cKTQuCdqpspXbwFkgbTAMjz-sMrj=s900-c-k-c0x00ffffff-no-rj" group-title="REP DOMINICANA", SPORT VISION CANAL 35
 https://5fa5de1a545ae.streamlock.net/sportvision35tv/sportvision35tv/playlist.m3u8
