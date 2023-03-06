@@ -982,8 +982,8 @@ https://videostream01.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8
 #EXTINF:-1 tvg-logo="https://urbanaplayfm.com/file/2022/05/logo.png" group-title="AMBA", URBANA PLAY 104.3 FM (SOLO AUDIO)
 https://vmf.edge-apps.net/playlist/urbana.m3u8/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.radioan24.com.ar/wp-content/uploads/2020/11/logo-radiotvan24-272X136-definitivo.png" group-title="AMBA", AN24
-https://5f700d5b2c46f.streamlock.net/tvan24/tvan24/chunklist_w1870422688.m3u8
+#EXTINF:-1  group-title="EVENTOS DEPORTIVOS", ESPN 4
+http://131.196.194.2:8000/play/a0by/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/d4611bb5de55a463af7b7af2ee821d06.png" group-title="AMBA", SONIDO SUR TV
 https://streamcasthd.com:1936/sonidosurtv/sonidosurtv/playlist.m3u8
