@@ -132,13 +132,13 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 
 
-#EXTINF:-1 group-title="NACIONALES 2”,DEPORTE TV 24.1
+#EXTINF:-1 group-title="EVENTOS DEPORTIVOS”,DEPORTE TV 24.1
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w1909906624.m3u8
 
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="EVENTOS DEPORTIVOS", TyC SPORTS
 http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/34686
 
-#EXTINF:-1 group- title="NACIONALES 2", GARAJE TV
+#EXTINF:-1 group- title="NACIONALES", GARAJE TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w501244001_b1296000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="Telesur.ve" tvg-logo="https://image.roku.com/developer_channels/prod/b1775f8ede21fb711fd46f4c273f39f7e0869a6901a5660c8bca90ecaaf14934.png" group-title="NOTICIAS", TELESUR 25.4
@@ -364,7 +364,7 @@ https://srv1.zcast.com.br/x24hd/x24hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCbsG_5lOKcWAENfOGqnua-MTnwl2Y908bZBlFMgs-HzUXQy2PkOaV-BFAilWDjJlbfg&usqp=CAU" group-title="SANTA FE", CANAL 3 ROSARIO
 https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/9730866.jpg" group-title="SANTA FE", CANAL LUZ
+#EXTINF:-1 tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/9730866.jpg" group-title="RELIGION", CANAL LUZ
 https://g4.vxral-hor.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1552046129801580548/aPHfyis0_400x400.jpg" group-title="PCIA BS AS", CANAL 8 MAR DEL PLATA
@@ -1190,8 +1190,8 @@ https://tuvideoonline.com.ar:3393/live/antena91live.m3u8
 #EXTINF:-1  group-title="CULTURA", DISCOVERY CHANNEL  
   http://131.196.194.2:8000/play/a0c9/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s83607/images/logod.jpg?t=157062" group-title="AMBA", CADENA 1470 AM LANUS
-https://stmvideo1.livecastv.com/am1470/am1470/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s83607/images/logod.jpg?t=157062" group-title="EVENTOS DEPORTIVOS", ESPN 3 HD
+http://131.196.194.2:8000/play/a0ee/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kDPCvojQb2E/X_Q5MnzksRI/AAAAAAAAJGk/SGon23v2K3UO2gI7MIFoSiNkSxYULDN4ACK4BGAYYCw/s1600/345.png" group-title="AMBA", RADIO ROCHA AM 1570 LA PLATA
