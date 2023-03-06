@@ -979,8 +979,8 @@ http://200.110.169.237:8202/play/a026
 #EXTINF:-1  group-title="EVENTOS DEPORTIVOS", ESPN CO
 http://131.196.194.2:8000/play/a0bi/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://urbanaplayfm.com/file/2022/05/logo.png" group-title="AMBA", URBANA PLAY 104.3 FM (SOLO AUDIO)
-https://vmf.edge-apps.net/playlist/urbana.m3u8/play.m3u8
+#EXTINF:-1  group-title="EVENTOS DEPORTIVOS", TN HD
+http://131.196.194.2:8000/play/a0eb/index.m3u8
 
 #EXTINF:-1  group-title="EVENTOS DEPORTIVOS", ESPN 4
 http://131.196.194.2:8000/play/a0by/index.m3u8
