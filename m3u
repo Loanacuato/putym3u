@@ -976,8 +976,8 @@ https://59537faa0729a.streamlock.net/radio1045/radio1045/playlist.m3u8
 #EXTINF:-1  group-title="EVENTOS DEPORTIVOS", WIN SPORT
 http://200.110.169.237:8202/play/a026
 
-#EXTINF:-1 tvg-logo="https://beatsradio.com.ar/imagenes/logo.png" group-title="AMBA", BEATS - 100.5 FM - TIGRE
-https://videostream01.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8
+#EXTINF:-1  group-title="EVENTOS DEPORTIVOS", ESPN CO
+http://131.196.194.2:8000/play/a0bi/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://urbanaplayfm.com/file/2022/05/logo.png" group-title="AMBA", URBANA PLAY 104.3 FM (SOLO AUDIO)
 https://vmf.edge-apps.net/playlist/urbana.m3u8/play.m3u8
