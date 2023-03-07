@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1  tvg-logo="Espn HD.png " group-title="EVENTOS DEPORTIVOS", ESPN HD
+#EXTINF:-1  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/8/87/Espn%2B.png" group-title="EVENTOS DEPORTIVOS", ESPN HD
 http://131.196.194.2:8000/play/a0ed/index.m3u8
 
 
