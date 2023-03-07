@@ -3023,8 +3023,8 @@ https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/_0sQVkpVmGSk/TIX_304VIOI/AAAAAAAAAIM/YxMcjC8BGqo/s1600/LOGO%2520SOLIDARIA%2520TV%2520corel%252011.jpg" group-title="RELIGION", SOLIDARIA TV ARGENTINA
 https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/715589106680664064/hDkHPWuV_400x400.jpg" group-title="RELIGION", VIENTO RECIO NEUQUEN
-https://mediacp.hostradios.com.ar:19360/8092/8092.m3u8
+#EXTINF:-1  group-title="PELÍCULAS", DEADPOOL
+http://tvpremiumhd.club/lista-gratuita/161210/on/v2.php?id=archive.org/download/DeSRREGIO_201802/DeSRREGIO.mkv
 
 #EXTINF:-1  group-title="RELIGION", ENLACE PARA NORA
 http://200.110.169.237:8202/play/a00q
