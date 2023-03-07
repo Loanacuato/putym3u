@@ -979,7 +979,7 @@ http://200.110.169.237:8202/play/a026
 #EXTINF:-1  group-title="EVENTOS DEPORTIVOS", ESPN CO
 http://131.196.194.2:8000/play/a0bi/index.m3u8
 
-#EXTINF:-1  group-title="EVENTOS DEPORTIVOS", TN HD
+#EXTINF:-1  group-title="NOTICIAS", TN HD
 http://131.196.194.2:8000/play/a0eb/index.m3u8
 
 #EXTINF:-1  group-title="EVENTOS DEPORTIVOS", ESPN 4
@@ -1270,8 +1270,8 @@ https://s24.myradiostream.com/14984/listen.mp3
 #EXTINF:-1 tvg-logo="https://launoenvivo.com/LaUno.png" group-title="AMBA", LA UNO RADIO  (SOLO AUDIO)
 https://playerservices.streamtheworld.com/api/livestream-redirect/UNO.mp3
 
-#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/8d/02/8d02ab7055e82b4a4d6deb9ffff0d6e0.jpg" group-title="AMBA", RADIO BELGRANO (SOLO AUDIO)
-http://server.laradio.online:25223/live.mp3 
+#EXTINF:-1 group-title="EVENTOS DEPORTIVOS", TNT SPORT
+ http://kaoztv.com:80/play/vAWBiFlolj1G186tUZVI0CJ1CxwxvlbGyhQ64CgFBes/ts
 
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/Pg5tZKG6WX.jpg" group-title="AMBA", RADIO ARGENTINA AM 750 (SOLO AUDIO)
 http://server.laradio.online:25224/live.mp3
