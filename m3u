@@ -1049,8 +1049,8 @@ https://panel.dattalive.com/MetropolitanaFM/MetropolitanaFM/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/116524_Azahares_Radio_multimedia.png" group-title="CORRIENTES", RADIO AZAHARES FM 101.5 CORRIENTES
 http://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.classfm.com.ar/images/cabecera.png" group-title="AMBA", RADIO CLASS 91.9 FM SAENZ PEÑA
-https://streamcasthd.com:1936/classfmtv/classfmtv/playlist.m3u8
+#EXTINF:-1  group-title="EVENTOS DEPORTIVOS", TYC SPORT INTERNACIONAL 
+http://higherpro.xyz:8080/live/restreambestlive/w4e7kFKr29Ya/51516.ts
 
 #EXTINF:-1 tvg-logo="https://image.freepik.com/vector-gratis/inspiracion-diseno-logotipo-microfono_57043-231.jpg" group-title="AMBA", TRADICIONAL AM 1340 
 https://streamcasthd.com:19360/radiotradicional1340/radiotradicional1340.m3u8
