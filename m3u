@@ -1184,8 +1184,8 @@ https://59537faa0729a.streamlock.net/universoradio895/universoradio895/playlist.
 #EXTINF:-1 tvg-logo="http://www.fm891.com.ar/wp-content/uploads/2020/07/logo_horizontal_20.png" group-title="AMBA", FM 89.1 RADIO UNIVERSIDAD SAN JUSTO
 http://s8.stweb.tv/unlam/video2/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://antena91.com.ar/wp-content/uploads/2022/05/LOGO-nuevo-a91fm-1.png" group-title="AMBA", A91 FM 90.9 ANTENA 91 LOMAS DE ZAMORA
-https://tuvideoonline.com.ar:3393/live/antena91live.m3u8
+#EXTINF:-1  group-title="EVENTOS DEPORTIVOS", DIRECTV SPORT
+http://higherpro.xyz:8080/live/restreambestlive/w4e7kFKr29Ya/37803.ts
 
 #EXTINF:-1  group-title="CULTURA", DISCOVERY CHANNEL  
   http://131.196.194.2:8000/play/a0c9/index.m3u8
