@@ -1273,8 +1273,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/UNO.mp3
 #EXTINF:-1 group-title="EVENTOS DEPORTIVOS", TNT SPORT
  http://kaoztv.com:80/play/vAWBiFlolj1G186tUZVI0CJ1CxwxvlbGyhQ64CgFBes/ts
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/Pg5tZKG6WX.jpg" group-title="AMBA", RADIO ARGENTINA AM 750 (SOLO AUDIO)
-http://server.laradio.online:25224/live.mp3
+#EXTINF:-1 group-title="EVENTOS DEPORTIVOS", TNT SPORT HD
+http://higherpro.xyz:8080/live/restreambestlive/w4e7kFKr29Ya/51512.ts
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-gub1ViWmc08/WgHzj6SZG2I/AAAAAAAAAFo/azgNVKktybQbif7pmBmBdyan1rVtM6sqwCK4BGAYYCw/s1600/PLAY%2BHOR%2BSONICO.png" group-title="SANTA FE", PLAY SONICO
 https://stmvideo1.livecastv.com/maldonadowalter/maldonadowalter/playlist.m3u8
