@@ -271,7 +271,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0274
 #EXTINF:-1 group-title="CÓRDOBA", EL DOCE CÓRDOBA
 https://www.youtube.com/watch?v=IUQyg-SFvXQ
 
-#EXTINF:-1 grupo-titulo="EVENTOS DEPORTIVOS", FOX SPORT 2 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Fox_sports_2.png" grupo-titulo="EVENTOS DEPORTIVOS", FOX SPORT 2 HD
 http://131.196.194.2:8000/play/a0ef/index.m3u8
 
 #EXTINF:-1 group-title="TUCUMAN", AMERICA TUCUMAN
