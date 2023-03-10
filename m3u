@@ -27,7 +27,7 @@ http://131.196.194.2:8000/play/a0ex/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/ESPN_4_logo.svg" grupo- title="EVENTOS DEPORTIVOS", ESPN 4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" grupo- title="EVENTOS DEPORTIVOS", ESPN 4
 http://8.242.187.233:5800/play/a0br/index.m3u8
 
 
