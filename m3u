@@ -66,7 +66,7 @@ https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-10005
 
 
 
-#EXTINF:-1 tvg-group-title="NOTICIAS", C5N
+#EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/c/c9/C5N_Logo_2015.PNG"group-title="NOTICIAS", C5N
 http://nmstreaming.live:25461/RamonMx/HMurUsxUyz52/210834
 
 #EXTINF:-1 tvg-group-title="NOTICIAS", LN+   
