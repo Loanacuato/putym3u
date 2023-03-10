@@ -52,7 +52,7 @@ http://131.196.194.2:8000/play/a0f5/index.m3u8
 
 
 
-#EXTINF:-1 group-title="NOTICIAS", CANAL 26
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Canal_26_Argentina.png" group-title="NOTICIAS", CANAL 26
 http://nmstreaming.live:25461/RamonMx/HMurUsxUyz52/210841
 
 
