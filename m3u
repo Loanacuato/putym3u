@@ -321,8 +321,8 @@ https://stmvideo1.livecastv.com/ucuweb1/ucuweb1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/1265_Tvmaxcba.png" group-title="CORDOBA", TVMAX CBA
 https://panel.dattalive.com/8106/8106/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.5900.tv/wp-content/uploads/2020/12/somos-villa-maria.jpg" group-title="CORDOBA", SOMOS VILLA MARIA
-https://stream.arcast.net:4443/villamaria/villamaria/chunklist_w1651385408.m3u8
+#EXTINF:-1  group-title="EVENTOS DEPORTIVOS", DIRECTV HD
+http://likmodguot.site:2082/rocky21rocky21/rocky21hbfaufb/245636
 
 #EXTINF:-1 grupo-titulo="CÓRDOBA", 5900 TV
 https://www.youtube.com/watch?v=gFvnbKiheaI
