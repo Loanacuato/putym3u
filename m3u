@@ -388,8 +388,8 @@ http://likmodguot.site:2082/rocky21rocky21/rocky21hbfaufb/245635
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-KCqAdPir4u0/XrYMI6iIs_I/AAAAAAAA0h4/UaFlSVSv3Foz_7161A3vWWA5kkH4RTZbQCK8BGAsYHg/s0/2020-05-08.png" group-title="SALTA", CANAL 7 SALTA
 https://panel.dattalive.com/8074/8074/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/856175574116683777/HnWIt3t9_400x400.jpg" group-title="SALTA", MILENIUM TV SALTA
-https://video.alfasocialmedia.com.ar:3396/live/milleniumtvlive.m3u8
+#EXTINF:-1  group-title="EVENTOS DEPORTIVOS", DIRECTV SPORT 3 HD
+http://likmodguot.site:2082/rocky21rocky21/rocky21hbfaufb/245635
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu8AifvnmhrNYM36UH99NdJO14YedM9NZLkdDQWyRQ=s900-ck-c0x00ffffff-no-rj" group-title="SALTA", CANAL 18 SALTA
 https://59537faa0729a.streamlock.net/canalglobaltv/canalglobaltv/playlist.m3u8
