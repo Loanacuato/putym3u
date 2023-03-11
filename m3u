@@ -274,7 +274,7 @@ https://www.youtube.com/watch?v=IUQyg-SFvXQ
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Fox_sports_2.png" grupo-titulo="EVENTOS DEPORTIVOS", FOX SPORT 2 HD
 http://131.196.194.2:8000/play/a0ef/index.m3u8
 
-#EXTINF:-1 group-title="TUCUMAN", AMERICA TUCUMAN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Am%C3%A9rica_Tucum%C3%A1n_Canal_28.1_%282019-1%29.png"group-title="TUCUMAN", AMERICA TUCUMAN
 https://ythls.onrender.com/channel/UCZ8sgVyD7HqDor8ujB-TZpg.m3u8
 
 #EXTINF:-1 grupo-titulo="MENDOZA", CANAL 7 MENDOZA
