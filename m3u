@@ -982,7 +982,7 @@ http://131.196.194.2:8000/play/a0bi/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Logo_TN_2016.png"group-title="NOTICIAS", TN HD
 http://131.196.194.2:8000/play/a0eb/index.m3u8
 
-#EXTINF:-1  group-title="EVENTOS DEPORTIVOS", ESPN 4
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/ESPN.png"group-title="EVENTOS DEPORTIVOS", ESPN 4
 http://131.196.194.2:8000/play/a0by/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png"group-title="CINE", TNT HD
