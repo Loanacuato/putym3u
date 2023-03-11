@@ -973,7 +973,7 @@ https://59537faa0729a.streamlock.net/radio1045/radio1045/playlist.m3u8
 
 
 
-#EXTINF:-1  group-title="EVENTOS DEPORTIVOS", WIN SPORT
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Win_Sport_logo.png"group-title="EVENTOS DEPORTIVOS", WIN SPORT
 http://200.110.169.237:8202/play/a026
 
 #EXTINF:-1  group-title="EVENTOS DEPORTIVOS", ESPN CO
