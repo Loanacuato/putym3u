@@ -382,13 +382,13 @@ https://panel.dattalive.com:443/8166/8166/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/xOkdlwpIeM1Do72p9sEkUjRGc83UJCAQA2bwBCvJak9h012FISHmUaJ2vp9Z4W1i6g=s180" group-title="SALTA", NEOX TV SALTA
 https://streamcasthd.com:19360/sonicaargentina/sonicaargentina.m3u8
 
-#EXTINF:-1  group-title="EVENTOS DEPORTIVOS", DIRECTV SPORT 2HD
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png"group-title="EVENTOS DEPORTIVOS", DIRECTV SPORT 2HD
 http://likmodguot.site:2082/rocky21rocky21/rocky21hbfaufb/245635
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-KCqAdPir4u0/XrYMI6iIs_I/AAAAAAAA0h4/UaFlSVSv3Foz_7161A3vWWA5kkH4RTZbQCK8BGAsYHg/s0/2020-05-08.png" group-title="SALTA", CANAL 7 SALTA
 https://panel.dattalive.com/8074/8074/playlist.m3u8
 
-#EXTINF:-1  group-title="EVENTOS DEPORTIVOS", DIRECTV SPORT 3 HD
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png"group-title="EVENTOS DEPORTIVOS", DIRECTV SPORT 3 HD
 http://likmodguot.site:2082/rocky21rocky21/rocky21hbfaufb/245635
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu8AifvnmhrNYM36UH99NdJO14YedM9NZLkdDQWyRQ=s900-ck-c0x00ffffff-no-rj" group-title="SALTA", CANAL 18 SALTA
