@@ -1187,7 +1187,7 @@ http://s8.stweb.tv/unlam/video2/chunks.m3u8
 #EXTINF:-1  group-title="EVENTOS DEPORTIVOS", DIRECTV SPORT
 http://higherpro.xyz:8080/live/restreambestlive/w4e7kFKr29Ya/37803.ts
 
-#EXTINF:-1  group-title="CULTURA", DISCOVERY CHANNEL  
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Casi_Discovery_HD.png"group-title="CULTURA", DISCOVERY CHANNEL  
   http://131.196.194.2:8000/play/a0c9/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s83607/images/logod.jpg?t=157062" group-title="EVENTOS DEPORTIVOS", ESPN 3 HD
