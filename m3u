@@ -157,7 +157,7 @@ http://131.196.194.2:8000/play/a09m/index.m3u8
 http://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
 
 
-#EXTINF:-1  group-title="INFANTILES", BABY TV
+#EXTINF:-1  tvg-logo=" https://upload.wikimedia.org/wikipedia/de/5/53/Babyfirst_logo.png" group-title="INFANTILES", BABY TV
 http://200.110.169.237:8202/play/a00s
 
 #EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/news/640/amz/worldservice/live/assets/images/2012/01/31/120131193926_hispantv_logo_304x171__nocredit.jpg" group-title= "NOTICIAS", HISPAN TV
