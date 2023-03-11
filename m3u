@@ -979,7 +979,7 @@ http://200.110.169.237:8202/play/a026
 #EXTINF:-1  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png"group-title="EVENTOS DEPORTIVOS", ESPN CO
 http://131.196.194.2:8000/play/a0bi/index.m3u8
 
-#EXTINF:-1  group-title="NOTICIAS", TN HD
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Logo_TN_2016.png"group-title="NOTICIAS", TN HD
 http://131.196.194.2:8000/play/a0eb/index.m3u8
 
 #EXTINF:-1  group-title="EVENTOS DEPORTIVOS", ESPN 4
