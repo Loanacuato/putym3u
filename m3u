@@ -397,8 +397,8 @@ https://59537faa0729a.streamlock.net/canalglobaltv/canalglobaltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-E_k6h1uVYe8/YHscpANLtMI/AAAAAAABBpM/x5nyrtk-tdMKfI9neaRMx8d0rXhI0DgYACK8BGAsYHg/s512/2021-04-17.jpg" group-title="SALTA", CANAL 10 NORTEVISIÓN
 https://vivo.solumedia.com:19360/nortevision/nortevision.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-hG84H0QxC34/XjtD8OwAKBI/AAAAAAAAvpQ/Lhs3FJpP72UaHBX4n9lp5dpsTZmU8Ya_gCK8BGAsYHg/s0/2020-02-05.png" group-title="SALTA", MULTIVISION SALTA
-https://panel.dattalive.com/8250/8250/.m3u8
+#EXTINF:-1 group-title="PELÍCULAS", CAPITAN AMÉRICA 
+http://tvpremiumhd.club/lista-gratuita/161210/on/vod.php?cid=73D04C32DB476597&resid=73D04C32DB476597%21106&authkey=APzKm9Ez9pTWPzo
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1460346406993108995/2RunknLb_400x400.jpg" group-title="SALTA", 10 DE SALTA
 https://restreamer.el10tv.com/memfs/725003c4-79c2-4565-8311-f429db4f7777.m3u8
