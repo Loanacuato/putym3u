@@ -1327,7 +1327,7 @@ http://200.58.106.247:8898/;stream.mp3
 #EXTINF:-1 tvg-logo="https://scontent.faep4-2.fna.fbcdn.net/v/t39.30808-1/303184694_974229023521111_7132481553175130906_n.jpg?stp=dst-jpg_p200x200&_nc_cat=107&ccb=1-7&_nc_sid=c6021c&_nc_eui2=AeHwUlU-zeGl2CTghsCh_n50pRMi6pRuwF2lEyLqlG7AXVQ6FWLvXSPDs8xjBSpIQGc&_nc_ohc=vbhigIgwtbwAX9ViVkp&_nc_ht=scontent.faep4-2.fna&oh=00_AfCrzgcuy2cPyy0cUL63eHgADvpu8QTWBLEqigUbVzze6g&oe=6377BD7B" group-title="LA PAMPA", CADENA ENERGY (SOLO AUDIO)
 http://innovatingthenet.com.ar:8001/energyai.mp3
 
-#EXTINF:-1  group-title="EVENTOS DEPORTIVOS", FOX SPORT 3
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Fox_Sports_3_Logo_2022.png" group-title="EVENTOS DEPORTIVOS", FOX SPORT 3
 http://131.196.194.2:8000/play/a0cn/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.radiobdc.net.ar/logo-web-chico.png" group-title="LA PAMPA", BDC 106.9 FM - SANTA ROSA (SOLO AUDIO)
