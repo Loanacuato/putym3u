@@ -560,8 +560,8 @@ http://51.79.83.93:9998/live/delsurtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-34-san-juan.png" group-title="SAN JUAN" , CANAL 34 SAN JUAN
 http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3720036066/64995b5df909d36608df78a24638afc6_400x400.jpeg" group-title="SAN JUAN", RADIO BLU SAN JUAN
-https://59537faa0729a.streamlock.net/radioblu/radioblu/playlist.m3u8
+#EXTINF:-1  group-title="ESTRENOS", VERTIGO
+http://play.flamaplus.tv:80/play/54CjwLOLFrcvI664aivu6wp4idcHrTrnXwPdrWf45htebJ6w6dPt7bI5NXt95no3
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="SAN JUAN", CANAL 79 SAN JUAN
 https://streamconex.com:1936/sanjuan/sanjuan/chunklist_w759674935.m3u8
