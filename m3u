@@ -788,8 +788,8 @@ https://vivo.solumedia.com:19360/celta/celta.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/461996477468778496/01djHylv.jpeg" group-title="PCIA BS AS", BRAGADO TV
-https://inliveserver.com:1936/17044/17044/playlist.m3u8
+#EXTINF:-1  group-title="ESTRENOS", EL GATOS CON BOTAS:EL ULTIMO DESEO
+http://play.flamaplus.tv:80/play/54CjwLOLFrcvI664aivu67wQyIvaDHec1aqDtC-_i0A1rVR421F63ZERa8qkm54b
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-OK87fh0FDss/X1TJ_IQLsnI/AAAAAAAA5Tw/Kqs7XCSrP1caCJnMnM3nrIPhHV02XZMzQCK8BGAsYHg/s0/2020-09-06.png" group-title="PCIA BS AS", POTENCIA alta definición
 https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8
