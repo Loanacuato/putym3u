@@ -428,8 +428,8 @@ https://5f700d5b2c46f.streamlock.net/vtvmendoza/vtvmendoza/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-1Be1pl8LDls/T0xCN4AbfhI/AAAAAAAASb8/YSBQlW4zUMc/s1600/tveomendoza.png" group-title="MENDOZA", TVEO MENDOZA
 https://5b3050bb1b2d8.streamlock.net/viviloendirecto/viviloendirecto/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1478000168016433152/2oEULfiP_400x400.png" group-title="MENDOZA", COOPE TV
-https://livedge-st1.video.bustream.com/coopetv/smil:rates.smil/playlist.m3u8
+#EXTINF:-1  group-title="EVENTOS DEPORTIVOS", TIGO SPORT 2
+http://clubtv.link/mar1023/top7740/winand2.php?c=340&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2751264928/0facb64f7c7468a07681c5f27874d9a4_400x400.png" group-title="MENDOZA", CANAL 8 VALLE DE UCO
 https://videostream.shockmedia.com.ar:19360/canal8/canal8.m3u8
