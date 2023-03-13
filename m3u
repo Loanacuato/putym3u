@@ -400,8 +400,8 @@ https://vivo.solumedia.com:19360/nortevision/nortevision.m3u8
 #EXTINF:-1 group-title="PELÍCULAS", CAPITAN AMÉRICA 
 http://tvpremiumhd.club/lista-gratuita/161210/on/vod.php?cid=73D04C32DB476597&resid=73D04C32DB476597%21106&authkey=APzKm9Ez9pTWPzo
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1460346406993108995/2RunknLb_400x400.jpg" group-title="SALTA", 10 DE SALTA
-https://restreamer.el10tv.com/memfs/725003c4-79c2-4565-8311-f429db4f7777.m3u8
+#EXTINF:-1 group-title="PELÍCULAS", ROCKY 3.
+http://play.flamaplus.tv:80/play/54CjwLOLFrcvI664aivu69UnGqiirSG_00mWdK6c8Ir1ve0FChbDtA_R0Q8IsAOR
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b7b640_979e29e625374f56818318d29761e139~mv2.png/v1/fill/w_106,h_99,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ logo%20stv%202022%20png%20mosca.png" group-title="SALTA", ESPACIO TV METAN SALTA
 https://stream.arcast.live/spaciotv/ngrp:spaciotv_all/playlist.m3u8
