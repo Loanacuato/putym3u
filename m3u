@@ -490,8 +490,8 @@ https://stmvideo1.livecastv.com/mundomusical/mundomusical/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQY_HK9O5T7Eaq_O2DNcf4tFtbLkqWOmleAzQ&usqp=CAU" group-title="SANTA FE", PLAY TELEVISION SANTA FE
 https://vivo.solumedia.com:19360/playtv/playtv.m3u8
 
-#EXTINF:-1 tvg-logo="https://nuevomundotv.com.ar/images/logonm.svg" group-title="SANTA FE", NUEVO MUNDO CARCARAÑA
-https://tecnica.nuevomundotv.com.ar:446/hls/canal10_480p1128kbs/index.m3u8
+#EXTINF:-1  group-title="EVENTOS DEPORTIVOS", TIGO SPORT
+http://clubtv.link/mar1023/top7740/winand2.php?c=339&f=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://maximaceres.com/wp-content/uploads/2022/03/cropped-logomaximafm.png" group-title="SANTA FE", MAXIMA FM 95.5 FM CERES
