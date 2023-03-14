@@ -930,8 +930,8 @@ https://streamcasthd.com:1936/somosgchu/somosgchu/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-10-neuquen-tv.png" group-title="NEUQUEN", CANAL 10 NEUQUÉN
 https://stmv1.srvstm.com/tv10/tv10/playlist.m3u8   
 
-#EXTINF:-1 tvg-logo="https://www.amcumbre.com/wp-content/uploads/2021/11/logo-negro.png" group-title="NEUQUEN", CUMBRE AM 1400
-https://streamcasthd.com:19360/amcumbre1400tv/amcumbre1400tv.m3u8
+#EXTINF:-1 group-title="EVENTOS DEPORTIVOS", DIRECTV SPORT PLUS
+http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/8520
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="PCIA BS AS", CANAL 79 MAR DEL PLATA
 https://streamconex.com:1936/mardelplata/mardelplata/chunklist_w21108276.m3u8
