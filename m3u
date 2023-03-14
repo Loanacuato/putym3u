@@ -391,8 +391,8 @@ https://panel.dattalive.com/8074/8074/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png"group-title="EVENTOS DEPORTIVOS", DIRECTV SPORT 3 HD
 http://likmodguot.site:2082/rocky21rocky21/rocky21hbfaufb/245635
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu8AifvnmhrNYM36UH99NdJO14YedM9NZLkdDQWyRQ=s900-ck-c0x00ffffff-no-rj" group-title="SALTA", CANAL 18 SALTA
-https://59537faa0729a.streamlock.net/canalglobaltv/canalglobaltv/playlist.m3u8
+#EXTINF:-1  group-title="CINE" HBO HD..
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJmscx8BV1o5Ii7e1bsluEh0/ts
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-E_k6h1uVYe8/YHscpANLtMI/AAAAAAABBpM/x5nyrtk-tdMKfI9neaRMx8d0rXhI0DgYACK8BGAsYHg/s512/2021-04-17.jpg" group-title="SALTA", CANAL 10 NORTEVISIÓN
 https://vivo.solumedia.com:19360/nortevision/nortevision.m3u8
