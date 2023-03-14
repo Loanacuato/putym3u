@@ -1944,8 +1944,8 @@ https://59ce1298bfb98.streamlock.net/pirapeytv/pirapeytv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1222519766193262597/UZsxHbU4_400x400.png" group-title="PARAGUAY", RCC
 https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.senado.gov.py/images/logos-iconos/boton-senadotv.png" group-title="PARAGUAY", SENADO TV
-https://59ce1298bfb98.streamlock.net/tvsenadopy/tvsenadopy/playlist.m3u8
+#EXTINF:-1 group-title="CINE", HBO HD.
+http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/4112
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1467813575402135561/Te07-zBu_400x400.jpg" group-title="PARAGUAY", SOMOS DEL ESTE TV
 https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8
