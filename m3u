@@ -416,8 +416,8 @@ https://vivo.solumedia.com:19360/radiosalta/radiosalta.m3u8
 https://9ae1-2803-9800-a404-80e0-ed95-40e0-c3c4-2869.sa.ngrok.io/hls/stream.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSCInK8RGqWtu191slIer7HKe6io1ngczZbkQ&usqp=CAU" group-title="ENTRE RIOS", CANAL 5 TV COLONIA AVELLANEDA ENTRE RIOS
-https://srv3.zcast.com.br/carlosr/carlosr/playlist.m3u8
+#EXTINF:-1  group-title="NACIONALES", EL TRECE.
+http://coresys.dvrdns.org:8080/movie/CarlosL1982/SkXbNRQxtEZS/80625.php?section=vod&vod=26605
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80286_Canal_9_Televida_Mendoza.png" group-title="MENDOZA", CANAL 9 MENDOZA
 https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/playlist.m3u8
