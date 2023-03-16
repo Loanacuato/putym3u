@@ -419,8 +419,8 @@ https://9ae1-2803-9800-a404-80e0-ed95-40e0-c3c4-2869.sa.ngrok.io/hls/stream.m3u8
 #EXTINF:-1  group-title="NACIONALES", EL TRECE.
 http://coresys.dvrdns.org:8080/movie/CarlosL1982/SkXbNRQxtEZS/80625.php?section=vod&vod=26605
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80286_Canal_9_Televida_Mendoza.png" group-title="MENDOZA", CANAL 9 MENDOZA
-https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/playlist.m3u8
+#EXTINF:-1  group-title="PELÍCULAS", RAPIDO Y FURIOSO 2002
+http://play.flamaplus.tv:80/play/54CjwLOLFrcvI664aivu65ZclhIjC2gyLT4gEgqbt4fYhrTlyL5R2lKOhvWH8f6W
 
 #EXTINF:-1 tvg-logo="https://surmedios.com/wp-content/uploads/2021/01/cropped-logosur5www.png" group-title="MENDOZA", SUR MEDIOS MENDOZA
 https://5f700d5b2c46f.streamlock.net/vtvmendoza/vtvmendoza/playlist.m3u8
