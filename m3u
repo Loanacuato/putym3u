@@ -899,8 +899,8 @@ http://arcast.net:1935/correadigital/canal12/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.trutv.com.ar/wp-content/uploads/2018/05/logro-tru.png" group-title="CORDOBA", TELEVISION REGIONAL UNIMARC CORDOBA
 https://vivo.solumedia.com:19360/trutv/trutv.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY63nVBAYYZYuND4n-jl7fRGHGv_1k_8zhaZPxKkbwxw&s" group-title="CATAMARCA", CANAL 8 CATAMARCA
-https://stream.arcast.com.ar/c8/c8/playlist.m3u8
+#EXTINF:-1 group-title="PELÍCULAS", CANDIMAN 2021
+http://coresys.dvrdns.org:8080/movie/CarlosL1982/SkXbNRQxtEZS/35095.mkv
 
 #EXTINF:-1 tvg-logo="https://images.radiovolna.net/_files/images/stations/426070/2da1b806d0d1350d71315d315a177c8b_165x165.webp" group-title="CATAMARCA", LTO CATAMARCA
 https://ltocatamarca.github.io/ltotv.m3u8
