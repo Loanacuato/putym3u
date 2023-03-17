@@ -373,8 +373,8 @@ http://45.160.15.130:2909/play/212
 #EXTINF:-1  group-title="CINE", HBO 2 HD CH
 http://45.160.15.130:2909/play/021
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/735615592665776128/usyzdWVo_400x400.jpg" group-title="PCIA BS AS", CANAL 2 MAR DEL PLATA
-https://streamcasthd.com:19360/canal2mdptv/canal2mdptv.m3u8
+#EXTINF:-1  group-title="NACIONALES", CANAL 13 AR
+http://kuchini.site:8080/F20436/a96aaf00/3194
 
 #EXTINF:-1 tvg-logo="https://canal6mardelplata.weebly.com/uploads/1/4/0/1/140190766/published/89617673-666063307530186-6373931604150059008-n.jpg?1639521855" group-title= "PCIA BS AS", CANAL 6 MAR DEL PLATA
 https://panel.dattalive.com:443/8166/8166/playlist.m3u8
