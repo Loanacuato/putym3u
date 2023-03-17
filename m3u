@@ -914,8 +914,8 @@ https://streamcasthd.com:19360/radiovision939/radiovision939.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWaACc-zF5PmhahmiDut_LS_qbu540xdh-pVF1eWqYkimEfjug1pmJ2sqixfitdZybBzw&usqp=CAU" group-title="CATAMARCA", CANAL 7 SAUJIL
 https://streamcasthd.com:19360/canal7saujil/canal7saujil.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/222de252157921c96968b4ef1632e965.png" group-title="MISIONES", Canal 2 Misiones
-https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
+#EXTINF:-1  group-title="CINE", HBO 2..
+http://168.121.46.90:4000/play/a00l/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.canal21tv.com.ar/images/00Logo_canal_21_nuevo_02.png" group-title="MISIONES", CANAL 21 POSADAS
 https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/chunks.m3u8
