@@ -652,8 +652,8 @@ https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CoYFhFvorrKq_-t9jzP7ctvgW5Y
 #EXTINF:-1 tvg-logo="https://www.diariopanorama.com/img/2020/logo-navidad2021.png" group-title="SANTIAGO DEL ESTERO", DIARIO PANORAMA SANTIAGO DEL ESTERO
 https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/978088312429858816/5QYhbEew_400x400.jpg" group-title="FORMOSA", LAPACHO TV FORMOSA
-https://vivo.solumedia.com:19360/lapacho/lapacho.m3u8
+#EXTINF:-1 group-title="CINE", HBO 2
+http://168.121.46.90:4000/play/a00l/36789541.m3u8
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-XB7qQwxGgsY/WKsrFu7SEMI/AAAAAAAAUW4/nJA6XK03oeI0v0iYaxfb1J5P-zGHRWCKACLcB/s1600/logo%2Bcanal.jpg" group-title="FORMOSA", CANAL 3 FORMOSA
 https://stmvideo2.livecastv.com/agenfor/agenfor/playlist.m3u8
