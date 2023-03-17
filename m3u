@@ -527,8 +527,8 @@ https://media.neuquen.gov.ar/rtn/radio/playlist.m3u8
 #EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-logo="https://lh3.googleusercontent.com/-XAHrxHCDM7s/XjtFb5uwTDI/AAAAAAAAvpo/5p94Cjf1Um8P4waIXUAAVfX9T1x-TaeGQCK8BGAsYHg/s0/2020-02-05.png" group-title="NEUQUEN", CN 24/7 NEUQUEN
 https://panel.dattalive.com/6605140/smil:6605140.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/715589106680664064/hDkHPWuV_400x400.jpg" group-title="NEUQUEN", CANAL 6 VIENTO RECIO NEUQUEN
-https://mediacp.hostradios.com.ar:19360/8092/8092.m3u8
+#EXTINF:-1  group-title="ENTRETENIMIENTO 2", TRUE TV
+http://168.121.46.90:4000/play/a04j/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.radiomunicipalcutralco.com.ar/wp-content/uploads/2022/09/cropped-247611193_1821966111323385_795453025228538214_n-removebg-preview.png" group-title="NEUQUEN", RADIO MUNICIPAL CUTRAL CO
 https://vivo.solumedia.com:19360/patagoniadigital/patagoniadigital.m3u8
