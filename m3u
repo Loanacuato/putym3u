@@ -612,8 +612,8 @@ https://panel.dattalive.com:443/8078/8078/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000162503713/c5b486e28b11efc0cc5a4c4bd2630846_400x400.jpeg" group-title="MISIONES", CANAL 8 OBERA
 https://stmvideo1.livecastv.com/bustos/bustos/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://oberainside.com.ar/img/logo-pie.png" group-title="MISIONES", OBERA DENTRO
-https://g5.mc-hor.transport.edge-access.net/a05/ngrp:c12_live01-100129_all/c12_live01-100129_540p.m3u8
+#EXTINF:-1  group-title="EVENTOS DEPORTIVOS", ESPN 3 HD CHILE
+http://45.160.15.130:2909/play/216
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1410746538268282882/MVWRL5Pi_400x400.jpg" group-title="MISIONES", LT17 RADIO PROVINCIA
 https://media.radios.ar:19360/8004/8004.m3u8
