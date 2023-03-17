@@ -367,8 +367,8 @@ https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/p
 #EXTINF:-1 tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/9730866.jpg" group-title="RELIGION", CANAL LUZ
 https://g4.vxral-hor.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1552046129801580548/aPHfyis0_400x400.jpg" group-title="PCIA BS AS", CANAL 8 MAR DEL PLATA
-https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8
+#EXTINF:-1  group-title="EVENTOS DEPORTIVOS", ESPN HD CHILE
+http://45.160.15.130:2909/play/212
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1560238159832592384/7ZknJXxB_400x400.jpg" group-title="PCIA BS AS", CANAL 10 MAR DEL PLATA
 https://g2.vxral-slo.transport.edge-access.net/a15/ngrp:canal10mdq-100044_all/canal10mdq-100044_720p.m3u8
