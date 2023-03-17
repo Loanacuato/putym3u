@@ -536,8 +536,8 @@ https://vivo.solumedia.com:19360/patagoniadigital/patagoniadigital.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1129098446428868608/ab0xYu_B.jpg" group-title="PCIA BS AS", CANAL 12 TRENQUE LAUQUEN
-https://f6z5x8d4.stackpathcdn.com/stream_360/index.m3u8
+#EXTINF:-1  group-title="CULTURA", DISCOVERY SCIENCE
+http://168.121.46.90:4000/play/a02d/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://radioshd.stream/express/wp-content/uploads/2019/09/logo-reproductor.png" group-title="PCIA BS AS", GENESIS RADIO 94.3 FM TRENQUE LAUQUÉN
 https://srv4.zcast.com.br/basler/basler/playlist.m3u8
