@@ -1156,8 +1156,8 @@ https://panel.dattalive.com/8114/8114/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/473787355417948161/GS8lLnJy_400x400.jpeg" group-title="CHUBUT", CHUBUT TV 90.1 FM 
 https://streamyes.alsolnet.com/elchubuttv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.fmargentina.com.ar/Graficos/intro.png" group-title="NEUQUEN", FM ARGENTINA 98.9 NEUQUEN
-https://stmv1.srvstm.com/fmargentina/fmargentina/playlist.m3u8
+#EXTINF:-1  group-title="EVENTOS DEPORTIVOS", FOX SPORT 1 HD CHILE
+http://45.160.15.130:2909/play/209
 
 #EXTINF:-1 tvg-logo="https://www.radiosanjorge.com.ar/wp-content/uploads/2014/12/logonuevo-1.png" group-title="SANTA CRUZ", RADIO SAN JORGE 96.5 FM CALETA OLIVIA
 https://vivo.solumedia.com:19360/radiosanjorge/radiosanjorge.m3u8
