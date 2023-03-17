@@ -572,8 +572,8 @@ https://stmvideo2.livecastv.com/oneradio/oneradio/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://albardontv.com.ar/wp-content/uploads/2020/02/cropped-cropped-2.png" group-title="SAN JUAN", ALBARDON TV SAN JUAN
 https://vd01.streaminghd.net.ar:3056/stream/play.m3u8
 
-#EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-40-noticias.png" group-title="SAN JUAN", CANAL 40 CAUCETE
-https://canalsj.duckdns.org/canal40/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="EVENTOS DEPORTIVOS",TNT SPORT CHILE
+http://45.160.15.130:2909/play/233
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-P6gxaSGuYOY/Xjs7U_dYASI/AAAAAAAAvnc/Dj2e2bzLHdgo45TH9mqETojtcfMhKpX4wCK8BGAsYHg/s0/2020-02-05.png" group-title="CORRIENTES", 13 MAX CORRIENTES
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8
