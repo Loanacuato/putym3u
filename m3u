@@ -755,8 +755,8 @@ https://streamcasthd.com:1936/canal9riocuartotv/canal9riocuartotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.radiocanal.com.ar/imagenes/estructura/canal4.png" group-title="CORDOBA", CANAL 4 SAN FRANCISCO CORDOBA
 http://204.199.3.2/.m3u8
 
-#EXTINF:-1 tvg-logo="http://tvcoop.tv/assets/img/logoweb.png" group-title="CORDOBA", CANAL COOP JUSTINIANO POSSE
-http://csc-nod-edge01.sensa.com.ar/output/NDS/tvcoopjpH/track_0_2500/playlist.m3u8
+#EXTINF:-1  group-title="EVENTOS DEPORTIVOS", FOX SPORT 2 HD CHILE 
+http://45.160.15.130:2909/play/210
 
 #EXTINF:-1 tvg-logo="http://www.canalcoop.com.ar/images/interesgeneral/canalcoop.png" group-title="CORDOBA", CANAL COOP JESUS ​​MARIA CORDOBA
 https://panel.dattalive.com/8138/8138/playlist.m3u8
