@@ -2711,8 +2711,8 @@ https://stmv.streamingvip.click/sanvitotv/sanvitotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/1064_Soy_Plancha_TV.png" group-title="COSTA RICA", Soy Plancha TV
 https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://costaricatelevision.com/sites/default/files/styles/tv_list/public/2021-12/stv-sarapiquitv-costa-rica.png.webp?itok=GS7udggT" group-title="COSTA RICA", STV El Canal Familiar
-http://tiquiciatv.com:1935/stv/web/playlist.m3u8
+#EXTINF:-1  group-title="NACIONALES", CANAL 13 FLAMA
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJthIklaJZE49NxOlWIbA_rQ/ts
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/478_Telesistema.png" group-title="COSTA RICA", TELESISTEMA
 http://k4.usastreams.com/ARBtv/ARBtv/chunklist_w1494491629.m3u8
