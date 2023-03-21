@@ -535,7 +535,7 @@ https://vivo.solumedia.com:19360/patagoniadigital/patagoniadigital.m3u8
 
 
 
-#EXTINF:-1  group-title="CULTURA", DISCOVERY SCIENCE
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Discovery_Science_channel_logo.png"group-title="CULTURA", DISCOVERY SCIENCE
 http://168.121.46.90:4000/play/a02d/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://radioshd.stream/express/wp-content/uploads/2019/09/logo-reproductor.png" group-title="PCIA BS AS", GENESIS RADIO 94.3 FM TRENQUE LAUQUÉN
@@ -559,10 +559,10 @@ http://51.79.83.93:9998/live/delsurtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-34-san-juan.png" group-title="SAN JUAN" , CANAL 34 SAN JUAN
 http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
 
-#EXTINF:-1  group-title="ESTRENOS", VERTIGO
+#EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/1/1a/Vertigo_logo.png" group-title="ESTRENOS", VERTIGO
 http://play.flamaplus.tv:80/play/54CjwLOLFrcvI664aivu6wp4idcHrTrnXwPdrWf45htebJ6w6dPt7bI5NXt95no3
 
-#EXTINF:-1  group-title="NACIONALES", canal 13
+#EXTINF:-1 tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Canal_13_200_8.png"group-title="NACIONALES", canal 13
 http://kuchini.site:8080/F20436/a96aaf00/3194
 
 #EXTINF:-1 tvg-logo="https://oneradio1073.com/wp-content/uploads/2021/04/logo-one-png.png" group-title="SAN JUAN", ONE RADIO 107.3 SAN JUAN
@@ -571,7 +571,7 @@ https://stmvideo2.livecastv.com/oneradio/oneradio/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://albardontv.com.ar/wp-content/uploads/2020/02/cropped-cropped-2.png" group-title="SAN JUAN", ALBARDON TV SAN JUAN
 https://vd01.streaminghd.net.ar:3056/stream/play.m3u8
 
-#EXTINF:-1  group-title="EVENTOS DEPORTIVOS",TNT SPORT CHILE
+#EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png" group-title="EVENTOS DEPORTIVOS",TNT SPORT CHILE
 http://45.160.15.130:2909/play/233
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-P6gxaSGuYOY/Xjs7U_dYASI/AAAAAAAAvnc/Dj2e2bzLHdgo45TH9mqETojtcfMhKpX4wCK8BGAsYHg/s0/2020-02-05.png" group-title="CORRIENTES", 13 MAX CORRIENTES
@@ -589,7 +589,7 @@ https://stmvideo2.livecastv.com/canal7/canal7/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://scontent.faep4-2.fna.fbcdn.net/v/t39.30808-1/255506320_437792184378325_4237759260743437421_n.jpg?stp=dst-jpg_p200x200&_nc_cat=109&_ncb=1s c6021c&_nc_eui2=AeHh6m8qaKmT7-YVg_1gn6cpKCFJrOfcnZQoIUms59ydlC4rJ1UTmfDK6CF6lCQU564&_nc_ohc=sgh7Vt4BnQMAX9smVTD&_nc_ht=scontent.faep4-2.fna&oh=00_AfAp-iA9ATVK_6n6zkD3yOuWZK-B7m2spgtsKoUM2HuBAA&oe=637908D9" group-title="CORRIENTES", CANAL 2 MERCEDES
 https://vd01.streaminghd.net.ar:3169/stream/play.m3u8
 
-#EXTINF:-1  group-title="EVENTOS DEPORTIVOS", FOX SPORT 3 HD CHILE 
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Fox_Sports_3_Logo_2022.png"group-title="EVENTOS DEPORTIVOS", FOX SPORT 3 HD CHILE 
  http://45.160.15.130:2909/play/211
 
 
@@ -611,10 +611,10 @@ https://panel.dattalive.com:443/8078/8078/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000162503713/c5b486e28b11efc0cc5a4c4bd2630846_400x400.jpeg" group-title="MISIONES", CANAL 8 OBERA
 https://stmvideo1.livecastv.com/bustos/bustos/playlist.m3u8
 
-#EXTINF:-1  group-title="EVENTOS DEPORTIVOS", ESPN 3 HD CHILE
+#EXTINF:-1  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png"group-title="EVENTOS DEPORTIVOS", ESPN 3 HD CHILE
 http://45.160.15.130:2909/play/216
 
-#EXTINF:-1  group-title="CINE", HBO HD CH
+#EXTINF:-1 tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/3/3f/HBO_Ole_logo.png"group-title="CINE", HBO HD CH
 http://45.160.15.130:2909/play/017
 
 
@@ -651,7 +651,7 @@ https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CoYFhFvorrKq_-t9jzP7ctvgW5Y
 #EXTINF:-1 tvg-logo="https://www.diariopanorama.com/img/2020/logo-navidad2021.png" group-title="SANTIAGO DEL ESTERO", DIARIO PANORAMA SANTIAGO DEL ESTERO
 https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
 
-#EXTINF:-1 group-title="CINE", HBO 2
+#EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/d/de/Hbo_2.png" group-title="CINE", HBO 2
 http://168.121.46.90:4000/play/a00l/36789541.m3u8
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-XB7qQwxGgsY/WKsrFu7SEMI/AAAAAAAAUW4/nJA6XK03oeI0v0iYaxfb1J5P-zGHRWCKACLcB/s1600/logo%2Bcanal.jpg" group-title="FORMOSA", CANAL 3 FORMOSA
@@ -666,10 +666,10 @@ https://videohd.live:19360/8092/8092.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/109636_UTN_TV.png" group-title="SANTA CRUZ", UTN TV RIO GALLEGOS
 https://stream.arcast.com.ar/utntv/utntv/playlist.m3u8
 
-#EXTINF:-1 group-title="EVENTOS DEPORTIVOS", TYC SPORT HD CHUNITO
+#EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/5/5e/TyCSp.png"group-title="EVENTOS DEPORTIVOS", TYC SPORT HD CHUNITO
 http://l3d.us:25461/live/belfast/belfast/155679.ts
 
-#EXTINF:-1  group-title="EVENTOS DEPORTIVOS", TNT SPORT CHUNITO
+#EXTINF:-1  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png" group-title="EVENTOS DEPORTIVOS", TNT SPORT CHUNITO
 http://l3d.us:25461/live/belfast/belfast/2140800.ts
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-TgZv-RGCYoc/XrYHwcpfivI/AAAAAAAA0gw/AuqgxhioqLc1qhSHFDdH1ZftA0PKvOnzQCK8BGAsYHg/s0/2020-05-08.jpg" group-title="CHACO", 9LINK CHACO
@@ -700,10 +700,10 @@ https://59d52c5a5ce5e.streamlock.net:4443/munitar/munitar/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-IF-GL1j7RKI2vNaHYZcvPZ9NK2jjeh90PkRVx=s900-ck-c0x00ffffff-no-rj" group-title="CHACO", TIV TRES ISLETAS CHACO
 https://inliveserver.com:1936/14044/14044/playlist.m3u8
 
-#EXTINF:-1  group-title="EVENTOS DEPORTIVOS", ESPN 2 HD CHILE
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Espn-2-hd-logo.png"group-title="EVENTOS DEPORTIVOS", ESPN 2 HD CHILE
 http://45.160.15.130:2909/play/214
 
-#EXTINF:-1  group-title="EVENTOS DEPORTIVOS" , ESPN 4 HD CHILE
+#EXTINF:-1  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/a/a7/ESPN.png"group-title="EVENTOS DEPORTIVOS" , ESPN 4 HD CHILE
 http://45.160.15.130:2909/play/218
 
 #EXTINF:-1 tvg-logo="http://www.fenix951.com.ar/nuevo_2013/a2017/assets/imgapp/logocanal.jpeg" group-title="LA RIOJA", FENIX LA RIOJA
