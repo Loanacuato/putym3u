@@ -302,7 +302,7 @@ http://likmodguot.site:2082/rocky21rocky21/rocky21hbfaufb/143882
 
 
 
-#EXTINF:-1  group-title="EVENTOS DEPORTIVOS", DIRECTV FHD
+#EXTINF:-1  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="EVENTOS DEPORTIVOS", DIRECTV FHD
 http://playhispano.org:25461/ROKUTV/UJi4hGk8Qv/86645
 
 #EXTINF:-1 tvg-id="CanalU.ar" tvg-logo="https://lh3.googleusercontent.com/-bhc1ryCQBss/XjtDRMLA6RI/AAAAAAAAvo8/A5WXhRqhV2EdFzBWINyyhUoqFK1eYWJmQCK8BGAsYHg/s0/2020-02-05.png" grupo- title="CÓRDOBA", CANAL U CÓRDOBA
@@ -311,11 +311,11 @@ https://stream.arcast.live/canalu/canalu/playlist.m3u8
 #EXTINF:-1 tvg-id="TelediarioTV.ar" tvg-logo="https://lh3.googleusercontent.com/-Gceq5SpfHb8/XrYRAGJeBUI/AAAAAAAA0i4/OHxya9wtX5kJC06MlqyfpUCl9M2azquDQCK8BGAsYHg/s0/2020-05-08.png" grupo- title="CÓRDOBA", TELEDIARIO RÍO CUARTO
 https://stmvideo2.livecastv.com/telediario/telediario/playlist.m3u8
 
-#EXTINF:-1  group-title="EVENTOS DEPORTIVOS", TYC SPORT LOCAL
+#EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/5/5d/TyC_Sports_1995.png"group-title="EVENTOS DEPORTIVOS", TYC SPORT LOCAL
 http://likmodguot.site:2082/rocky21rocky21/rocky21hbfaufb/245653
 
 
-#EXTINF:-1  group-title="EVENTOS DEPORTIVOS", TYC CHUNITO
+#EXTINF:-1  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/5/5d/TyC_Sports_1995.png" group-title="EVENTOS DEPORTIVOS", TYC CHUNITO
 http://168.121.46.90:4000/play/a027/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/1265_Tvmaxcba.png" group-title="CORDOBA", TVMAX CBA
@@ -367,13 +367,13 @@ https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/p
 #EXTINF:-1 tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/9730866.jpg" group-title="RELIGION", CANAL LUZ
 https://g4.vxral-hor.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_720p.m3u8
 
-#EXTINF:-1  group-title="EVENTOS DEPORTIVOS", ESPN HD CHILE
+#EXTINF:-1  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/a/a7/ESPN.png" group-title="EVENTOS DEPORTIVOS", ESPN HD CHILE
 http://45.160.15.130:2909/play/212
 
-#EXTINF:-1  group-title="CINE", HBO 2 HD CH
+#EXTINF:-1 tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png"group-title="CINE", HBO 2 HD CH
 http://45.160.15.130:2909/play/021
 
-#EXTINF:-1  group-title="NACIONALES", CANAL 13 AR
+#EXTINF:-1 tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Canal_13_200_8.png" group-title="NACIONALES", CANAL 13 AR
 http://kuchini.site:8080/F20436/a96aaf00/3194
 
 #EXTINF:-1 tvg-logo="https://canal6mardelplata.weebly.com/uploads/1/4/0/1/140190766/published/89617673-666063307530186-6373931604150059008-n.jpg?1639521855" group-title= "PCIA BS AS", CANAL 6 MAR DEL PLATA
