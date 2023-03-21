@@ -391,19 +391,19 @@ https://panel.dattalive.com/8074/8074/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png"group-title="EVENTOS DEPORTIVOS", DIRECTV SPORT 3 HD
 http://likmodguot.site:2082/rocky21rocky21/rocky21hbfaufb/245635
 
-#EXTINF:-1  group-title="CINE" HBO HD..
+#EXTINF:-1  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png" group-title="CINE" HBO HD..
 http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJmscx8BV1o5Ii7e1bsluEh0/ts
 
-#EXTINF:-1  group-title="EVENTOS DEPORTIVOS", TYC SPORT...
+#EXTINF:-1  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/5/5d/TyC_Sports_1995.png" group-title="EVENTOS DEPORTIVOS", TYC SPORT...
 http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/8247
 
-#EXTINF:-1 group-title="PELÍCULAS", CAPITAN AMÉRICA 
+#EXTINF:-1 tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/2/2f/Escudo_Capit%C3%A1n_Am%C3%A9rica.PNG"group-title="PELÍCULAS", CAPITAN AMÉRICA 
 http://tvpremiumhd.club/lista-gratuita/161210/on/vod.php?cid=73D04C32DB476597&resid=73D04C32DB476597%21106&authkey=APzKm9Ez9pTWPzo
 
-#EXTINF:-1 group-title="PELÍCULAS", ROCKY 3.
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Rocky_III_Logo.png" group-title="PELÍCULAS", ROCKY 3.
 http://play.flamaplus.tv:80/play/54CjwLOLFrcvI664aivu69UnGqiirSG_00mWdK6c8Ir1ve0FChbDtA_R0Q8IsAOR
 
-#EXTINF:-1  group-title="EVENTOS DEPORTIVOS", TYC SPORT HD..
+#EXTINF:-1  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/5/5d/TyC_Sports_1995.png" group-title="EVENTOS DEPORTIVOS", TYC SPORT HD..
 http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJqlRJe2VgphsQtlVA3IPmTI/ts
 
 #EXTINF:-1 tvg-logo="https://radioaoran.com.ar/wp-content/uploads/2022/05/cropped-logg.png" group-title="SALTA", RADIO A 92.3 FM ORAN
@@ -416,10 +416,9 @@ https://vivo.solumedia.com:19360/radiosalta/radiosalta.m3u8
 https://9ae1-2803-9800-a404-80e0-ed95-40e0-c3c4-2869.sa.ngrok.io/hls/stream.m3u8
 
 
-#EXTINF:-1  group-title="NACIONALES", EL TRECE.
-http://coresys.dvrdns.org:8080/movie/CarlosL1982/SkXbNRQxtEZS/80625.php?section=vod&vod=26605
 
-#EXTINF:-1  group-title="PELÍCULAS", RAPIDO Y FURIOSO 2002
+
+#EXTINF:-1  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/e/e6/Fast-furious-logo-fast-furious.png"group-title="PELÍCULAS", RAPIDO Y FURIOSO 2002
 http://play.flamaplus.tv:80/play/54CjwLOLFrcvI664aivu65ZclhIjC2gyLT4gEgqbt4fYhrTlyL5R2lKOhvWH8f6W
 
 #EXTINF:-1 tvg-logo="https://surmedios.com/wp-content/uploads/2021/01/cropped-logosur5www.png" group-title="MENDOZA", SUR MEDIOS MENDOZA
@@ -458,7 +457,7 @@ https://stream.arcast.com.ar/somosnoticias/somosnoticias/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-6yBSbBB-AHE/XjtBSO4ZGtI/AAAAAAAAvoQ/_ZYx1XEmyo0wXnwYQDegDsetCUlb9u0FwCK8BGAsYHg/s0/2020-02-05.png" group-title="PCIA BS AS" , Canal 41 XFN MAR DEL PLATA
 https://streamconex.com:1936/canalxfn/canalxfn/playlist.m3u8
 
-#EXTINF:-1  group-title="EVENTOS DEPORTIVOS", TNT SPORT HD..
+#EXTINF:-1 tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png"  group-title="EVENTOS DEPORTIVOS", TNT SPORT HD..
 http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJh3Cyh3WBTsDlIBQmM9wr2Q/ts
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1517542989664559107/gfOjoKHQ_400x400.jpg" group-title="PCIA BS AS", CANAL 10 Pergamino
@@ -527,7 +526,7 @@ https://media.neuquen.gov.ar/rtn/radio/playlist.m3u8
 #EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-logo="https://lh3.googleusercontent.com/-XAHrxHCDM7s/XjtFb5uwTDI/AAAAAAAAvpo/5p94Cjf1Um8P4waIXUAAVfX9T1x-TaeGQCK8BGAsYHg/s0/2020-02-05.png" group-title="NEUQUEN", CN 24/7 NEUQUEN
 https://panel.dattalive.com/6605140/smil:6605140.smil/playlist.m3u8
 
-#EXTINF:-1  group-title="ENTRETENIMIENTO 2", TRUE TV
+#EXTINF:-1  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png" group-title="ENTRETENIMIENTO 2", TRUE TV
 http://168.121.46.90:4000/play/a04j/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.radiomunicipalcutralco.com.ar/wp-content/uploads/2022/09/cropped-247611193_1821966111323385_795453025228538214_n-removebg-preview.png" group-title="NEUQUEN", RADIO MUNICIPAL CUTRAL CO
