@@ -839,8 +839,8 @@ https://panel.dattalive.com/8076/8076/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/826578535909294080/xUFoE_Sl_400x400.jpg" group-title="CHUBUT", CANAL 4 ESQUEL
 https://stream.arcast.com.ar/canal4esquel/canal4esquel/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK6ESCf3yyS1i2vkhRNDR-UPf-UtveJIqyjA&usqp=CAU" group-title="CHUBUT", TELECINCO TRELEW
-https://videohd.live:19360/8016/8016.m3u8
+#EXTINF:-1  group-title="EVENTOS DEPORTIVOS", TYC SPORT?
+http://playhispano.org:25461/FRANKTV/YrhoSVBK5g/86628
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/609090376792743936/KXUoNTej.jpg" group-title="SANTA CRUZ", LM 24 RIO GALLEGOS
 https://59d52c5a5ce5e.streamlock.net:4443/infomedia/infomedia/playlist.m3u8
