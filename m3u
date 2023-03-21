@@ -302,8 +302,8 @@ http://likmodguot.site:2082/rocky21rocky21/rocky21hbfaufb/143882
 
 
 
-#EXTINF:-1 tvg-id="Canal10Cordoba.ar" tvg-logo="https://lh3.googleusercontent.com/-1_p-RfF0oIo/XjtDhLIE25I/AAAAAAAAvpE/uzoG77Dzsp8PEzYtGkaBadawaE0ISWlywCK8BGAsYHg/s0/2020-02-05.png" group-title="CÓRDOBA", CANAL 10 CÓRDOBA
-https://stream.arcast.live/canal10/ngrp:canal10_all/playlist.m3u8
+#EXTINF:-1  group-title="EVENTOS DEPORTIVOS", DIRECTV FHD
+http://playhispano.org:25461/ROKUTV/UJi4hGk8Qv/86645
 
 #EXTINF:-1 tvg-id="CanalU.ar" tvg-logo="https://lh3.googleusercontent.com/-bhc1ryCQBss/XjtDRMLA6RI/AAAAAAAAvo8/A5WXhRqhV2EdFzBWINyyhUoqFK1eYWJmQCK8BGAsYHg/s0/2020-02-05.png" grupo- title="CÓRDOBA", CANAL U CÓRDOBA
 https://stream.arcast.live/canalu/canalu/playlist.m3u8
