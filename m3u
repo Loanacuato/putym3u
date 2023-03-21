@@ -1197,8 +1197,8 @@ http://131.196.194.2:8000/play/a0ee/index.m3u8
 #EXTINF:-1 group-title="EVENTOS DEPORTIVOS", TNT SPORT SD
 http://likmodguot.site:2082/rocky21rocky21/rocky21hbfaufb/245649
 
-#EXTINF:-1 tvg-logo="http://www.fmurquizapositiva.com.ar/images/logo.png" group-title="AMBA", FM URQUIZA POSITIVA 104.5 FM
-http://inliveserver.com:1935/17032/17032/playlist.m3u8
+#EXTINF:-1  group-title="NACIONALES", AMERICA TV
+http://playhispano.org:25461/ROKUTV/UJi4hGk8Qv/195300
 
 #EXTINF:-1  group-title="EVENTOS DEPORTIVOS", ESPN HD 2
   http://higherpro.xyz:8080/live/restreambestlive/w4e7kFKr29Ya/37846.ts
