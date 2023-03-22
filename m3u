@@ -316,7 +316,7 @@ http://likmodguot.site:2082/rocky21rocky21/rocky21hbfaufb/245653
 
 
 #EXTINF:-1  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/5/5d/TyC_Sports_1995.png" group-title="EVENTOS DEPORTIVOS", TYC CHUNITO
-http://168.121.46.90:4000/play/a027/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/1265_Tvmaxcba.png" group-title="CORDOBA", TVMAX CBA
 https://panel.dattalive.com/8106/8106/playlist.m3u8
@@ -433,8 +433,8 @@ http://clubtv.link/mar1023/top7740/winand2.php?c=340&f=.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2751264928/0facb64f7c7468a07681c5f27874d9a4_400x400.png" group-title="MENDOZA", CANAL 8 VALLE DE UCO
 https://videostream.shockmedia.com.ar:19360/canal8/canal8.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1318990468290646016/D65h3HYF_400x400.jpg" group-title="nacionales", 8 Tucumán sergio
-http://mtd.llc/live/c7eds/Canal_8_Tucuman/SA_Live_dash_enc_2A/Canal_8_Tucuman.mpd
+#EXTINF:-1 
+
 
 #EXTINF:-1 tvg-logo="https://www.unidiversidad.com.ar/img/home/footer/Uni_logo_footer.svg" group-title="MENDOZA", SEÑAL U
 https://tvd.uncu.edu.ar/memfs/eedea17f-5b9c-4b1e-a4e5-319146353a5f.m3u8
@@ -1098,8 +1098,8 @@ https://stmvideo1.livecastv.com/griffa/griffa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/599795003389562880/Qt4WtUW1_400x400.jpg" group-title="PCIA BS AS", LU 24 TRES ARROYOS
 http://stream.shockmedia.com.ar:1935/lu24am/lu24am/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.wp.com/rbdradio.com.ar/wp-content/uploads/2021/01/LOGO-RBD-CURVAS-TRANS-e1611097859586.png?fit=100%2C100&ssl=1" group-title="AMBA", RBD RADIO
-https://videostream.shockmedia.com.ar:19360/rbdradio/rbdradio.m3u8
+#EXTINF:-1  group-title="NACIONALES", Espn activo
+http://playhispano.org:25461/ROKUTV/UJi4hGk8Qv/149632
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/p/AF1QipMaNFTBrOzo3SLOm1Rha4Bj2C8lMqV0qaXNnpqg=s1600-h380" group-title="CHUBUT", RADIO DEL PUEBLO 107.3 FM COMODORO RIVADAVIA
 https://vivo.solumedia.com:19360/fmdelpueblo/fmdelpueblo.m3u8
