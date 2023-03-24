@@ -772,8 +772,8 @@ https://streamyes.alsolnet.com/radiozona/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTgHZgj0j0s3y22Xu7XjBqMSGaRJJHIdGmkrg&usqp=CAU" group-title="CÓRDOBA", CANAL 50 MORTEROS
 https://coopmorteros.online/canal50/vivo.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.lasrosas.com.ar/portal/wp-content/uploads/gif-radio-3.gif" group-title="CORDOBA", LAS ROSAS 105.5 CORDOBA
-https://videostream.shockmedia.com.ar:19360/radiolasrosas/radiolasrosas.m3u8
+#EXTINF:-1  group-title="PELÍCULAS", SPECIES 1995
+http://play.flamaplus.tv:80/play/54CjwLOLFrcvI664aivu6_dhwOxyX1ze6oQOYWwEGsaXkWPUeSslNYFfQOhSW8BR
 
 
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/Y29tLnB0c3RhY3J1emFwcHBybGw0Ni5jYW5hbDVwaWNvdHJ1bmNhZG9hcHBfc2NyZWVuXzJfMTUzMjM1ODEyOV8wNTE/screen-2.jpg?fakeurl=1-type=.jpg"CANAL RUZ" group PICO TRUNCADO SANTA CRUZ
