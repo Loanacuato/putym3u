@@ -88,8 +88,8 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
 
 
-#EXTINF:-1 
-
+#EXTINF:-1 tvg-logo="https://images.app.goo.gl/Q5bu4mnjDAQtigjc8" group-title="PELÍCULAS ", SOLDADO UNIVERSAL 1992
+http://play.flamaplus.tv:80/play/54CjwLOLFrcvI664aivu66GGBguCTc6H6Xb27PPeMeJxL891eLgRYm2sk_7CIGrL
 
 
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-country="AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png" group-title="NACIONALES", TV PUBLICA OPCION 4
