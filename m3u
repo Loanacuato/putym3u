@@ -499,8 +499,8 @@ https://stmvideo2.livecastv.com/farias22/farias22/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100580_Canal_6_Entre_Rios.png" group-title="ENTRE RIOS", 6 ENTRE RIOS TV
 https://stmvideo1.livecastv.com/canal6er/canal6er/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.radiogualeguay.com.ar/img/AM.png" group-title="ENTRE RIOS", LT38 RADIO GUALEGUAY
-https://videostream.shockmedia.com.ar:19360/radiogualeguay/radiogualeguay.m3u8
+#EXTINF:-1  group-title="PELÍCULAS", SPECIES 1995
+http://play.flamaplus.tv:80/play/54CjwLOLFrcvI664aivu6_dhwOxyX1ze6oQOYWwEGsaXkWPUeSslNYFfQOhSW8BR
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-2-Jujuy-en-vivo-Online.png? fit=1920%2C1080&ssl=1" group-title="JUJUY", CANAL 2 JUJUY
 http://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8
