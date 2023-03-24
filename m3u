@@ -439,8 +439,8 @@ https://videostream.shockmedia.com.ar:19360/canal8/canal8.m3u8
 #EXTINF:-1 tvg-logo="https://www.unidiversidad.com.ar/img/home/footer/Uni_logo_footer.svg" group-title="MENDOZA", SEÑAL U
 https://tvd.uncu.edu.ar/memfs/eedea17f-5b9c-4b1e-a4e5-319146353a5f.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.otrasvocestv.com.ar/wp-content/uploads/2021/01/wprs.png" group-title="MENDOZA", OTRAS VOCES TV
-https://vivo.solumedia.com:19360/otrasvoces/otrasvoces.m3u8
+#EXTINF:-1  group-title="PELÍCULAS", DAREDEVIL 2003
+http://play.flamaplus.tv/streaming/timeshift.php?username=laura2023&password=laura2023&stream=54CjwLOLFrcvI664aivu669dDpnWdmxWc9028Qitq5siDUD14K0Sw4MPgXtCTixO&start=2023-03-24:04-34&duration=26
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/JBx_vll8WvdTTDiq-MvvZWMQ0Ky4DcbIq5iM4CwM95RSKpQBc-krcwQJzmvJGVfAZQ=w526-h296-rw" group-title="MENDOZA", MALBEC PLAY TV
 https://streamlov.alsolnet.com/malbecplay/live/playlist.m3u8
