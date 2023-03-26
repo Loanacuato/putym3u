@@ -1122,8 +1122,8 @@ https://stmv1.srvstm.com/litoral2/litoral2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lavozdeldesierto.com.ar/images/design/isologo.png" group-title="NEUQUEN", FM LA VOZ DEL DESIERTO NEUQUEN
 https://stmv1.srvstm.com/vozdesierto/vozdesierto/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cadenaritmo.com.ar/imagenes/logo.png" group-title="NEUQUEN", CADENA RITMO 101.1 FM NEUQUEN
-https://59537faa0729a.streamlock.net/cadenaritmo/cadenaritmo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png"  group-title="CULTURA", DISCOVERY ID CH
+http://playhispano.org:25461/ROKUTV/UJi4hGk8Qv/87077
 
 #EXTINF:-1 tvg-logo="http://fmsoledad885.com.ar/wp-content/uploads/2020/11/Logo-header-1-1024x132.png" group-title="CORDOBA", FM SOLEDAD 88.5 LAS HIGHERAS CORDOBA
 https://59537faa0729a.streamlock.net/fmsoledad885/fmsoledad885/playlist.m3u8
