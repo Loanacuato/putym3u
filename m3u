@@ -1137,8 +1137,8 @@ https://vdo.enhdtv.com:3032/live/cesartvlive.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/t1W8hct_zoG5gMV6OvWcN80dyE55kk65BhmavLKO5Dw6P28Sl9SrL1VqBmOcc0R0TaU" group-title="SANTA CRUZ", FM VANGUARDIA 106.1 CALETA OLIVIA
 https://streamcasthd.com:1936/fmvanguardiatv/fmvanguardiatv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://radioplus983.com/wp-content/uploads/2016/07/log200-e1468504920544.png" group-title="TIERRA DEL FUEGO", 98.3 RADIO PLUS - USHUAIA
-http://inliveserver.com:1935/9014/9014/playlist.m3u8
+#EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/5/5d/TyC_Sports_1995.png " group-title="EVENTOS DEPORTIVOS", TYC CH
+http://playhispano.org:25461/ROKUTV/UJi4hGk8Qv/129704
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1346068081509064704/9fmydPXG_400x400.jpg" group-title="TIERRA DEL FUEGO", ESTACION DEL SIGLO 105.9 FM RIO GRANDE - TIERRA DEL FUEGO
 http://streamyes.alsolnet.com/estaciondelsiglo/live/playlist.m3u8
