@@ -1354,8 +1354,8 @@ https://59537faa0729a.streamlock.net/fmroteco/fmroteco/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.panamericana102.com.ar/assets/img/logo.png" group-title="PCIA BS AS", PANAMERICANA 102.1 GRAL PINTO
 https://streamlov.alsolnet.com/panamericana/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.la100fm.com.ar/logo.png" group-title="PCIA BS AS", LA CIEN PELLEGRINI
-https://vivo.solumedia.com:19360/lrm379/lrm379.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png " group-title="CINE", SONY CH
+http://playhispano.org:25461/ROKUTV/UJi4hGk8Qv/87614
 
 #EXTINF:-1 tvg-logo="https://puntouno.com.ar/wp-content/uploads/2022/05/puntouno-logo.png" group-title="PCIA BS AS", RADIO PUNTO UNO 96.1 FM SAN BERNARDO
 https://sigma.radioplayer.com.ar:19360/puntouno961_abr/puntouno961_abr.m3u8
