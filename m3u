@@ -1360,8 +1360,8 @@ https://vivo.solumedia.com:19360/lrm379/lrm379.m3u8
 #EXTINF:-1 tvg-logo="https://puntouno.com.ar/wp-content/uploads/2022/05/puntouno-logo.png" group-title="PCIA BS AS", RADIO PUNTO UNO 96.1 FM SAN BERNARDO
 https://sigma.radioplayer.com.ar:19360/puntouno961_abr/puntouno961_abr.m3u8
 
-#EXTINF:-1 tvg-logo="https://radiocityactiva.com.ar/imagenes/banner.png" group-title="AMBA", RADIO CITY ACTIVA DON TORTUATO
-https://59537faa0729a.streamlock.net/radiocityactiva/radiocityactiva/playlist.m3u8
+#EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/c/cd/Cinemax_logo.png " group-title="CINE", CINEMAX CH
+http://playhispano.org:25461/ROKUTV/UJi4hGk8Qv/87320
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-KpgEAsGdpDE/XUtjFb_0mpI/AAAAAAAAHDo/2tDNzjjnej8AEwBjlNPoPIPBOP6hs20hACLcBGAs/s1600/fm-activa-93-1.png" group-title="SANTA FE", ACTIVA TV SANTA FE
 https://59537faa0729a.streamlock.net/tvactiva/tvactiva/playlist.m3u8
