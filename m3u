@@ -41,7 +41,7 @@ https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/in
 http://45.179.140.242:8000/play/a0ik
 
 
-#EXTINF:-1  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png  " group-title="CULTURA", DISCOVERY CHANNEL HD
+#EXTINF:-1  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/9/98/Casi_Discovery_HD.png  " group-title="CULTURA", DISCOVERY CHANNEL HD
 http://131.196.194.2:8000/play/a0f5/index.m3u8
 
 
@@ -1051,8 +1051,8 @@ http://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/TyCSp.png" group-title="EVENTOS DEPORTIVOS", TYC SPORT INTERNACIONAL 
 http://higherpro.xyz:8080/live/restreambestlive/w4e7kFKr29Ya/51516.ts
 
-#EXTINF:-1 tvg-logo="https://image.freepik.com/vector-gratis/inspiracion-diseno-logotipo-microfono_57043-231.jpg" group-title="AMBA", TRADICIONAL AM 1340 
-https://streamcasthd.com:19360/radiotradicional1340/radiotradicional1340.m3u8
+#EXTINF:-1 
+
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-o3GQ_5-eMUQ/XdghLlaXsJI/AAAAAAAAJek/hXsgZgK054ke--p_pshwTXkROwYJNkZ_ACLcBGAsYHQ/s1600/radio-la-retro.png" group-title="MISIONES", RADIO LA RETRO PUERTO RICO MISIONES
 https://video.tecnosoul.com.ar:8443/live/60e5a22863925-1/index.m3u8
@@ -1168,8 +1168,8 @@ http://play.flamaplus.tv:80/play/54CjwLOLFrcvI664aivu63TbDqgJzMn1MLjVtmiUcr04CVy
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/470/163/png-transparent-graphy-camera-logo-camera-white-photography-logo-thumbnail.png" group-title="SANTA CRUZ", CAMARA CALAFATE COTACAL
 http://200.50.248.57/Camara1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/178b98_a06ec6fbe9464d7ea9163783c967c826.jpg/v1/fit/w_2500,h_1330,al_c/178b98_a06ec6fbe9464d7ea9163783c967c826.jpg" group-title="AMBA", FM OK 105.7 FLORENCIO VARELA
-https://panel.dattalive.com/8124/8124/playlist.m3u8
+#EXTINF:-1 
+
 
 #EXTINF:-1 tvg-logo="http://radiomoraju.com.ar/wp-content/uploads/2018/09/logochico.png" group-title="TIERRA DEL FUEGO", RADIO MORAJU 95.5 FM RIO GRANDE - TIERRA DEL FUEGO
 https://inliveserver.com:1936/9010/9010/playlist.m3u8
@@ -1180,8 +1180,8 @@ https://streamcasthd.com:19360/partedelaireradio/partedelaireradio.m3u8
 #EXTINF:-1 tvg-logo="https://universoradio895.com/imagenes/banner.png" group-title="CHUBUT", UNIVERSO 89.5 FM COMODORO RIVADAVIA
 https://59537faa0729a.streamlock.net/universoradio895/universoradio895/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.fm891.com.ar/wp-content/uploads/2020/07/logo_horizontal_20.png" group-title="AMBA", FM 89.1 RADIO UNIVERSIDAD SAN JUSTO
-http://s8.stweb.tv/unlam/video2/chunks.m3u8
+#EXTINF:-1 
+
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png"group-title="EVENTOS DEPORTIVOS", DIRECTV SPORT
 http://higherpro.xyz:8080/live/restreambestlive/w4e7kFKr29Ya/37803.ts
@@ -1189,7 +1189,7 @@ http://higherpro.xyz:8080/live/restreambestlive/w4e7kFKr29Ya/37803.ts
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Casi_Discovery_HD.png"group-title="CULTURA", DISCOVERY CHANNEL  
   http://131.196.194.2:8000/play/a0c9/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s83607/images/logod.jpg?t=157062" group-title="EVENTOS DEPORTIVOS", ESPN 3 HD
+#EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="EVENTOS DEPORTIVOS", ESPN 3 HD
 http://131.196.194.2:8000/play/a0ee/index.m3u8
 
 
@@ -1208,8 +1208,8 @@ https://videostream.shockmedia.com.ar:19360/genesiscaseros/genesiscaseros.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/845676050470371329/r_9D6hXw_400x400.jpg" group-title="ENTRE RIOS", FM DEL EXODO 88.5 - NOGOYA
 https://vivo.solumedia.com:19360/delexodo/delexodo.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-3MwF1xYI9s0/X4MNUuARJ3I/AAAAAAAA6Vk/f8VICRuKxms6s7DbkOc08AA8ZYmFWulZQCK8BGAsYHg/s0/2020-10-11.png" group-title="AMBA", Tele Estrella
-https://stmvideo2.livecastv.com/telestrella/telestrella/playlist.m3u8
+#EXTINF:-1 
+
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1332294278710702080/1drhVHxF_400x400.jpg" group-title="SANTA FE", RADIO CASILDA 91.1 FM SANTA FE
 https://videohd.live:19360/8046/8046.m3u8
@@ -1236,8 +1236,8 @@ https://streamcasthd.com:1936/winnertv/winnertv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/778048293146427392/-G8-RFcb_400x400.jpg" group-title="CORDOBA", RADIO URBANA MORTEROS
 https://coopmorteros.online/radiourbana/canal01.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/06c8c8_ffc396a5d15745eeb1d47f02c6b1de89~mv2.gif" group-title="AMBA", ON RADIO ARGENTINA
-https://clientes.videostreaming.ar:19360/onradio/onradio.m3u8
+#EXTINF:-1 
+
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1118100475/VINILO_FM_finallll_DEL_TODO_400x400.jpg" group-title="PCIA BS AS", VINILO FM 103.5 NECOCHEA
 https://srv3.zcast.com.br/vinilo/vinilo/playlist.m3u8
@@ -1263,13 +1263,13 @@ https://srv4.zcast.com.br/zerofm/zerofm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/radioestacionazul.com/wp-content/uploads/2019/12/cropped-AZUL.png?fit=273%2C72&ssl=1" group-title="MISIONES", RADIO ESTACION AZUL 106.9 MISIONES
 https://inliveserver.com:1936/17010/17010/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1120362148/fmlaboca_400x400.jpg" group-title="AMBA", FM LA BOCA 90.1  (SOLO AUDIO)
-https://s24.myradiostream.com/14984/listen.mp3
+#EXTINF:-1 
 
-#EXTINF:-1 tvg-logo="https://launoenvivo.com/LaUno.png" group-title="AMBA", LA UNO RADIO  (SOLO AUDIO)
-https://playerservices.streamtheworld.com/api/livestream-redirect/UNO.mp3
 
-#EXTINF:-1 group-title="EVENTOS DEPORTIVOS", TNT SPORT
+#EXTINF:-1 
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png" group-title="EVENTOS DEPORTIVOS", TNT SPORT
  http://kaoztv.com:80/play/vAWBiFlolj1G186tUZVI0CJ1CxwxvlbGyhQ64CgFBes/ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png"group-title="EVENTOS DEPORTIVOS", TNT SPORT HD
@@ -1628,8 +1628,8 @@ https://srv5.zcast.com.br/alf/alf/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1262595444368199687/xluAUH_A_400x400.jpg" group-title="INFANTIL - ANIME", MAGIC KIDS
 https://magicstream.ddns.net:443/magicstream/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/cartoonnetwork.spain/picture?width=200&height=200" group-title="INFANTIL - ANIME" , Cartoon Network Latino
-https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/cartoonnetwork.spain/picture?width=200&height=200" group-title="INFANTILES" , CARTOON NETWORK CH
+http://playhispano.org:25461/ROKUTV/UJi4hGk8Qv/86872
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/cartoonnetwork.spain/picture?width=200&height=200" group-title="INFANTIL - ANIME" , Cartoon Network Latino 2
 https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
@@ -2944,35 +2944,35 @@ https://www.youtube.com/watch?v=if91GyWP3zQ
 #EXTINF:-1  group-title="ENTRETENIMIENTO 2", SIFY
 http://200.110.169.237:8202/play/a00u
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1542106110177460224/tzvT4PcK_400x400.jpg" group-title="WEB CAM Y CLIMA", CIUDAD DE NEUQUEN (Av norte)
-https://nqnmunicam.ddns.net/camnqn/avnorte_720p/playlist.m3u8
+#EXTINF:-1 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1542106110177460224/tzvT4PcK_400x400.jpg" group-title="WEB CAM Y CLIMA", CIUDAD DE NEUQUEN (Parque)
-https://nqnmunicam.ddns.net/camnqn/parque_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1542106110177460224/tzvT4PcK_400x400.jpg" group-title="WEB CAM Y CLIMA", CIUDAD DE NEUQUEN (Monumento)
-https://nqnmunicam.ddns.net/camnqn/monumento2_720p/playlist.m3u8
+#EXTINF:-1 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1542106110177460224/tzvT4PcK_400x400.jpg" group-title="WEB CAM Y CLIMA", CIUDAD DE NEUQUEN (Monumento)
-https://nqnmunicam.ddns.net/camnqn/monumento_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1542106110177460224/tzvT4PcK_400x400.jpg" group-title="WEB CAM Y CLIMA", CIUDAD DE NEUQUEN (Rio)
-https://nqnmunicam.ddns.net/camnqn/rio_720p/playlist.m3u8
+#EXTINF:-1 
+
+
+#EXTINF:-1  
+
+
+#EXTINF:-1 
+
 
 #EXTINF:-1  group-title="PELICULAS", PANTERA NEGRA
 https://t.me/PeliculaSGratis80/8978
 
-#EXTINF:-1 tvg-logo="https://miip.telpin.com.ar/imagenes/telpin-logo.png" group-title="WEB CAM Y CLIMA", BUNGE Y EL MAR PINAMAR
-https://wowza.telpin.com.ar:1935/camara-bunge/smil:camara-bunge.smil/chunklist_w968282560_b1344100_sleng.m3u8
+#EXTINF:-1  
 
-#EXTINF:-1 tvg-logo="https://miip.telpin.com.ar/imagenes/telpin-logo.png" group-title="WEB CAM Y CLIMA", BUNGE Y LIBERTADOR PINAMAR
-https://wowza.telpin.com.ar:1935/camara-fuente/camara-fuente.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://miip.telpin.com.ar/imagenes/telpin-logo.png" group-title="WEB CAM Y CLIMA", OSTENDE Y LA RAMBLA PINAMAR
-https://wowza.telpin.com.ar:1935/camara-rambla/camara-rambla.smil/playlist.m3u8
+#EXTINF:-1 
 
-#EXTINF:-1 tvg-logo="https://miip.telpin.com.ar/imagenes/telpin-logo.png" group-title="WEB CAM Y CLIMA", PINAMAR GOLF
-https://wowza.telpin.com.ar:1935/camara-golf/camara-golf.smil/playlist.m3u8
+
+#EXTINF:-1  
+
+
+#EXTINF:-1  
+
 
 #EXTINF:-1 tvg-logo="https://miip.telpin.com.ar/imagenes/telpin-logo.png" group-title="WEB CAM Y CLIMA", AUDITORIO BICENTENARIO GRAL MADARIAGA
 https://wowza.telpin.com.ar:1935/camara-bicentenario/smil:camara-bicentenario.smil/playlist.m3u8
