@@ -436,8 +436,8 @@ https://videostream.shockmedia.com.ar:19360/canal8/canal8.m3u8
 #EXTINF:-1 
 
 
-#EXTINF:-1 tvg-logo="https://www.unidiversidad.com.ar/img/home/footer/Uni_logo_footer.svg" group-title="MENDOZA", SEÑAL U
-https://tvd.uncu.edu.ar/memfs/eedea17f-5b9c-4b1e-a4e5-319146353a5f.m3u8
+#EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png " group-title="ENTRETENIMIENTO 2", TRUTV CH
+http://playhispano.org:25461/ROKUTV/UJi4hGk8Qv/86226
 
 #EXTINF:-1  group-title="PELÍCULAS", DAREDEVIL 2003
 http://play.flamaplus.tv/streaming/timeshift.php?username=laura2023&password=laura2023&stream=54CjwLOLFrcvI664aivu669dDpnWdmxWc9028Qitq5siDUD14K0Sw4MPgXtCTixO&start=2023-03-24:04-34&duration=26
