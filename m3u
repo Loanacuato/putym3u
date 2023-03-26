@@ -493,8 +493,8 @@ https://vivo.solumedia.com:19360/playtv/playtv.m3u8
 http://clubtv.link/mar1023/top7740/winand2.php?c=339&f=.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://maximaceres.com/wp-content/uploads/2022/03/cropped-logomaximafm.png" group-title="SANTA FE", MAXIMA FM 95.5 FM CERES
-https://stmvideo2.livecastv.com/farias22/farias22/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png " group-title="INFANTILES", CARTOON NETWORK CH ES
+http://playhispano.org:25461/ROKUTV/UJi4hGk8Qv/86404
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100580_Canal_6_Entre_Rios.png" group-title="ENTRE RIOS", 6 ENTRE RIOS TV
 https://stmvideo1.livecastv.com/canal6er/canal6er/playlist.m3u8
