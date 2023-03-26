@@ -960,8 +960,8 @@ https://srv2.zcast.com.br/diversidad/diversidad/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/EL9NeZb5ZS_dMekegkkZAcxqCl8ILxqUe2Hc_BoeNomYODo87W_aERaiHCeLCMLIjQ" group-title="CORDOBA", FM MAS TV LA CARLOTA CORDOBA
 http://streamlov.alsolnet.com/fmmastv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReYcHHVt_i8jPD3qo82Y3fyxEcnGOnKJKv2keJiK1JUEX3DVHt1sS7ayCklY6s-7JC0uQ&usqp=CAU" group-title="NEUQUEN", CANAL QUEN TV VALLE 9
-http://stmv6.srvstm.com/valletv/valletv/playlist.m3u8
+#EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/f/fe/Space-oficial.png " group-title="CINE", SPACE CH
+http://playhispano.org:25461/ROKUTV/UJi4hGk8Qv/124422
 
 #EXTINF:-1 tvg-logo="https://milemisoras.com/img/channel/87551203ff1e7fe23845c1c0bf1810db.jpeg" group-title="SANTA FE", FM 99.9 - SUNCHALES
 https://panel.dattalive.com/8064/8064/playlist.m3u8
