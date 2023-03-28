@@ -52,8 +52,8 @@ http://131.196.194.2:8000/play/a0f5/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Canal_26_Argentina.png" group-title="NOTICIAS", CANAL 26
-http://nmstreaming.live:25461/RamonMx/HMurUsxUyz52/210841
+#EXTINF:-1 
+
 
 
 #EXTINF:-1 tvg-id="CronicaTV.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1477726445690568711/Qb1flBsT_400x400.jpg" group-title="NOTICIAS ", CRÓNICA HD 24.4
@@ -135,8 +135,8 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Logo_DeporTV.png"group-title="EVENTOS DEPORTIVOS”,DEPORTETV 
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w1909906624.m3u8
 
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="EVENTOS DEPORTIVOS", TyC SPORTS
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/34686
+#EXTINF:-1 
+
 
 #EXTINF:-1 tvg-logo=" https://images.app.goo.gl/BauaME5eUuaA6wTLA"group- title="NACIONALES", GARAJE TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w501244001_b1296000_sleng.m3u8
@@ -150,8 +150,8 @@ https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/900335405580550144/EpLMIlFW_400x400.jpg" group-title="NOTICIAS", DW ESPAÑOL
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 
-#EXTINF:-1  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/3/3f/HBO_Ole_logo.png"group-title="CINE", HBO
-http://131.196.194.2:8000/play/a09m/index.m3u8
+#EXTINF:-1  
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1200px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" group-title="NOTICIAS", GALICIA TV
 http://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
@@ -296,7 +296,7 @@ https://www.youtube.com/watch?v=D5DiXxgVyY0
 http://play.flamaplus.tv:80/play/54CjwLOLFrcvI664aivu67wvVnc1r4BQJQ7qiEazQIdnp5ywqRl0-eBr8WI-GzNa
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png"group-title="CINE", HBO 2 LATINO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png"group-title="CINE PREMIUM", HBO 2 LATINO
 http://likmodguot.site:2082/rocky21rocky21/rocky21hbfaufb/143882
 
 
@@ -315,7 +315,7 @@ https://stmvideo2.livecastv.com/telediario/telediario/playlist.m3u8
 http://likmodguot.site:2082/rocky21rocky21/rocky21hbfaufb/245653
 
 
-#EXTINF:-1  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/5/5d/TyC_Sports_1995.png" group-title="EVENTOS DEPORTIVOS", TYC CHUNITO
+#EXTINF:-1  
 
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/1265_Tvmaxcba.png" group-title="CORDOBA", TVMAX CBA
@@ -364,13 +364,13 @@ https://srv1.zcast.com.br/x24hd/x24hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCbsG_5lOKcWAENfOGqnua-MTnwl2Y908bZBlFMgs-HzUXQy2PkOaV-BFAilWDjJlbfg&usqp=CAU" group-title="SANTA FE", CANAL 3 ROSARIO
 https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/9730866.jpg" group-title="RELIGION", CANAL LUZ
+#EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/5/50/Canal_Luz_actual.png " group-title="RELIGION", CANAL LUZ
 https://g4.vxral-hor.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_720p.m3u8
 
 #EXTINF:-1  
 
 
-#EXTINF:-1 tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png"group-title="CINE", HBO 2 HD CH
+#EXTINF:-1 tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png"group-title="CINE PREMIUM", HBO 2 HD CH
 http://45.160.15.130:2909/play/021
 
 #EXTINF:-1 
@@ -382,8 +382,8 @@ https://panel.dattalive.com:443/8166/8166/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/xOkdlwpIeM1Do72p9sEkUjRGc83UJCAQA2bwBCvJak9h012FISHmUaJ2vp9Z4W1i6g=s180" group-title="SALTA", NEOX TV SALTA
 https://streamcasthd.com:19360/sonicaargentina/sonicaargentina.m3u8
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png"group-title="EVENTOS DEPORTIVOS", DIRECTV SPORT 2HD
-http://likmodguot.site:2082/rocky21rocky21/rocky21hbfaufb/245635
+#EXTINF:-1  
+
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-KCqAdPir4u0/XrYMI6iIs_I/AAAAAAAA0h4/UaFlSVSv3Foz_7161A3vWWA5kkH4RTZbQCK8BGAsYHg/s0/2020-05-08.png" group-title="SALTA", CANAL 7 SALTA
 https://panel.dattalive.com/8074/8074/playlist.m3u8
@@ -403,8 +403,8 @@ http://tvpremiumhd.club/lista-gratuita/161210/on/vod.php?cid=73D04C32DB476597&re
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Rocky_III_Logo.png" group-title="PELÍCULAS", ROCKY 3.
 http://play.flamaplus.tv:80/play/54CjwLOLFrcvI664aivu69UnGqiirSG_00mWdK6c8Ir1ve0FChbDtA_R0Q8IsAOR
 
-#EXTINF:-1  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/5/5d/TyC_Sports_1995.png" group-title="EVENTOS DEPORTIVOS", TYC SPORT HD..
-http://playhispano.org:25461/ROKUTV/UJi4hGk8Qv/86628
+#EXTINF:-1  
+
 
 #EXTINF:-1 tvg-logo="https://radioaoran.com.ar/wp-content/uploads/2022/05/cropped-logg.png" group-title="SALTA", RADIO A 92.3 FM ORAN
 https://stmv3.voxtvhd.com.br/054/054/playlist.m3u8
@@ -445,8 +445,8 @@ http://play.flamaplus.tv/streaming/timeshift.php?username=laura2023&password=lau
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/JBx_vll8WvdTTDiq-MvvZWMQ0Ky4DcbIq5iM4CwM95RSKpQBc-krcwQJzmvJGVfAZQ=w526-h296-rw" group-title="MENDOZA", MALBEC PLAY TV
 https://streamlov.alsolnet.com/malbecplay/live/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png"group-title="CINE", HBO LATINO
-http://likmodguot.site:2082/rocky21rocky21/rocky21hbfaufb/143881
+#EXTINF:-1  
+
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/702081768405520384/FzPbHDMn_400x400.jpg" group-title="LA PAMPA", CPE TV LA PAMPA
 https://stream.arcast.live/cpe/ngrp:cpe_all/playlist.m3u8
@@ -457,7 +457,7 @@ https://stream.arcast.com.ar/somosnoticias/somosnoticias/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-6yBSbBB-AHE/XjtBSO4ZGtI/AAAAAAAAvoQ/_ZYx1XEmyo0wXnwYQDegDsetCUlb9u0FwCK8BGAsYHg/s0/2020-02-05.png" group-title="PCIA BS AS" , Canal 41 XFN MAR DEL PLATA
 https://streamconex.com:1936/canalxfn/canalxfn/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png"  group-title="EVENTOS DEPORTIVOS", TNT SPORT HD..
+#EXTINF:-1 
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1517542989664559107/gfOjoKHQ_400x400.jpg" group-title="PCIA BS AS", CANAL 10 Pergamino
@@ -480,7 +480,7 @@ https://ny1.stweb.tv/airedigital/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRTPfTkA3jrPn9lXVSjs27W90b19I6eztjrsEBcBM8RLkKSkFatdR1HLNDgLqQfjWU790&usqp=CAU" group-title="SANTA FE", CANAL 5 ALCORTA SANTA FE
 https://stmv1.cnarlatam.com/canal5pueblo/canal5pueblo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/a/a7/ESPN.png"  group-title="NACIONALES", ESPN HD ACTIVO
+#EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/a/a7/ESPN.png"  group-title="EVENTOS DEPORTIVOS", ESPN HD ACTIVO
 http://playhispano.org:25461/ROKUTV/UJi4hGk8Qv/149632
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/1259_FM_Cowboy.png" group-title="SANTA FE", FM COWBOYS ONLINE CALCHAQUI SANTA FE
@@ -614,7 +614,7 @@ https://stmvideo1.livecastv.com/bustos/bustos/playlist.m3u8
 #EXTINF:-1  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png"group-title="EVENTOS DEPORTIVOS", ESPN 3 HD CHILE
 http://45.160.15.130:2909/play/216
 
-#EXTINF:-1 tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/3/3f/HBO_Ole_logo.png"group-title="CINE", HBO HD CH
+#EXTINF:-1 tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/3/3f/HBO_Ole_logo.png"group-title="CINE PREMIUM", HBO HD CH
 http://45.160.15.130:2909/play/017
 
 
@@ -651,8 +651,8 @@ https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CoYFhFvorrKq_-t9jzP7ctvgW5Y
 #EXTINF:-1 tvg-logo="https://www.diariopanorama.com/img/2020/logo-navidad2021.png" group-title="SANTIAGO DEL ESTERO", DIARIO PANORAMA SANTIAGO DEL ESTERO
 https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/d/de/Hbo_2.png" group-title="CINE", HBO 2
-http://168.121.46.90:4000/play/a00l/36789541.m3u8
+#EXTINF:-1 
+
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-XB7qQwxGgsY/WKsrFu7SEMI/AAAAAAAAUW4/nJA6XK03oeI0v0iYaxfb1J5P-zGHRWCKACLcB/s1600/logo%2Bcanal.jpg" group-title="FORMOSA", CANAL 3 FORMOSA
 https://stmvideo2.livecastv.com/agenfor/agenfor/playlist.m3u8
@@ -666,11 +666,11 @@ https://videohd.live:19360/8092/8092.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/109636_UTN_TV.png" group-title="SANTA CRUZ", UTN TV RIO GALLEGOS
 https://stream.arcast.com.ar/utntv/utntv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/5/5e/TyCSp.png"group-title="EVENTOS DEPORTIVOS", TYC SPORT HD CHUNITO
-http://playhispano.org:25461/ROKUTV/UJi4hGk8Qv/86628
+#EXTINF:-1 
 
-#EXTINF:-1  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png" group-title="EVENTOS DEPORTIVOS", TNT SPORT CHUNITO
-http://l3d.us:25461/live/belfast/belfast/2140800.ts
+
+#EXTINF:-1  
+
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-TgZv-RGCYoc/XrYHwcpfivI/AAAAAAAA0gw/AuqgxhioqLc1qhSHFDdH1ZftA0PKvOnzQCK8BGAsYHg/s0/2020-05-08.jpg" group-title="CHACO", 9LINK CHACO
 http://201.217.245.41:8081/testmelucas/canal9/playlist.m3u8
@@ -929,7 +929,7 @@ https://streamcasthd.com:1936/somosgchu/somosgchu/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-10-neuquen-tv.png" group-title="NEUQUEN", CANAL 10 NEUQUÉN
 https://stmv1.srvstm.com/tv10/tv10/playlist.m3u8   
 
-#EXTINF:-1 tvg-logo°" https://upload.wikimedia.org/wikipedia/commons/a/a9/The_DirecTV_logo.png" group-title="EVENTOS DEPORTIVOS", DIRECTV SPORT PLUS
+#EXTINF:-1 tvg-logo"https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png " group-title="EVENTOS DEPORTIVOS", DIRECTV SPORT PLUS
 http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/8520
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="PCIA BS AS", CANAL 79 MAR DEL PLATA
@@ -978,8 +978,8 @@ http://200.110.169.237:8202/play/a026
 #EXTINF:-1  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png"group-title="EVENTOS DEPORTIVOS", ESPN CO
 http://131.196.194.2:8000/play/a0bi/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Logo_TN_2016.png"group-title="NOTICIAS", TN HD
-http://131.196.194.2:8000/play/a0eb/index.m3u8
+#EXTINF:-1  
+
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/ESPN.png"group-title="EVENTOS DEPORTIVOS", ESPN 4
 http://131.196.194.2:8000/play/a0by/index.m3u8
