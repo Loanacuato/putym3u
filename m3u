@@ -2179,8 +2179,8 @@ http://iptv.perueduca.pe:1935/canal2/canal22/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-dGnGcoZ4XMI/YGiuDJ-l9SI/AAAAAAABBKo/29BjyFATaBUc5W1wMu7u18r7fY1SHwLhwCK8BGAsYHg/s512/2021-04-03.png" group-title="PERU", Mundo de la Musica TV 
 https://6362ca6f1fc28.streamlock.net:443/8078/8078/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/13a1cbfd1b00f4e4582a523c9eb3d3b2.png" group-title="PERU", OK TeVe
-https://stream.plixitv.live/oktv/oktv/playlist.m3u8
+#EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/2/2a/Canal_26_Argentina.png" group-title="NOTICIAS", CANAL 26 CH
+http://playhispano.org:25461/ROKUTV/UJi4hGk8Qv/86611
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/699_Ovacion.png" group-title="PERU", OVACION
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
