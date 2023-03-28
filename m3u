@@ -880,8 +880,8 @@ https://panel.dattalive.com/8072/8072/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/923596987471224838/D-wIdAot.jpg" group-title="MENDOZA", CANAL 10 SAN RAFAEL
 https://streamcasthd.com:1936/tvdiez/tvdiez/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR0CkOG9gutouKH8tjBZFmLBHY_KArzQfrP3A&usqp=CAU" group-title="CORRIENTES", TELEDIEZ PASO DE LOS LIBRES
-https://videohd.live:19360/8020/8020.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Tn_logo12.png " group-title="NOTICIAS", TN ACTIVO
+http://playhispano.org:25461/ROKUTV/UJi4hGk8Qv/195332
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/877507453457502208/IltCxz-t_400x400.jpg" group-title="JUJUY", CANAL 2 PERICO
 https://streamcasthd.com:1936/tecnovisioncanal2tv/tecnovisioncanal2tv/chunklist_w406273313.m3u8
