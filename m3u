@@ -481,7 +481,7 @@ https://ny1.stweb.tv/airedigital/live/playlist.m3u8
 https://stmv1.cnarlatam.com/canal5pueblo/canal5pueblo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/a/a7/ESPN.png"  group-title="EVENTOS DEPORTIVOS", ESPN HD ACTIVO
-http://playhispano.org:25461/ROKUTV/UJi4hGk8Qv/149632
+http://playhispano.org:8080/ROKUTV/UJi4hGk8Qv/86978
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/1259_FM_Cowboy.png" group-title="SANTA FE", FM COWBOYS ONLINE CALCHAQUI SANTA FE
 https://stmvideo1.livecastv.com/mundomusical/mundomusical/playlist.m3u8
