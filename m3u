@@ -1,12 +1,12 @@
 #EXTM3U
 
 
-#EXTINF:-1  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/8/87/Espn%2B.png" group-title="EVENTOS DEPORTIVOS", ESPN HD
-http://131.196.194.2:8000/play/a0ed/index.m3u8
+#EXTINF:-1  
 
 
 
-#EXTINF:-1 tvg-id="TVPublica.ar" tvg-country="AR" tvg-logo="http://verlateleonline.weebly.com/uploads/5/1/3/4/51344345/television- publica.png" group-title="EVENTOS DEPORTIVOS", TV PUBLICA
+
+#EXTINF:-1 tvg-id="TVPublica.ar" tvg-country="AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png " group-title="EVENTOS DEPORTIVOS", TV PUBLICA
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 
 
@@ -21,7 +21,7 @@ http://200.110.169.237:8202/play/a031
 
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="EVENTOS DEPORTIVOS", ESPN PREMIUM 
-http://131.196.194.2:8000/play/a0ex/index.m3u8
+http://tutvxweb.net:8000/vegastvservice/U6TPQUX/148461
 
 
 
