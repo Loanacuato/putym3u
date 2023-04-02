@@ -1048,8 +1048,8 @@ https://panel.dattalive.com/MetropolitanaFM/MetropolitanaFM/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/116524_Azahares_Radio_multimedia.png" group-title="CORRIENTES", RADIO AZAHARES FM 101.5 CORRIENTES
 http://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/TyCSp.png" group-title="EVENTOS DEPORTIVOS", TYC SPORT INTERNACIONAL 
-http://higherpro.xyz:8080/live/restreambestlive/w4e7kFKr29Ya/51516.ts
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/TyCSp.png" group-title="EVENTOS DEPORTIVOS", TYC SPORT INTERNACIONAL CH
+http://tv.teleclub.xyz/stream/Deportes/TYC_SPORTS/index.m3u8
 
 #EXTINF:-1 
 
