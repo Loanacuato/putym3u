@@ -311,8 +311,8 @@ https://stream.arcast.live/canalu/canalu/playlist.m3u8
 #EXTINF:-1 tvg-id="TelediarioTV.ar" tvg-logo="https://lh3.googleusercontent.com/-Gceq5SpfHb8/XrYRAGJeBUI/AAAAAAAA0i4/OHxya9wtX5kJC06MlqyfpUCl9M2azquDQCK8BGAsYHg/s0/2020-05-08.png" grupo- title="CÓRDOBA", TELEDIARIO RÍO CUARTO
 https://stmvideo2.livecastv.com/telediario/telediario/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/5/5d/TyC_Sports_1995.png"group-title="EVENTOS DEPORTIVOS", TYC SPORT LOCAL
-http://tv4k.me:80/altondavis737@gmail.com/41N2Oml4ik/115777.ts
+#EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/5/5d/TyC_Sports_1995.png"group-title="EVENTOS DEPORTIVOS", TYC SPORT HIS
+http://playhispano.org:8080/ROKUTV/UJi4hGk8Qv/129702
 
 
 #EXTINF:-1  
