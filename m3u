@@ -987,7 +987,7 @@ http://131.196.194.2:8000/play/a0by/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png"group-title="CINE", TNT HD
 http://131.196.194.2:8000/play/a0f1/index.m3u8
 
-#EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png"group-title="CINE", HBO FAMILY HD CH
+#EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png"group-title="CINE PREMIUM", HBO FAMILY HD CH
 http://45.160.15.130:2909/play/018
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1249657453379190785/2exF8Dib_400x400.jpg" group-title="MISIONES", RADIO IGUAZU MISIONES
@@ -1193,8 +1193,8 @@ http://higherpro.xyz:8080/live/restreambestlive/w4e7kFKr29Ya/37803.ts
 http://131.196.194.2:8000/play/a0ee/index.m3u8
 
 
-#EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png"  group-title="EVENTOS DEPORTIVOS", TNT SPORT SD
-http://likmodguot.site:2082/rocky21rocky21/rocky21hbfaufb/245649
+#EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png"  group-title="EVENTOS DEPORTIVOS", TNT SPORT IND
+http://s2.smartersapp.net/US2474KMoV/PA4K247SeR/813
 
 #EXTINF:-1  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="NACIONALES", AMERICA TV
 http://playhispano.org:25461/ROKUTV/UJi4hGk8Qv/195300
