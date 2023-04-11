@@ -949,8 +949,8 @@ https://streamconex.com:1936/puan/puan/chunklist_w1243153313.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/615586776267288576/hZWD4Yev.jpg" group-title="MENDOZA", RADIO MURIALDO AM 1290 MENDOZA
 https://cs1.onecast.com.br/7466/7466/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.fmamadeus.com.ar/images/logo-amadeus.png" group-title="MENDOZA", FM AMADEUS 91.9 FM RIVADAVIA
-https://vivo.solumedia.com:19360/fmamadeus/fmamadeus.m3u8
+#EXTINF:-1 tvg-logo="http://www.fmamadeus.com.ar/images/logo-amadeus.png" group-title="EVENTOS DEPORTIVOS", TYC SPORT TOKEN
+http://flash.shortgod.com/malditos/tv2.php?id=11&token=ShortGod&file=.m3u8
 
 
 
