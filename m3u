@@ -42,7 +42,7 @@ EXTINF:-1,PAKA PAKA
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 EXTINF:-1,TN
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
-EXTINF:-1,CANAL 5 TUCUMAN
+EXTINF:-1,CANAL 5 TUCUMANEXTINF:-1,
 https://videohd.live:19360/8090/8090.m3u8
 EXTINF:-1,CARTOON NETWORK
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
@@ -61,3 +61,5 @@ EXTINF:-1,TERMINATOR 2
 https://archive.org/download/01_20210520_20210520_1544/01.mp4
 EXTINF:-1,8 MILES
 https://archive.org/download/01_20210521_20210521_1407/01.mp4
+EXTINF:-1,IRONMAN 2
+https://archive.org/download/02_20210719_20210719/02.mp4
