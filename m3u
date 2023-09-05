@@ -97,3 +97,5 @@ EXTINF:-1,TV ONLINE
 https://sfntv.xyz/inicio
 EXTINF:-1,CANAL 10 TUCUMAN
 https://cdntvstrm.s.llnwi.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1693904886&h=2439bd4413bc64728ce90a1fe47be55e
+EXTINF:-1,TELEFE
+https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/hdntl=exp=1693963148~acl=%2f*~data=hdntl~hmac=60309feeb84ed5db3edc472592711ceeea2ff342388a3887df72e1d36be04270/master-mtlf.m3u8
