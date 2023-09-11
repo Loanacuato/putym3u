@@ -6,7 +6,7 @@ https://ythls.onrender.com/channel/UCYozHHDnLnQs2yc2k3t8cPA.m3u8
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_1.m3u8
 #EXTINF:0,"AMERICA TUCUMAN" group-title="TUCUMAN"AMERICA TUCUMAN
 https://ythls.onrender.com/channel/UCZ8sgVyD7HqDor8ujB-TZpg.m3u8
-EXTINF:-1,ARGENTINISIMA SATELITAL
+#EXTINF:-1,ARGENTINISIMA SATELITAL
 https://stream1.sersat.com/hls/argentinisima.m3u8
 EXTINF:-1,C5N
 https://ythls.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
