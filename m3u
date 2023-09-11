@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,CANAL 8 TUCUMAN
+#EXTINF:-1,CANAL 8 TUCUMAN, group-title=TUCUMAN
 https://ythls.onrender.com/channel/UCYozHHDnLnQs2yc2k3t8cPA.m3u8
 #EXTINF:-1,TYC SPORT
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_1.m3u8
