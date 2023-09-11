@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,CANAL 8 TUCUMAN group-title=TUCUMAN
+#EXTINF:-1,CANAL 8 TUCUMAN 
 https://ythls.onrender.com/channel/UCYozHHDnLnQs2yc2k3t8cPA.m3u8
 #EXTINF:-1,TYC SPORT
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_1.m3u8
@@ -134,9 +134,7 @@ EXTINF:-1,XTREME CINE SUSPENSO
 https://stmv1.cnarlatam.com/cinesuspenso/cinesuspenso/playlist.m3u8
 EXTINF:-1,XTREME CINE TERROR
 https://stmv1.cnarlatam.com/cineterror/cineterror/playlist.m3u8
-EXTINF:-1,PLUTO MTV
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fab088b3279760007d4e4fd/master.m3u8?advertisingId=&amp;appName=web&amp;appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&amp;app_name=web&amp;clientDeviceType=0&amp;clientID=6fbead95-26b1-415d-998f-1bdef62d10be&amp;clientModelNumber=na&amp;deviceDNT=false&amp;deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&amp;deviceLat=19.4358&amp;deviceLon=-99.1441&amp;deviceMake=Chrome&amp;deviceModel=web&amp;deviceType=web&amp;deviceVersion=88.0.4324.150&amp;marketingRegion=VE&amp;serverSideAds=false&amp;sessionID=b8e5a857-714a-11eb-b532-0242ac110002&amp;sid=b8e5a857-714a-11eb-b532-0242ac110002&amp;userId=
-EXTIN:-1,CANAL RURAL
+EXTINF:-1,RURAL
 https://cda2.alsolnet.com/elrural/live/playlist.m3u8
 EXTINF:-1,ESPORTS MAX
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
