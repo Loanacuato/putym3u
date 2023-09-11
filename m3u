@@ -97,7 +97,7 @@ https://sfntv.xyz/inicio
 EXTINF:-1,CANAL 10 TUCUMAN
 https://cdntvstrm.s.llnwi.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1693904886&h=2439bd4413bc64728ce90a1fe47be55e
 EXTINF:-1,TELEFE
-https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/hdntl=exp=1693963617~acl=%2f*~data=hdntl~hmac=5f642e8dde89a07c8a4b23abc86750362385c2235dedc70a3270ffdf7b443e14/master-mtlf.m3u8
+https://ythls.onrender.com/channel/UCy-r-BQ5BQRU6rzGS73-WBQ.m3u8
 EXTINF:-1,A 24
 https://ythls.onrender.com/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
 EXTINF:-1,ENLACE
@@ -114,3 +114,23 @@ EXTINF:-1,XTREME ACTION
 https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
 EXTINF:-1,XTREME ANIMAL
 https://stmv1.cnarlatam.com/xtremaanimal/xtremaanimal/playlist.m3u8
+EXTINF:-1,XTREME CINE ASIA
+https://stmv1.cnarlatam.com/cineasia/cineasia/playlist.m3u8
+EXTINF:-1,XTREME CARTOONS
+https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
+EXTINF:-1,XTREME COMEDIA
+https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/playlist.m3u8
+EXTINF:-1,XTREME DRAMA
+https://stmv1.cnarlatam.com/cinedrama/cinedrama/playlist.m3u8
+EXTINF:-1,XTREME FAMILY
+https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8
+EXTINF:-1,XTREME CINE LATINO
+https://stmv1.cnarlatam.com/cinelatino/cinelatino/playlist.m3u8
+EXTINF:-1,XTREME RETRO CARTOONS
+https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
+EXTINF:-1,RETRO SERIES
+https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/playlist.m3u8
+EXTINF:-1,XTREME CINE SUSPENSO
+https://stmv1.cnarlatam.com/cinesuspenso/cinesuspenso/playlist.m3u8
+EXTINF:-1,XTREME CINE TERROR
+https://stmv1.cnarlatam.com/cineterror/cineterror/playlist.m3u8
