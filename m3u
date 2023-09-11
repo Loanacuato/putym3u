@@ -134,3 +134,12 @@ EXTINF:-1,XTREME CINE SUSPENSO
 https://stmv1.cnarlatam.com/cinesuspenso/cinesuspenso/playlist.m3u8
 EXTINF:-1,XTREME CINE TERROR
 https://stmv1.cnarlatam.com/cineterror/cineterror/playlist.m3u8
+EXTINF:-1,PLUTO MTV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fab088b3279760007d4e4fd/master.m3u8?advertisingId=&amp;appName=web&amp;appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&amp;app_name=web&amp;clientDeviceType=0&amp;clientID=6fbead95-26b1-415d-998f-1bdef62d10be&amp;clientModelNumber=na&amp;deviceDNT=false&amp;deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&amp;deviceLat=19.4358&amp;deviceLon=-99.1441&amp;deviceMake=Chrome&amp;deviceModel=web&amp;deviceType=web&amp;deviceVersion=88.0.4324.150&amp;marketingRegion=VE&amp;serverSideAds=false&amp;sessionID=b8e5a857-714a-11eb-b532-0242ac110002&amp;sid=b8e5a857-714a-11eb-b532-0242ac110002&amp;userId=
+EXTIN:-1,CANAL RURAL
+https://cda2.alsolnet.com/elrural/live/playlist.m3u8
+EXTINF:-1,ESPORTS MAX
+http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
+EXTINF:-1,LA LUZ TV
+http://ott.streann.com:8080/loadbalancer/services/public/channels/59ce7f292cdc7ba015a93b82/playlist.m3u8
+EXTINF:-1,
