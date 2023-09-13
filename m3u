@@ -148,3 +148,5 @@ EXTINF:-1,TNT SPORT
 https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(TNT_SPORTS)/07.m3u8
 EXTINF:-1,CANAL 10
 https://cdntvstrm.s.llnwi.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1694596403&h=25c644a30d4d4a0cff4471fba2845f91
+EXTINF:-1,TELEFE
+https://telefeviacom1.akamaized.net/hls/live/2037987/viacomINT/TOK/master-wild2.m3u8
