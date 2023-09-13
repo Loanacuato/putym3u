@@ -144,3 +144,5 @@ EXTINF:-1,MUSIC TOPS
 http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/292.png" tvg-group="Nacionales", TV Publica 
 https://cdn.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc_2A/AmericaTV.mpd
+EXTINF:-1,TNT SPORT
+https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(TNT_SPORTS)/07.m3u8
