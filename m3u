@@ -319,7 +319,7 @@ http://190.60.36.103:8000/play/a04w/index.m3u8
 http://190.60.36.103:8000/play/a04s/index.m3u8
 #EXTINF:-1,ViaX
 http://190.60.36.103:8000/play/a029/index.m3u8
-#EXTINF:-1,tvg-logo=" https://images.app.goo.gl/mJnErNxmYBZo2eAT8",   Warner
+#EXTINF:-1,tvg-logo=" https://www.google.com/search?q=warner+logo+png   ",   Warner
 http://190.60.36.103:8000/play/a00w/index.m3u8
 #EXTINF:-1,Win
 http://190.60.36.103:8000/play/a06k/index.m3u8
