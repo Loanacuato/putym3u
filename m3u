@@ -228,7 +228,7 @@ http://190.60.36.103:8000/play/a053/index.m3u8
 http://190.60.36.103:8000/play/a06d/index.m3u8
 #EXTINF:-1,HBO 2
 http://190.60.36.103:8000/play/a00n/index.m3u8
-#EXTINF:-1,HBO Family
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2Y7MY0J/hbofamily.png" tvg-group="CINE Y SERIES", HBO FAMILY
 http://190.60.36.103:8000/play/a00q/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FhWCVw7/hboplus.png" tvg-group="CINE Y SERIES", HBO PLUS
 http://190.60.36.103:8000/play/a00o/index.m3u8
