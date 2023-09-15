@@ -222,7 +222,7 @@ http://190.60.36.103:8000/play/a015/index.m3u8
 http://190.60.36.103:8000/play/a02x/index.m3u8
 #EXTINF:-1,Glitz
 http://190.60.36.103:8000/play/a04o/index.m3u8
-#EXTINF:-1,Golden Edge
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KD4s81z/Golden-logo.png" tvg-group="CINE Y SERIES", GOLDEN
 http://190.60.36.103:8000/play/a053/index.m3u8
 #EXTINF:-1,HBO
 http://190.60.36.103:8000/play/a06d/index.m3u8
