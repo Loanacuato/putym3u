@@ -202,7 +202,7 @@ http://190.60.36.103:8000/play/a00z/index.m3u8
 http://190.60.36.103:8000/play/a06s/index.m3u8
 #EXTINF:-1,ESPN 4
 http://190.60.36.103:8000/play/a01b/index.m3u8
-#EXTINF:-1,ESPN CO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0hPTcck/espncl.png" tvg-group="DEPORTES", ESPN CL
 http://190.60.36.103:8000/play/a01i/index.m3u8
 #EXTINF:-1,EWTN
 http://190.60.36.103:8000/play/a075/index.m3u8
