@@ -111,7 +111,7 @@ EXTINF:-1,CINE AR
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 EXTINF:-1,CIUDAD MAGICA
 https://tv.initium.net.ar:3235/live/grupocitylive.m3u8
-EXTINF:-1,CRONICA
+EXTINF:-1 tvg-logo="https://i.ibb.co/wRcv19b/Imagen-dummy.png" tvg-group="ARGENTINA", CRONICA TV
 https://ythls.onrender.com/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
 
 EXTINF:-1,C5N
