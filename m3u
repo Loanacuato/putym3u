@@ -302,7 +302,7 @@ http://190.60.36.103:8000/play/a06t/index.m3u8
 http://190.60.36.103:8000/play/a01l/index.m3u8
 #EXTINF:-1,Telemundo
 http://190.60.36.103:8000/play/a016/index.m3u8
-#EXTINF:-1,Telenovelas
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SVPbvZM/qr-UC8x-C8-400x400.png" tvg-group="CINE Y SERIES", TLNOVELAS 
 http://190.60.36.103:8000/play/a073/index.m3u8
 #EXTINF:-1,Telepacifico
 http://190.60.36.103:8000/play/a06l/index.m3u8
