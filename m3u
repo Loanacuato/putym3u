@@ -238,7 +238,7 @@ http://190.60.36.103:8000/play/a00p/index.m3u8
 http://190.60.36.103:8000/play/a004/index.m3u8
 #EXTINF:-1,History2
 http://190.60.36.103:8000/play/History2/index.m3u8
-#EXTINF:-1,HomeandHealth
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y8gJHw1/hyh.png" tvg-group="CIENCIA Y CULTURA", HOME & HEALT
 http://190.60.36.103:8000/play/a01a/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HDLNXWr/ISAT-LOGO.png" tvg-group="CINE Y SERIES", ISAT
 http://190.60.36.103:8000/play/a007/index.m3u8
