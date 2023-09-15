@@ -192,7 +192,7 @@ http://190.60.36.103:8000/play/a00t/index.m3u8
 http://190.60.36.103:8000/play/a00r/index.m3u8
 #EXTINF:-1,E Entertainment
 http://190.60.36.103:8000/play/a00x/index.m3u8
-#EXTINF:-1,ESPN
+#EXTINF:-1 tvg-logo="https://i.ibb.co/D4XMJV0/espnar.png" tvg-group="DEPORTES", ESPN AR
 http://190.60.36.103:8000/play/a010/index.m3u8
 #EXTINF:-1,ESPN 2
 http://190.60.36.103:8000/play/a00s/index.m3u8
