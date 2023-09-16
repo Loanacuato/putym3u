@@ -332,4 +332,41 @@ http://190.60.36.103:8000/play/a02f/index.m3u8
 http://190.60.36.103:8000/play/a01j/index.m3u8
 EXTINF:-1,TELEMAX
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:-1, |CHL|, 102 A&E HD
+http://45.160.15.130:2909/play/102
+#EXTINF:-1, |CHL|, 107 Cinecanal HD
+http://45.160.15.130:2909/play/107
+#EXTINF:-1, |CHL|, 108 TNT Series HD
+http://45.160.15.130:2909/play/108
+#EXTINF:-1, |CHL|, 109 TNT HD
+http://45.160.15.130:2909/play/109
+#EXTINF:-1, |CHL|, 110 TCM V+
+http://45.160.15.130:2909/play/110
+#EXTINF:-1, |CHL|, 112 Cinemax HD
+http://45.160.15.130:2909/play/112
+#EXTINF:-1, |CHL|, 116 I-Sat V+
+http://45.160.15.130:2909/play/116
+#EXTINF:-1, |CHL|, 119 Space HD
+#EXTINF:-1, |CHL|, 150 Pasiones HD
+http://45.160.15.130:2909/play/150
+#EXTINF:-1, |CHL|, 151 Las Estrellas HD
+http://45.160.15.130:2909/play/151
+#EXTINF:-1, |CHL|, 174 E Entertainment HD
+http://45.160.15.130:2909/play/174
+#EXTINF:-1, |CHL|, 177 El Gourmet HD
+http://45.160.15.130:2909/play/177
+#EXTINF:-1, |CHL|, 209 Fox Sports 1 HD
+http://45.160.15.130:2909/play/209
+#EXTINF:-1, |CHL|, 210 Fox Sports 2 HD
+http://45.160.15.130:2909/play/210
+#EXTINF:-1, |CHL|, 211 Fox Sports 3 HD
+http://45.160.15.130:2909/play/211
+#EXTINF:-1, |CHL|, 212 ESPN HD
+http://45.160.15.130:2909/play/212
+#EXTINF:-1, |CHL|, 214 ESPN 2 HD
+http://45.160.15.130:2909/play/214
+#EXTINF:-1, |CHL|, 216 ESPN 3 HD
+http://45.160.15.130:2909/play/216
+#EXTINF:-1, |CHL|, 218 ESPN 4 HD
+http://45.160.15.130:2909/play/218
 
