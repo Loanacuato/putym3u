@@ -376,4 +376,17 @@ http://45.160.15.130:2909/play/010
 http://45.160.15.130:2909/play/014
 #EXTINF:-1,  Nick Jr 
 http://45.160.15.130:2909/play/015
-
+#EXTINF:-1,TRUTV HD
+http://179.51.161.3:8000/play/a01x/index.m3u8
+#EXTINF:-1,TNT SPORTS HD
+http://179.51.161.3:8000/play/a03u/index.m3u8
+#EXTINF:-1,FOX Sports 2 HD
+http://179.51.161.3:8000/play/a04u/index.m3u8
+#EXTINF:-1,ESPN EXTRA HD
+http://179.51.161.3:8000/play/a059/index.m3u8
+#EXTINF:-1,Discovery Theater HD
+http://179.51.161.3:8000/play/a04p/index.m3u8
+#EXTINF:-1,Discovery World HD
+http://179.51.161.3:8000/play/a056/index.m3u8
+#EXTINF:-1,America TV HD
+http://179.51.161.3:8000/play/a020/index.m3u
