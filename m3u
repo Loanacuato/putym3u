@@ -390,3 +390,339 @@ http://179.51.161.3:8000/play/a04p/index.m3u8
 http://179.51.161.3:8000/play/a056/index.m3u8
 #EXTINF:-1,America TV HD
 http://179.51.161.3:8000/play/a020/index.m3u
+#EXTINF:-1,LAT : A&E HD
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/187.ts
+
+#EXTINF:-1,LAT : AMC HD
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/186.ts
+
+#EXTINF:-1,LAT : Animal Planet HD
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/174.ts
+
+#EXTINF:-1,LAT : Antena 3 Internacional
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/23.ts
+
+#EXTINF:-1,LAT : AXN MX HD
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/177.ts
+
+#EXTINF:-1,LAT : Baby First HD
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/390.ts
+
+#EXTINF:-1,LAT : Baby TV HD
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/391.ts
+
+#EXTINF:-1,LAT : Boomerang HD
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/386.ts
+
+#EXTINF:-1,LAT : Canal Sony HD
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/179.ts
+
+#EXTINF:-1,LAT : Cartoon Newtwork HD
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/381.ts
+
+#EXTINF:-1,LAT : Centro America TV HD
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/380.ts
+
+#EXTINF:-1,LAT : Cine Canal HD VIP
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/4.ts
+
+#EXTINF:-1,LAT : Cinemax HD VIP
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/55.ts
+
+#EXTINF:-1,LAT : Comedy Central HD
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/184.ts
+
+#EXTINF:-1,LAT : De Peliculas HD
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/532.ts
+
+#EXTINF:-1,LAT : Discovery Familia
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/56.ts
+
+#EXTINF:-1,LAT : Discovery Kids HD
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/388.ts
+
+#EXTINF:-1,LAT : Discovery Science HD
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/165.ts
+
+#EXTINF:-1,LAT : Disney Channel HD
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/398.ts
+
+#EXTINF:-1,LAT : Disney Junior HD
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/399.ts
+
+#EXTINF:-1,LAT : Disney XD HD
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/400.ts
+
+#EXTINF:-1,LAT : DW LatinoAmerica (W)
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/379.ts
+
+#EXTINF:-1,LAT : E! Entreteiment HD
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/188.ts
+
+#EXTINF:-1,LAT : El Gourmet HD
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/189.ts
+
+#EXTINF:-1,LAT : Enlace
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/150.ts
+
+#EXTINF:-1,LAT : Estrellas TV
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/77.ts
+
+#EXTINF:-1,LAT : Forotv HD
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/541.ts
+
+#EXTINF:-1,LAT : France 24 (W)
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/378.ts
+
+#EXTINF:-1,LAT : Galavision HD
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/85.ts
+
+#EXTINF:-1,LAT : Golden HD
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/190.ts
+
+#EXTINF:-1,LAT : H2 History 2 HD
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/173.ts
+
+#EXTINF:-1,LAT : HBO 2 HD
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/168.ts
+
+#EXTINF:-1,LAT : HBO Family HD
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/169.ts
+
+#EXTINF:-1,LAT : HBO HD
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/167.ts
+
+#EXTINF:-1,LAT : HBO PLUS HD
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/170.ts
+
+#EXTINF:-1,LAT : HBO POP
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/61.ts
+
+#EXTINF:-1,LAT : HBO Signature HD
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/171.ts
+
+#EXTINF:-1,LAT : HBO XTREME HD VIP
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/91.ts
+
+#EXTINF:-1,LAT : HispanTV WEB
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/377.ts
+
+#EXTINF:-1,LAT : HITN HD
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/376.ts
+
+#EXTINF:-1,LAT : Las Estrellas
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/88.ts
+
+#EXTINF:-1,LAT : LifeTime HD
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/370.ts
+
+#EXTINF:-1,LAT : MEGA TV Miami HD
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/483.ts
+
+#EXTINF:-1,LAT : MTV 80´S HD VIP
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/373.ts
+
+#EXTINF:-1,LAT : MTV HD
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/372.ts
+
+#EXTINF:-1,LAT : MTV Hits HD
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/374.ts
+
+#EXTINF:-1,LAT : MTV LIVE HD
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/375.ts
+
+#EXTINF:-1,LAT : NatGeo Kids HD
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/389.ts
+
+#EXTINF:-1,LAT : NatGeo Wild HD
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/172.ts
+
+#EXTINF:-1,LAT : Nick Jr. HD
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/385.ts
+
+#EXTINF:-1,LAT : Nickelodeon HD
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/382.ts
+
+#EXTINF:-1,LAT : Nicktoon HD
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/383.ts
+
+#EXTINF:-1,LAT : Paramount Channel HD
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/180.ts
+
+#EXTINF:-1,LAT : Pasiones Pan
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/10.ts
+
+#EXTINF:-1,LAT : Pasiones USA
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/11.ts
+
+#EXTINF:-1,LAT : Space HD VIP
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/182.ts
+
+#EXTINF:-1,LAT : Star Channel HD VIP
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/5.ts
+
+#EXTINF:-1,LAT : Starz Black HD
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/485.ts
+
+#EXTINF:-1,LAT : Starz Cinema HD
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/478.ts
+
+#EXTINF:-1,LAT : Starz Edge HD
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/484.ts
+
+#EXTINF:-1,LAT : Starz Encore Action HD
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/479.ts
+
+#EXTINF:-1,LAT : Starz Encore Classic HD
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/482.ts
+
+#EXTINF:-1,LAT : Starz Encore Family HD
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/481.ts
+
+#EXTINF:-1,LAT : Starz Encore Suspense
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/486.ts
+
+#EXTINF:-1,LAT : Starz Encore Western HD
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/487.ts
+
+#EXTINF:-1,LAT : Starz HD
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/480.ts
+
+#EXTINF:-1,LAT : Studio Universal HD VIP
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/163.ts
+
+#EXTINF:-1,LAT : SyFy Channel HD
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/181.ts
+
+#EXTINF:-1,LAT : TCM
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/183.ts
+
+#EXTINF:-1,LAT : Teen Nick HD
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/384.ts
+
+#EXTINF:-1,LAT : Telehits HD
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/542.ts
+
+#EXTINF:-1,LAT : Telemundo Internacional
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/161.ts
+
+#EXTINF:-1,LAT : TLC HD
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/371.ts
+
+#EXTINF:-1,LAT : TNT HD VIP
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/1.ts
+
+#EXTINF:-1,LAT : Tooncast HD
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/387.ts
+
+#EXTINF:-1,LAT : TruTV HD
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/185.ts
+
+#EXTINF:-1,LAT : TUDN TRANSCODER ORIGINAL HD
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/120.ts
+
+#EXTINF:-1,LAT : Universal Channels TV HD
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/175.ts
+
+#EXTINF:-1,LAT : Univision Novelas HD
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/86.ts
+
+#EXTINF:-1,LAT : Warner Channel HD
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/176.ts
+
+#EXTINF:-1,LAT | Discovery Channel MX VIP
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/92.ts
+
+#EXTINF:-1,LAT | Discovery Theather HD VIP
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/166.ts
+
+#EXTINF:-1,LAT | Discovery Turbo HD VIP
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/76.ts
+
+#EXTINF:-1,LAT | Discovery World HD VIP
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/164.ts
+
