@@ -292,11 +292,11 @@ http://45.160.15.130:2909/play/107
 http://45.160.15.130:2909/play/108
 #EXTINF:-1,  TNT HD
 http://45.160.15.130:2909/play/109
-#EXTINF:-1, TCM V+
+#EXTINF:-1, TCM 
 http://45.160.15.130:2909/play/110
 #EXTINF:-1,  Cinemax HD
 http://45.160.15.130:2909/play/112
-#EXTINF:-1,  I-Sat V+
+#EXTINF:-1,  I-Sat 
 http://45.160.15.130:2909/play/116
 #EXTINF:-1, |CHL|, 119 Space HD
 #EXTINF:-1,  Pasiones HD
@@ -364,9 +364,9 @@ http://45.160.15.130:2909/play/033
 http://45.160.15.130:2909/play/002
 #EXTINF:-1,  Discovery Kids HD
 http://45.160.15.130:2909/play/005
-#EXTINF:-1,  BabyFirst V+
+#EXTINF:-1,  BabyFirst 
 http://45.160.15.130:2909/play/008
-#EXTINF:-1,  Disney Junior V+
+#EXTINF:-1,  Disney Junior 
 http://45.160.15.130:2909/play/006
 #EXTINF:-1, Cartoon Network HD
 http://45.160.15.130:2909/play/009
@@ -374,6 +374,6 @@ http://45.160.15.130:2909/play/009
 http://45.160.15.130:2909/play/010
 #EXTINF:-1,  Nick HD
 http://45.160.15.130:2909/play/014
-#EXTINF:-1,  Nick Jr V+
+#EXTINF:-1,  Nick Jr 
 http://45.160.15.130:2909/play/015
 
