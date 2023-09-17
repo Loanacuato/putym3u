@@ -148,7 +148,8 @@ http://190.60.36.103:8000/play/a04f/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MBBRBkz.png" group-title="Mundo", CNN
 http://190.60.36.103:8000/play/a00h/index.m3u8
 
-#EXTINF:-1,Canal Estrellas
+ #EXTINF:-1 tvg-logo="https://i.imgur.com/iGCVGEA.jpg" group-title="Mundo", HolaTV http://tv.teleclub.xyz/envivo/Mundo/HOLATV/index.m3u8 #EXTINF:-1 tvg-logo="https://i.imgur.com/kaTu9Qb.png" group-title="Mundo", Las Estrellas
+
 http://190.60.36.103:8000/play/a013/index.m3u8
 
 
@@ -490,7 +491,7 @@ http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/189.ts
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/150.ts
 
-#EXTINF:-1,LAT : Estrellas TV
+ #EXTINF:-1 tvg-logo="https://i.imgur.com/iGCVGEA.jpg" group-title="Mundo", HolaTV http://tv.teleclub.xyz/envivo/Mundo/HOLATV/index.m3u8 #EXTINF:-1 tvg-logo="https://i.imgur.com/kaTu9Qb.png" group-title="Mundo", Las Estrellas
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/77.ts
 
