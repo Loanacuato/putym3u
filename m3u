@@ -145,7 +145,7 @@ http://190.60.36.103:8000/play/a00v/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HPnbTg4/babytv.png" tvg-group="INFANTILES", BABY TV
 http://190.60.36.103:8000/play/a04f/index.m3u8
 
-#EXTINF:-1,CNN Espanol
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MBBRBkz.png" group-title="Mundo", CNN
 http://190.60.36.103:8000/play/a00h/index.m3u8
 
 #EXTINF:-1,Canal Estrellas
@@ -199,7 +199,7 @@ http://190.60.36.103:8000/play/a014/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1Z0dCS5/foxsports3ar.png" tvg-group="DEPORTES", FOX SPORTS 3
 http://190.60.36.103:8000/play/a015/index.m3u8
 
-#EXTINF:-1,Glitz
+ #EXTINF:-1 tvg-logo="https://i.imgur.com/9shfcbz.png" group-title="Mundo"
 http://190.60.36.103:8000/play/a04o/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KD4s81z/Golden-logo.png" tvg-group="CINE Y SERIES", GOLDEN
 http://190.60.36.103:8000/play/a053/index.m3u8
@@ -376,7 +376,7 @@ http://45.160.15.130:2909/play/010
 http://45.160.15.130:2909/play/014
 #EXTINF:-1,  Nick Jr 
 http://45.160.15.130:2909/play/015
-#EXTINF:-1,TRUTV HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V2ViWPe.png" group-title="Mundo", TruTV
 http://179.51.161.3:8000/play/a01x/index.m3u8
 #EXTINF:-1,TNT SPORTS HD
 http://179.51.161.3:8000/play/a03u/index.m3u8
