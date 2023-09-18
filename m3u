@@ -1985,3 +1985,5 @@ http://179.51.161.3:8000/play/a01e/index.m3u8
 http://179.51.161.3:8000/play/a04r/index.m3u8
 #EXTINF:-1,Warner Channel HD
 http://179.51.161.3:8000/play/a03r/index.m3u8
+#EXTINF:-1,ESPN PREMIUM 1
+http://m3u8.sytes.net:80/play/f_tX3muAnmwjZ9O03YP6cYfZ4I8_LtefNH42mpcdyxc/m3u8
