@@ -767,17 +767,12 @@ http://m3u8.sytes.net:80/play/f_tX3muAnmwjZ9O03YP6cX9Wo334hS_Y9xVRGR7fxbE/m3u8
 http://m3u8.sytes.net:80/play/f_tX3muAnmwjZ9O03YP6cZRR1xJVRhVZr4e0Mslmv1M/m3u8
 #EXTINF:-1,TUDN Usa#252
 http://m3u8.sytes.net:80/play/f_tX3muAnmwjZ9O03YP6cU1AEhLgg_b_hJY3QGtgQFk/m3u8
-
-
-
-
 #EXTINF:1,A&E#253
 #EXTVLCOPT:http-user-agent=FFFFF
 https://vivo.lamtv.tv:8081/a/0022/playlist.m3u8
 #EXTINF:24,A3SERIES#254
 #EXTVLCOPT:http-user-agent=FFFFF
 https://vivo.lamtv.tv:8081/a/0028/playlist.m3u8
-
 #EXTINF:1,ADN 40#255
 #EXTVLCOPT:http-user-agent=FFFFF
 https://vivo.lamtv.tv:8081/a/0023/playlist.m3u8
@@ -793,41 +788,30 @@ https://vivo.lamtv.tv:8081/a/0027/playlist.m3u8
 #EXTINF:1,ANIMAL PLANET#259
 #EXTVLCOPT:http-user-agent=FFFFF
 https://vivo.lamtv.tv:8081/a/0131/playlist.m3u8
-
-
 #EXTINF:1,AXN#260
 #EXTVLCOPT:http-user-agent=FFFFF
 https://vivo.lamtv.tv:8081/a/0005/playlist.m3u8
-
 #EXTINF:1,AZ CINEMA#261
 #EXTVLCOPT:http-user-agent=FFFFF
 https://vivo.lamtv.tv:8081/a/0002/playlist.m3u8
-
 #EXTINF:1,BABY TV#262
 #EXTVLCOPT:http-user-agent=FFFFF
 https://vivo.lamtv.tv:8081/a/0031/playlist.m3u8
-
-
 #EXTINF:1,BOOMERANG#263
 #EXTVLCOPT:http-user-agent=FFFFF
 https://vivo.lamtv.tv:8081/a/0034/playlist.m3u8
-
 #EXTINF:1,CARTOON NETWORK#263
 #EXTVLCOPT:http-user-agent=FFFFF
 https://vivo.lamtv.tv:8081/a/0037/playlist.m3u8
 #EXTINF:1,CARTOONITO#264
 #EXTVLCOPT:http-user-agent=FFFFF
 https://vivo.lamtv.tv:8081/a/0034/playlist.m3u8
-
-
 #EXTINF:1,CINECANAL#265
 #EXTVLCOPT:http-user-agent=FFFFF
 https://vivo.lamtv.tv:8081/a/0147/playlist.m3u8
-
 #EXTINF:1,CINEMAX#266
 #EXTVLCOPT:http-user-agent=FFFFF
 https://vivo.lamtv.tv:8081/a/0157/playlist.m3u8
-
 #EXTINF:1,CNN ESPAÑOL#267
 #EXTVLCOPT:http-user-agent=FFFFF
 https://vivo.lamtv.tv:8081/a/0039/playlist.m3u8
@@ -876,7 +860,6 @@ https://vivo.lamtv.tv:8081/a/0046/playlist.m3u8
 #EXTINF:1,DISNEY JR#282
 #EXTVLCOPT:http-user-agent=FFFFF
 https://vivo.lamtv.tv:8081/a/0047/playlist.m3u8
-
 #EXTINF:1,EL GOURMET#283
 #EXTVLCOPT:http-user-agent=FFFFF
 https://vivo.lamtv.tv:8081/a/0051/playlist.m3u8
@@ -910,14 +893,12 @@ https://vivo.lamtv.tv:8081/a/0013/playlist.m3u8
 #EXTINF:1,EURO SPORT 2#293
 #EXTVLCOPT:http-user-agent=FFFFF
 https://vivo.lamtv.tv:8081/a/0202/playlist.m3u8
-
 #EXTINF:1,FOOD NETWORK#294
 #EXTVLCOPT:http-user-agent=FFFFF
 https://vivo.lamtv.tv:8081/a/0056/playlist.m3u8
 #EXTINF:1,FORO TV#295
 #EXTVLCOPT:http-user-agent=FFFFF
 https://vivo.lamtv.tv:8081/a/0057/playlist.m3u8
-
 #EXTINF:1,FOX DEPORTES#296
 #EXTVLCOPT:http-user-agent=FFFFF
 https://vivo.lamtv.tv:8081/a/0138/playlist.m3u8
@@ -996,34 +977,19 @@ https://vivo.lamtv.tv:8081/a/0178/playlist.m3u8
 #EXTINF:1,HOLA TV#321
 #EXTVLCOPT:http-user-agent=FFFFF
 https://vivo.lamtv.tv:8081/a/0080/playlist.m3u8
-#EXTINF:1,LAS ESTRELLAS
+#EXTINF:1,LAS ESTRELLAS#322
 #EXTVLCOPT:http-user-agent=FFFFF
 https://vivo.lamtv.tv:8081/a/0065/playlist.m3u8
-#EXTINF:1,LAS ESTRELLAS
+#EXTINF:1,LAS ESTRELLAS#323
 #EXTVLCOPT:http-user-agent=FFFFF
 https://vivo.lamtv.tv:8081/a/0179/playlist.m3u8
-#EXTINF:1,LIFETIME
+#EXTINF:1,LIFETIME#324
 #EXTVLCOPT:http-user-agent=FFFFF
 https://vivo.lamtv.tv:8081/a/0082/playlist.m3u8
-#EXTINF:1,MOVISTAR
-#EXTVLCOPT:http-user-agent=FFFFF
-https://vivo.lamtv.tv:8081/a/0204/playlist.m3u8
-#EXTINF:1,MOVISTAR DEPORTES
-#EXTVLCOPT:http-user-agent=FFFFF
-https://vivo.lamtv.tv:8081/a/0203/playlist.m3u8
-#EXTINF:1,MOVISTAR GOLF
-#EXTVLCOPT:http-user-agent=FFFFF
-https://vivo.lamtv.tv:8081/a/0016/playlist.m3u8
-#EXTINF:1,MOVISTAR GOLF
-#EXTVLCOPT:http-user-agent=FFFFF
-https://vivo.lamtv.tv:8081/a/0206/playlist.m3u8
-#EXTINF:1,MOVISTAR LIGA
-#EXTVLCOPT:http-user-agent=FFFFF
-https://vivo.lamtv.tv:8081/a/0207/playlist.m3u8
-#EXTINF:1,MTV
+#EXTINF:1,MTV#325
 #EXTVLCOPT:http-user-agent=FFFFF
 https://vivo.lamtv.tv:8081/a/0019/playlist.m3u8
-#EXTINF:1,MTV 00S
+#EXTINF:1,MTV 00S#326
 #EXTVLCOPT:http-user-agent=FFFFF
 https://vivo.lamtv.tv:8081/a/0116/playlist.m3u8
 #EXTINF:1,MTV 80S
