@@ -896,58 +896,58 @@ https://vivo.lamtv.tv:8081/a/0098/playlist.m3u8
 #EXTINF:1,TNT SERIES#357
 #EXTVLCOPT:http-user-agent=FFFFF
 https://vivo.lamtv.tv:8081/a/0104/playlist.m3u8
-#EXTINF:1,TNT SPORTS
+#EXTINF:1,TNT SPORTS#358
 #EXTVLCOPT:http-user-agent=FFFFF
 https://vivo.lamtv.tv:8081/a/0105/playlist.m3u8
-#EXTINF:1,TNT SPORTS
+#EXTINF:1,TNT SPORTS#359
 #EXTVLCOPT:http-user-agent=FFFFF
 https://vivo.lamtv.tv:8081/a/0107/playlist.m3u8
-#EXTINF:1,TNT SPORTS 1
+#EXTINF:1,TNT SPORTS 1#360
 #EXTVLCOPT:http-user-agent=FFFFF
 https://vivo.lamtv.tv:8081/a/0193/playlist.m3u8
-#EXTINF:1,TNT SPORTS 2
+#EXTINF:1,TNT SPORTS 2#361
 #EXTVLCOPT:http-user-agent=FFFFF
 https://vivo.lamtv.tv:8081/a/0194/playlist.m3u8
-#EXTINF:1,TNT SPORTS 3
+#EXTINF:1,TNT SPORTS 3#362
 #EXTVLCOPT:http-user-agent=FFFFF
 https://vivo.lamtv.tv:8081/a/0195/playlist.m3u8
-#EXTINF:1,TNT SPORTS CH
+#EXTINF:1,TNT SPORTS CH#363
 #EXTVLCOPT:http-user-agent=FFFFF
 https://vivo.lamtv.tv:8081/a/0198/playlist.m3u8
-#EXTINF:1,TNT SPORTS CH
+#EXTINF:1,TNT SPORTS CH#364
 #EXTVLCOPT:http-user-agent=FFFFF
 https://vivo.lamtv.tv:8081/a/0196/playlist.m3u8
-#EXTINF:1,TOONCAST
+#EXTINF:1,TOONCAST#365
 #EXTVLCOPT:http-user-agent=FFFFF
 https://vivo.lamtv.tv:8081/a/0106/playlist.m3u8
-#EXTINF:1,TORO TV
+#EXTINF:1,TORO TV#366
 #EXTVLCOPT:http-user-agent=FFFFF
 https://vivo.lamtv.tv:8081/a/0208/playlist.m3u8
-#EXTINF:1,TUDN
+#EXTINF:1,TUDN#367
 #EXTVLCOPT:http-user-agent=FFFFF
 https://vivo.lamtv.tv:8081/a/0139/playlist.m3u8
-#EXTINF:1,TVN
+#EXTINF:1,TVN#368
 #EXTVLCOPT:http-user-agent=FFFFF
 https://vivo.lamtv.tv:8081/a/0199/playlist.m3u8
-#EXTINF:1,TYC SPORTS
+#EXTINF:1,TYC SPORTS#369
 #EXTVLCOPT:http-user-agent=FFFFF
 https://vivo.lamtv.tv:8081/a/0140/playlist.m3u8
-#EXTINF:1,UNIVERSAL TV
+#EXTINF:1,UNIVERSAL TV#370
 #EXTVLCOPT:http-user-agent=FFFFF
 https://vivo.lamtv.tv:8081/a/0110/playlist.m3u8
-#EXTINF:1,WARNER TV
+#EXTINF:1,WARNER TV#371
 #EXTVLCOPT:http-user-agent=FFFFF
 https://vivo.lamtv.tv:8081/a/0111/playlist.m3u8
-#EXTINF:1,WIN SPORTS
+#EXTINF:1,WIN SPORTS#372
 #EXTVLCOPT:http-user-agent=FFFFF
 https://vivo.lamtv.tv:8081/a/0120/playlist.m3u8
-#EXTINF:-1,BABYTV
+#EXTINF:-1,BABYTV#373
 http://204.199.120.34:16123/play/ch01
-#EXTINF:-1,DISCOVERY KIDS
+#EXTINF:-1,DISCOVERY KIDS#374
 http://204.199.120.34:16123/play/ch02
-#EXTINF:-1,DISNEY
+#EXTINF:-1,DISNEY#375
 http://204.199.120.34:16123/play/ch03
-#EXTINF:-1,DISNEY JR
+#EXTINF:-1,DISNEY JR#376
 http://204.199.120.34:16123/play/ch05
 #EXTINF:-1,INFANTIL
 http://204.199.120.34:16123/play/ch06
