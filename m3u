@@ -803,97 +803,97 @@ https://vivo.lamtv.tv:8081/a/0019/playlist.m3u8
 #EXTINF:1,MTV 00S#326
 #EXTVLCOPT:http-user-agent=FFFFF
 https://vivo.lamtv.tv:8081/a/0116/playlist.m3u8
-#EXTINF:1,MTV 80S
+#EXTINF:1,MTV 80S#327
 #EXTVLCOPT:http-user-agent=FFFFF
 https://vivo.lamtv.tv:8081/a/0117/playlist.m3u8
-#EXTINF:1,NATGEO
+#EXTINF:1,NATGEO#328
 #EXTVLCOPT:http-user-agent=FFFFF
 https://vivo.lamtv.tv:8081/a/0088/playlist.m3u8
-#EXTINF:1,NATGEO WILD
+#EXTINF:1,NATGEO WILD#329
 #EXTVLCOPT:http-user-agent=FFFFF
 https://vivo.lamtv.tv:8081/a/0409/playlist.m3u8
-#EXTINF:1,NBC LIVE
+#EXTINF:1,NBC LIVE#330
 #EXTVLCOPT:http-user-agent=FFFFF
 https://vivo.lamtv.tv:8081/a/0186/playlist.m3u8
-#EXTINF:1,NBC SPORTS
+#EXTINF:1,NBC SPORTS#331
 #EXTVLCOPT:http-user-agent=FFFFF
 https://vivo.lamtv.tv:8081/a/0145/playlist.m3u8
-#EXTINF:1,NICK
+#EXTINF:1,NICK#332
 #EXTVLCOPT:http-user-agent=FFFFF
 https://vivo.lamtv.tv:8081/a/0430/playlist.m3u8
-#EXTINF:1,NICK
+#EXTINF:1,NICK#333
 #EXTVLCOPT:http-user-agent=FFFFF
 https://vivo.lamtv.tv:8081/a/0090/playlist.m3u8
-#EXTINF:1,NICK MUSIC
+#EXTINF:1,NICK MUSIC#334
 #EXTVLCOPT:http-user-agent=FFFFF
 https://vivo.lamtv.tv:8081/a/0431/playlist.m3u8
-#EXTINF:1,NICK MUSIC
+#EXTINF:1,NICK MUSIC#335
 #EXTVLCOPT:http-user-agent=FFFFF
 https://vivo.lamtv.tv:8081/a/0091/playlist.m3u8
-#EXTINF:1,PARAMOUNT
+#EXTINF:1,PARAMOUNT#336
 #EXTVLCOPT:http-user-agent=FFFFF
 https://vivo.lamtv.tv:8081/a/0092/playlist.m3u8
-#EXTINF:1,RCN NOVELAS
+#EXTINF:1,RCN NOVELAS#337
 #EXTVLCOPT:http-user-agent=FFFFF
 https://vivo.lamtv.tv:8081/a/0114/playlist.m3u8
-#EXTINF:1,RCN NOVELAS
+#EXTINF:1,RCN NOVELAS#338
 #EXTVLCOPT:http-user-agent=FFFFF
 https://vivo.lamtv.tv:8081/a/0115/playlist.m3u8
-#EXTINF:1,REAL MADRID
+#EXTINF:1,REAL MADRID#339
 #EXTVLCOPT:http-user-agent=FFFFF
 https://vivo.lamtv.tv:8081/a/0209/playlist.m3u8
-#EXTINF:1,SKY SPORTS
+#EXTINF:1,SKY SPORTS#340
 #EXTVLCOPT:http-user-agent=FFFFF
 https://vivo.lamtv.tv:8081/a/0136/playlist.m3u8
-#EXTINF:1,SONY CHANNEL
+#EXTINF:1,SONY CHANNEL#341
 #EXTVLCOPT:http-user-agent=FFFFF
 https://vivo.lamtv.tv:8081/a/0093/playlist.m3u8
-#EXTINF:1,SPACE
+#EXTINF:1,SPACE#342
 #EXTVLCOPT:http-user-agent=FFFFF
 https://vivo.lamtv.tv:8081/a/0094/playlist.m3u8
-#EXTINF:1,SPORTV
+#EXTINF:1,SPORTV#343
 #EXTVLCOPT:http-user-agent=FFFFF
 https://vivo.lamtv.tv:8081/a/0190/playlist.m3u8
-#EXTINF:1,SPORTV 3 COMBATE
+#EXTINF:1,SPORTV 3 COMBATE#344
 #EXTVLCOPT:http-user-agent=FFFFF
 https://vivo.lamtv.tv:8081/a/0192/playlist.m3u8
-#EXTINF:1,STAR CHANNEL
+#EXTINF:1,STAR CHANNEL#345
 #EXTVLCOPT:http-user-agent=FFFFF
 https://vivo.lamtv.tv:8081/a/0177/playlist.m3u8
-#EXTINF:1,STUDIO UNIVERSAL
+#EXTINF:1,STUDIO UNIVERSAL#346
 #EXTVLCOPT:http-user-agent=FFFFF
 https://vivo.lamtv.tv:8081/a/0096/playlist.m3u8
-#EXTINF:1,SYFY
+#EXTINF:1,SYFY#347
 #EXTVLCOPT:http-user-agent=FFFFF
 https://vivo.lamtv.tv:8081/a/0097/playlist.m3u8
-#EXTINF:1,TCM
+#EXTINF:1,TCM#348
 #EXTVLCOPT:http-user-agent=FFFFF
 https://vivo.lamtv.tv:8081/a/0099/playlist.m3u8
-#EXTINF:1,TEEN NICK
+#EXTINF:1,TEEN NICK#349
 #EXTVLCOPT:http-user-agent=FFFFF
 https://vivo.lamtv.tv:8081/a/0089/playlist.m3u8
-#EXTINF:1,TELEFORMULA
+#EXTINF:1,TELEFORMULA#350
 #EXTVLCOPT:http-user-agent=FFFFF
 https://vivo.lamtv.tv:8081/a/0149/playlist.m3u8
-#EXTINF:1,TELEHIT
+#EXTINF:1,TELEHIT#351
 #EXTVLCOPT:http-user-agent=FFFFF
 https://vivo.lamtv.tv:8081/a/0101/playlist.m3u8
-#EXTINF:1,TELEHIT
+#EXTINF:1,TELEHIT#352
 #EXTVLCOPT:http-user-agent=FFFFF
 https://vivo.lamtv.tv:8081/a/0100/playlist.m3u8
-#EXTINF:1,TELEMUNDO
+#EXTINF:1,TELEMUNDO#353
 #EXTVLCOPT:http-user-agent=FFFFF
 https://vivo.lamtv.tv:8081/a/0102/playlist.m3u8
-#EXTINF:1,TELEMUNDO
+#EXTINF:1,TELEMUNDO#354
 #EXTVLCOPT:http-user-agent=FFFFF
 https://vivo.lamtv.tv:8081/a/0227/playlist.m3u8
-#EXTINF:1,TELENOVELAS
+#EXTINF:1,TELENOVELAS#355
 #EXTVLCOPT:http-user-agent=FFFFF
 https://vivo.lamtv.tv:8081/a/0103/playlist.m3u8
-#EXTINF:1,TNT NOVELAS
+#EXTINF:1,TNT NOVELAS#356
 #EXTVLCOPT:http-user-agent=FFFFF
 https://vivo.lamtv.tv:8081/a/0098/playlist.m3u8
-#EXTINF:1,TNT SERIES
+#EXTINF:1,TNT SERIES#357
 #EXTVLCOPT:http-user-agent=FFFFF
 https://vivo.lamtv.tv:8081/a/0104/playlist.m3u8
 #EXTINF:1,TNT SPORTS
