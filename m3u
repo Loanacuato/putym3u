@@ -2,166 +2,96 @@
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/g72RdTP/Star-PNG-File.png" tvg-group=Nacionales",America#1
 http://190.60.36.103:8000/play/a03q/index.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/292.png" tvg-group="Nacionales", TV Publica#2
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/96.png" tvg-group="Nacionales", El Nueve #3
-
-
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/35.png" tvg-group="Nacionales", Telefe#4 
 https://telefeviacom1.akamaized.net/hls/live/2037987/viacomINT/TOK/master-wild2.m3u8
 #EXTINF:-1,US : History Channel HD#5
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/458.ts
-
-
-
-
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/6.png" tvg-group="Nacionales", eltrece#6 
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png" tvg-group="Nacionales", Net TV#7 
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/35.png" tvg-group="Locales", CANAL 8 TUCUMÁN#8 
 https://ythls.onrender.com/channel/UCYozHHDnLnQs2yc2k3t8cPA.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Canal-10-tuc.png" tvg-group="Locales", Canal 10 | Tucuman 
-
-
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/175.png" tvg-group="Locales", America | Tucuman#9 
 https://ythls.onrender.com/channel/UCZ8sgVyD7HqDor8ujB-TZpg.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/36.png" tvg-group="Noticias", TN #10
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/709.png" tvg-group="Noticias", C5N#11 
 https://ythls.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/343.png" tvg-group="Noticias", A24 #12
 https://ythls.onrender.com/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
-
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/3.png" tvg-group="Noticias", Canal 26 #13
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/3644.png" tvg-group="Noticias", LN+#14
-
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Logo_Diputados_TV.png" tvg-group="Noticias", Diputados TV #15
 https://ythls.onrender.com/channel/UC1h8_HKc5wScqeRw1HV6a6w.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/40.png" tvg-group="Deportes", TyC Sports#16
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_1.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/2195.png" tvg-group="Deportes", Deportv #17
 https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/11.png" tvg-group="Variedades", Canal Rural #18
 https://cda2.alsolnet.com/elrural/live/playlist.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/477.png" tvg-group="Cultura y Documentales", Encuentro#19
 https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8 
-
-
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/349.png" tvg-group="Religion",enlace#20
 https://11554-1.b.cdn13.com/EnlaceTV/smil:enlace-FullHD.smil/chunklist_b3112000_sleng.m3u8 
-
-
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/1492.png" tvg-group="Infantiles", Paka Paka#21
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8 
-
-
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/57.png" tvg-group="Variedades", Argentinisima Satelital#22
 https://stream1.sersat.com/hls/argentinisima.m3u8 
-
-
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/226.png" tvg-group="Infantiles", Cartoon Network #23
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/174.png" tvg-group="Infantiles", Cartoonito #24
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
-
-
 EXTINF:-1,EL PALOMAR TUCUMAN#25
 https://stream.trixserver.com:3249/live/uv038live.m3u8
-
 EXTINF:-1,RETRO PLUS#26
 https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8
 EXTINF:-1,RETRO PLUS 2#27
 https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/playlist.m3u8
 EXTINF:-1,RETRO PLUS 3#28
 https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8
-
 EXTINF:-1,CINE AR#29
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 EXTINF:-1,CIUDAD MAGICA#30
 https://tv.initium.net.ar:3235/live/grupocitylive.m3u8
 EXTINF:-1 tvg-logo="https://i.ibb.co/wRcv19b/Imagen-dummy.png" tvg-group="ARGENTINA", CRONICA TV#31
 https://ythls.onrender.com/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
-
 EXTINF:-1,C5N#32
 https://ythls.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
-
 EXTINF:-1,LA VOZ TUCUMAN#33
 https://srv3.zcast.com.br/lavozdetucumanhd/lavozdetucumanhd/playlist.m3u8
 EXTINF:-1,MAGIC KIDS#34
 https://magicstream.ddns.net/magicstream/stream.m3u8
-
 EXTINF:-1,MAS MUSICA#35
 https://stmv1.cnarlatam.com/televideo/televideo/playlist.m3u8
 EXTINF:-1,MUSIC TOP#36
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
-
-
 EXTINF:-1,MAGIC KIDS#37
 https://magicstream.ddns.net/magicstream/stream.m3u8
 EXTINF:-1,RETRO MAGICO#38
 https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
-
-
 #EXTINF:-1,AE Mundo#39
 http://190.60.36.103:8000/play/a011/index.m3u8
 #EXTINF:-1,AXN#40
 http://190.60.36.103:8000/play/a06g/index.m3u8
- 
-
-#EXTINF:-1,Animal Planet#41
+ #EXTINF:-1,Animal Planet#41
 http://190.60.36.103:8000/play/a00v/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HPnbTg4/babytv.png" tvg-group="INFANTILES", BABY TV#42
 http://190.60.36.103:8000/play/a04f/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MBBRBkz.png" group-title="Mundo", CNN#43
 http://190.60.36.103:8000/play/a00h/index.m3u8
-
  #EXTINF:-1 tvg-logo="https://i.imgur.com/iGCVGEA.jpg" group-title="Mundo", HolaTV http://tv.teleclub.xyz/envivo/Mundo/HOLATV/index.m3u8 #EXTINF:-1 tvg-logo="https://i.imgur.com/kaTu9Qb.png" group-title="Mundo", Las Estrellas
-
 http://190.60.36.103:8000/play/a013/index.m3u8
-
-
 #EXTINF:-1,Cartoon Network#44
 http://190.60.36.103:8000/play/a00d/index.m3u8
-
 #EXTINF:-1,Cinemax#45
 http://190.60.36.103:8000/play/a06e/index.m3u8
-
 #EXTINF:-1,De Pelicula#46
 http://190.60.36.103:8000/play/De Pelicula/index.m3u8
 #EXTINF:-1,Discovery Channel#47
@@ -190,18 +120,14 @@ http://190.60.36.103:8000/play/a06s/index.m3u8
 http://190.60.36.103:8000/play/a01b/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0hPTcck/espncl.png" tvg-group="DEPORTES", ESPN CL#59
 http://190.60.36.103:8000/play/a01i/index.m3u8
-
-
 #EXTINF:-1,Enlace#60
 http://190.60.36.103:8000/play/a00f/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZGbW8yM/fx.png" tvg-group="CINE Y SERIES", FX#61
 http://190.60.36.103:8000/play/a06i/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3ryQDk2/foxsports2ar.png" tvg-group="DEPORTES", FOX SPORTS 2#62
 http://190.60.36.103:8000/play/a014/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1Z0dCS5/foxsports3ar.png" tvg-group="DEPORTES", FOX SPORTS 3#63
 http://190.60.36.103:8000/play/a015/index.m3u8
-
  #EXTINF:-1 tvg-logo="https://i.imgur.com/9shfcbz.png" group-title="Mundo"#64
 http://190.60.36.103:8000/play/a04o/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KD4s81z/Golden-logo.png" tvg-group="CINE Y SERIES", GOLDEN#65
@@ -224,14 +150,10 @@ http://190.60.36.103:8000/play/History2/index.m3u8
 http://190.60.36.103:8000/play/a01a/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HDLNXWr/ISAT-LOGO.png" tvg-group="CINE Y SERIES", ISAT#74
 http://190.60.36.103:8000/play/a007/index.m3u8
-
-
 #EXTINF:-1,Lifetime#75
 http://190.60.36.103:8000/play/a04g/index.m3u8
-
 #EXTINF:-1,MTV#76
 http://190.60.36.103:8000/play/a008/index.m3u8
-
 #EXTINF:-1,Nat Geo#77
 http://190.60.36.103:8000/play/a003/index.m3u8
 #EXTINF:-1,Nick Jr#78
@@ -242,7 +164,6 @@ http://190.60.36.103:8000/play/a001/index.m3u8
 http://190.60.36.103:8000/play/a017/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6Dfxqjp/star.png" tvg-group="CINE Y SERIES", STAR#81
 http://190.60.36.103:8000/play/a00a/index.m3u8
-
 #EXTINF:-1,Sony#82
 http://190.60.36.103:8000/play/a06f/index.m3u8
 #EXTINF:-1,Space#83
@@ -251,20 +172,14 @@ http://190.60.36.103:8000/play/a06h/index.m3u8
 http://190.60.36.103:8000/play/a04k/index.m3u8
 #EXTINF:-1,SyFy#85
 http://190.60.36.103:8000/play/a04h/index.m3u8
-
 #EXTINF:-1,TLC#86
 http://190.60.36.103:8000/play/a012/index.m3u8
 #EXTINF:-1,TNT#87
 http://190.60.36.103:8000/play/a00e/index.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/163X7Gy/telemundo.png" tvg-group="CINE Y SERIES", TELEMUNDO#88
 http://190.60.36.103:8000/play/a016/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SVPbvZM/qr-UC8x-C8-400x400.png" tvg-group="CINE Y SERIES", TLNOVELAS #89
 http://190.60.36.103:8000/play/a073/index.m3u8
-
-
 #EXTINF:-1,TyC#90
 http://190.60.36.103:8000/play/a036/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Z2LQWrH/universal.png" tvg-group="CINE Y SERIES", UNIVERSAL#91
@@ -275,14 +190,12 @@ http://190.60.36.103:8000/play/a04t/index.m3u8
 http://190.60.36.103:8000/play/a04w/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Dz3NcB1/ucinema.png" tvg-group="CINE Y SERIES", UNIVERSAL CINEMA#94
 http://190.60.36.103:8000/play/a04s/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T0jMb06/warner.png" tvg-group="CINE Y SERIES", WARNER#95
 http://190.60.36.103:8000/play/a00w/index.m3u8
 #EXTINF:-1,Win#96
 http://190.60.36.103:8000/play/a06k/index.m3u8
 #EXTINF:-1,Win Sports+#97
 http://190.60.36.103:8000/play/a035/index.m3u8
-
 EXTINF:-1,TELEMAX#98
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 #EXTINF:-1,  A&E HD#99
@@ -360,8 +273,6 @@ http://45.160.15.130:2909/play/027
 http://45.160.15.130:2909/play/032
 #EXTINF:-1, History 2 HD#135
 http://45.160.15.130:2909/play/033
-
-
 #EXTINF:-1,  Discovery Kids HD#136
 http://45.160.15.130:2909/play/005
 #EXTINF:-1,  BabyFirst#137 
@@ -393,287 +304,201 @@ http://179.51.161.3:8000/play/a020/index.m3u
 #EXTINF:-1,LAT : A&E HD#150
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/187.ts
-
 #EXTINF:-1,LAT : AMC HD#151
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/186.ts
-
 #EXTINF:-1,LAT : Animal Planet HD#152
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/174.ts
-
-
-
 #EXTINF:-1,LAT : AXN MX HD#153
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/177.ts
-
 #EXTINF:-1,LAT : Baby First HD#154
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/390.ts
-
 #EXTINF:-1,LAT : Baby TV HD#155
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/391.ts
-
 #EXTINF:-1,LAT : Boomerang HD#156
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/386.ts
-
 #EXTINF:-1,LAT : Canal Sony HD#157
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/179.ts
-
 #EXTINF:-1,LAT : Cartoon Newtwork HD#158
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/381.ts
-
-
-
 #EXTINF:-1,LAT : Cine Canal HD VIP#159
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/4.ts
-
 #EXTINF:-1,LAT : Cinemax HD VIP#160
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/55.ts
-
 #EXTINF:-1,LAT : Comedy Central HD#161
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/184.ts
-
 #EXTINF:-1,LAT : De Peliculas HD#162
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/532.ts
-
 #EXTINF:-1,LAT : Discovery Familia#163
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/56.ts
-
 #EXTINF:-1,LAT : Discovery Kids HD#164
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/388.ts
-
 #EXTINF:-1,LAT : Discovery Science HD#165
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/165.ts
-
 #EXTINF:-1,LAT : Disney Channel HD#166
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/398.ts
-
 #EXTINF:-1,LAT : Disney Junior HD#167
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/399.ts
-
 #EXTINF:-1,LAT : Disney XD HD#168
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/400.ts
-
-
-
 #EXTINF:-1,LAT : E! Entreteiment HD#169
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/188.ts
-
 #EXTINF:-1,LAT : El Gourmet HD#170
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/189.ts
-
-
-
-
-
 #EXTINF:-1,LAT : Golden HD#171
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/190.ts
-
 #EXTINF:-1,LAT : H2 History 2 HD#172
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/173.ts
-
 #EXTINF:-1,LAT : HBO 2 HD#173
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/168.ts
-
 #EXTINF:-1,LAT : HBO Family HD#174
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/169.ts
-
 #EXTINF:-1,LAT : HBO HD#175
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/167.ts
-
 #EXTINF:-1,LAT : HBO PLUS HD#176
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/170.ts
-
 #EXTINF:-1,LAT : HBO POP#177
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/61.ts
-
 #EXTINF:-1,LAT : HBO Signature HD#178
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/171.ts
-
 #EXTINF:-1,LAT : HBO XTREME HD VIP#179
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/91.ts
-
-
-
-
-
 #EXTINF:-1,LAT : Las Estrellas#180
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/88.ts
-
 #EXTINF:-1,LAT : LifeTime HD#181
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/370.ts
-
-
-
 #EXTINF:-1,LAT : MTV 80´S HD VIP#182
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/373.ts
-
 #EXTINF:-1,LAT : MTV HD#183
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/372.ts
-
 #EXTINF:-1,LAT : MTV Hits HD#184
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/374.ts
-
 #EXTINF:-1,LAT : MTV LIVE HD#185
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/375.ts
-
 #EXTINF:-1,LAT : NatGeo Kids HD#186
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/389.ts
-
-
-
 #EXTINF:-1,LAT : Nick Jr. HD#187
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/385.ts
-
 #EXTINF:-1,LAT : Nickelodeon HD#188
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/382.ts
-
 #EXTINF:-1,LAT : Nicktoon HD#189
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/383.ts
-
 #EXTINF:-1,LAT : Paramount Channel HD#190
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/180.ts
-
 #EXTINF:-1,LAT : Pasiones #191
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/10.ts
-
-
-
 #EXTINF:-1,LAT : Space HD VIP#192
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/182.ts
-
 #EXTINF:-1,LAT : Star Channel HD VIP#193
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/5.ts
-
 #EXTINF:-1,LAT : Starz Black HD#194
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/485.ts
-
 #EXTINF:-1,LAT : Starz Cinema HD#195
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/478.ts
-
 #EXTINF:-1,LAT : Starz Edge HD#196
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/484.ts
-
 #EXTINF:-1,LAT : Starz Encore Action HD#197
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/479.ts
-
 #EXTINF:-1,LAT : Starz Encore Classic HD#198
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/482.ts
-
 #EXTINF:-1,LAT : Starz Encore Family HD#199
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/481.ts
-
 #EXTINF:-1,LAT : Starz Encore Suspense#200
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/486.ts
-
 #EXTINF:-1,LAT : Starz Encore Western HD#201
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/487.ts
-
 #EXTINF:-1,LAT : Starz HD#202
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/480.ts
-
 #EXTINF:-1,LAT : Studio Universal HD VIP#203
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/163.ts
-
 #EXTINF:-1,LAT : SyFy Channel HD#204
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/181.ts
-
 #EXTINF:-1,LAT : TCM#205
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/183.ts
-
 #EXTINF:-1,LAT : Teen Nick HD#206
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/384.ts
-
 #EXTINF:-1,LAT : Telehits HD#207
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/542.ts
-
 #EXTINF:-1,LAT : Telemundo Internacional#208
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/161.ts
-
 #EXTINF:-1,LAT : TLC HD#209
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/371.ts
-
 #EXTINF:-1,LAT : TNT HD VIP#210
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/1.ts
-
 #EXTINF:-1,LAT : Tooncast HD#211
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/387.ts
-
 #EXTINF:-1,LAT : TruTV HD#212
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/185.ts
-
 #EXTINF:-1,LAT : TUDN TRANSCODER ORIGINAL HD#213
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/120.ts
-
 #EXTINF:-1,LAT : Universal Channels TV HD#214
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/175.ts
-
 #EXTINF:-1,LAT : Univision Novelas HD#215
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/86.ts
-
 #EXTINF:-1,LAT : Warner Channel HD#216
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/176.ts
