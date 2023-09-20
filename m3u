@@ -210,7 +210,7 @@ http://45.160.15.130:2909/play/174
 http://45.160.15.130:2909/play/177
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png",  Fox Sports 1 HD #110
 http://45.160.15.130:2909/play/209
-#EXTINF:-1,  Fox Sports 2 HD#111
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/2560px-Fox_Sports_2_Argentina_2023.svg.png",  Fox Sports 2 HD #111
 http://45.160.15.130:2909/play/210
 #EXTINF:-1,  Fox Sports 3 HD#112
 http://45.160.15.130:2909/play/211
