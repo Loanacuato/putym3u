@@ -111,9 +111,7 @@ http://190.60.36.103:8000/play/a00z/index.m3u8
 http://190.60.36.103:8000/play/a06s/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png", ESPN 4 #58
 http://190.60.36.103:8000/play/a01b/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0hPTcck/espncl.png" tvg-group="DEPORTES", ESPN CL#59
-http://190.60.36.103:8000/play/a01i/index.m3u8
-#EXTINF:-1,Enlace#60
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-cHVI6tOV0aY/UTY42ELH7LI/AAAAAAAADZo/R7_jdIyexFs/s1600/Enlace-logo.png", Enlace #60
 http://190.60.36.103:8000/play/a00f/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZGbW8yM/fx.png" tvg-group="CINE Y SERIES", FX#61
 http://190.60.36.103:8000/play/a06i/index.m3u8
