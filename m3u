@@ -61,7 +61,7 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 https://tv.initium.net.ar:3235/live/grupocitylive.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wRcv19b/Imagen-dummy.png" tvg-group="ARGENTINA", CRONICA TV#31
 https://ythls.onrender.com/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
-EXTINF:-1,C5N#32
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/C5N_Logo_2015.PNG", C5N #32
 https://ythls.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
 EXTINF:-1,LA VOZ TUCUMAN#33
 https://srv3.zcast.com.br/lavozdetucumanhd/lavozdetucumanhd/playlist.m3u8
