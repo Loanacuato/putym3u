@@ -262,11 +262,11 @@ http://45.160.15.130:2909/play/032
 http://45.160.15.130:2909/play/033
 #EXTINF:-1 tvg-logo="https://img2.gratispng.com/20180531/txy/kisspng-discovery-kids-logo-discovery-inc-discovery-chan-dragon-kids-5b104180be2d16.514813521527792000779.jpg",  Discovery Kids HD #136
 http://45.160.15.130:2909/play/005
-#EXTINF:-1,  BabyFirst#137 
+#EXTINF:-1 tvg-logo="https://first.media/wp-content/uploads/2020/02/BabyFirst-Logo-Horizontal.png",  BabyFirst #137 
 http://45.160.15.130:2909/play/008
-#EXTINF:-1,  Disney Junior#138 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png",  Disney Junior #138 
 http://45.160.15.130:2909/play/006
-#EXTINF:-1, Cartoon Network HD#139
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-FzWsB7E3GMQ/TzW21XrwwII/AAAAAAAAElg/_xm8KeqfibM/s1600/Cartoon_Network_logo_2004_no_3D.png", Cartoon Network HD #139
 http://45.160.15.130:2909/play/009
 #EXTINF:-1, Disney HD#140
 http://45.160.15.130:2909/play/010
