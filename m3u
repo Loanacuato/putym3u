@@ -107,9 +107,9 @@ http://190.60.36.103:8000/play/a010/index.m3u8
 http://190.60.36.103:8000/play/a00s/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png", ESPN 2 Latin #56
 http://190.60.36.103:8000/play/a00z/index.m3u8
-#EXTINF:-1,ESPN 3#57
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png", ESPN 3 #57
 http://190.60.36.103:8000/play/a06s/index.m3u8
-#EXTINF:-1,ESPN 4#58
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png", ESPN 4 #58
 http://190.60.36.103:8000/play/a01b/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0hPTcck/espncl.png" tvg-group="DEPORTES", ESPN CL#59
 http://190.60.36.103:8000/play/a01i/index.m3u8
