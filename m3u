@@ -67,9 +67,9 @@ https://ythls.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
 https://srv3.zcast.com.br/lavozdetucumanhd/lavozdetucumanhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-QpPz8HHPGHE/UNznAoyfQ9I/AAAAAAAAYRA/hM-d0ZLNSXU/s1600/magic-kids.png", MAGIC KIDS #34
 https://magicstream.ddns.net/magicstream/stream.m3u8
-#EXTINF:-1,MAS MUSICA#35
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/929/154/png-transparent-music-vocal-music-free-music-musical-note-album-logo-music-download.png", MAS MUSICA #35
 https://stmv1.cnarlatam.com/televideo/televideo/playlist.m3u8
-EXTINF:-1,MUSIC TOP#36
+#EXTINF:-1  tvg-logo="https://w7.pngwing.com/pngs/929/154/png-transparent-music-vocal-music-free-music-musical-note-album-logo-music-download.png",MUSIC TOP #36
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 EXTINF:-1,MAGIC KIDS#37
 https://magicstream.ddns.net/magicstream/stream.m3u8
