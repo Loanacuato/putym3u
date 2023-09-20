@@ -55,7 +55,7 @@ https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8
 https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/574/377/png-transparent-logo-retro-bar-design-thumbnail.png",RETRO PLUS 3 # 28
 https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8
-EXTINF:-1,CINE AR#29
+EXTINF:-1tvg-logo="https://1.bp.blogspot.com/-T_Zy_aeQPgM/YK7hkMW6aGI/AAAAAAAB-0c/3qCYg3N5wnsEvyO-n5wpZUKznafGT8VvgCLcBGAsYHQ/w1200-h630-p-k-no-nu/2560px-Cine.Ar_logo.svg+(1).png",CINE AR #29
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 EXTINF:-1,CIUDAD MAGICA#30
 https://tv.initium.net.ar:3235/live/grupocitylive.m3u8
