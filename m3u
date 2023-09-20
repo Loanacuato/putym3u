@@ -268,11 +268,11 @@ http://45.160.15.130:2909/play/008
 http://45.160.15.130:2909/play/006
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-FzWsB7E3GMQ/TzW21XrwwII/AAAAAAAAElg/_xm8KeqfibM/s1600/Cartoon_Network_logo_2004_no_3D.png", Cartoon Network HD #139
 http://45.160.15.130:2909/play/009
-#EXTINF:-1, Disney HD#140
+#EXTINF:-1 tvg-logo="http://clipart-library.com/images_k/disney-transparent-logo/disney-transparent-logo-8.png", Disney HD #140
 http://45.160.15.130:2909/play/010
-#EXTINF:-1,  Nick HD#141
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_(Logo).png",  Nick HD #141
 http://45.160.15.130:2909/play/014
-#EXTINF:-1,  Nick Jr#142 
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/08/Nick-Jr.-Logo.png",  Nick Jr #142 
 http://45.160.15.130:2909/play/015
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V2ViWPe.png" group-title="Mundo", TruTV#143
 http://179.51.161.3:8000/play/a01x/index.m3u8
