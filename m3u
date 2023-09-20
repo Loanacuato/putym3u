@@ -145,11 +145,11 @@ http://190.60.36.103:8000/play/a04g/index.m3u8
 http://190.60.36.103:8000/play/a008/index.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/National-Geographic-Logo.png", Nat Geo #77
 http://190.60.36.103:8000/play/a003/index.m3u8
-#EXTINF:-1,Nick Jr#78
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/08/Nick-Jr.-Logo.png", Nick Jr #78
 http://190.60.36.103:8000/play/a06p/index.m3u8
-#EXTINF:-1,Nickelodeon#79
+#EXTINF:-1 tvg-logo="http://logos-download.com/wp-content/uploads/2016/04/Nickelodeon_logo_logotype_2.png", Nickelodeon #79
 http://190.60.36.103:8000/play/a001/index.m3u8
-#EXTINF:-1,RCN Novelas#80
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-ZUOM6xBxUMw/AAAAAAAAAAI/AAAAAAAAAAA/_-I8vEkAWXw/s900-c-k-no-mo-rj-c0xffffff/photo.jpg", RCN Novelas #80
 http://190.60.36.103:8000/play/a017/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6Dfxqjp/star.png" tvg-group="CINE Y SERIES", STAR#81
 http://190.60.36.103:8000/play/a00a/index.m3u8
