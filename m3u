@@ -232,11 +232,11 @@ http://45.160.15.130:2909/play/083
 http://45.160.15.130:2909/play/085
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG",  AXN HD #121
 http://45.160.15.130:2909/play/087
-#EXTINF:-1,  Universal TV HD#122
+#EXTINF:-1 tvg-logo="https://clipground.com/images/universal-png-logo.png",  Universal TV HD #122
 http://45.160.15.130:2909/play/088
-#EXTINF:-1,  FX HD#123
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FX-logo.svg/1280px-FX-logo.svg.png",  FX HD #123
 http://45.160.15.130:2909/play/093
-#EXTINF:-1,  Studio Universal HD#124
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png",  Studio Universal HD #124
 http://45.160.15.130:2909/play/098
 #EXTINF:-1,  Paramount HD#125
 http://45.160.15.130:2909/play/099
