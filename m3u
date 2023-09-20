@@ -199,11 +199,9 @@ http://45.160.15.130:2909/play/110
 http://45.160.15.130:2909/play/112
 #EXTINF:-1 tvg-logo="https://www.animeunited.com.br/wp-content/uploads/2017/09/ISat.svg_.png",  I-Sat #105
 http://45.160.15.130:2909/play/116
-#EXTINF:-1,  Las Estrellas HD#107
-http://45.160.15.130:2909/play/151
-#EXTINF:-1,  E Entertainment HD#108
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/home-entertainment-logo-png-transparent.png",  E Entertainment HD #108
 http://45.160.15.130:2909/play/174
-#EXTINF:-1,  El Gourmet HD#109
+#EXTINF:-1 tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/02/Logo-El-Gourmet-696x736.jpg",  El Gourmet HD #109
 http://45.160.15.130:2909/play/177
 #EXTINF:-1,  Fox Sports 1 HD#110
 http://45.160.15.130:2909/play/209
