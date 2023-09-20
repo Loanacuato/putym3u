@@ -224,13 +224,13 @@ http://45.160.15.130:2909/play/216
 http://45.160.15.130:2909/play/218
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/674919.jpg",  ID HD #117
 http://45.160.15.130:2909/play/079
-#EXTINF:-1,  Warner Channel HD#118
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/11/Warner-Bros-Logo.png",  Warner Channel HD #118
 http://45.160.15.130:2909/play/081
 #EXTINF:-1,  Star CHannel HD#119
 http://45.160.15.130:2909/play/083
-#EXTINF:-1,  Sony HD#120
+#EXTINF:-1 tvg-logo="http://pngimg.com/uploads/sony_logo/sony_logo_PNG2.png",  Sony HD #120
 http://45.160.15.130:2909/play/085
-#EXTINF:-1,  AXN HD#121
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG",  AXN HD #121
 http://45.160.15.130:2909/play/087
 #EXTINF:-1,  Universal TV HD#122
 http://45.160.15.130:2909/play/088
