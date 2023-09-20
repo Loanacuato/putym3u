@@ -325,16 +325,16 @@ http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/56.ts
 #EXTINF:-1 tvg-logo="https://auvaromaia.com/wp-content/uploads/2015/12/Discovery_Kids.png",LAT : Discovery Kids HD #164
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/388.ts
-#EXTINF:-1,LAT : Discovery Science HD#165
+#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/1-12825_discovery-science-tv-logo-hd-png-download.png",LAT : Discovery Science HD #165
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/165.ts
 #EXTINF:-1,LAT : Disney Channel HD#166
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/398.ts
-#EXTINF:-1,LAT : Disney Junior HD#167
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/223-2233296_render-logo-disney-logos-png-image-sans-fond.png",LAT : Disney Junior HD #167
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/399.ts
-#EXTINF:-1,LAT : Disney XD HD#168
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/223-2233296_render-logo-disney-logos-png-image-sans-fond.png",LAT : Disney XD HD #168
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/400.ts
 #EXTINF:-1,LAT : E! Entreteiment HD#169
