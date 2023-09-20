@@ -218,11 +218,11 @@ http://45.160.15.130:2909/play/211
 http://45.160.15.130:2909/play/212
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png",  ESPN 2 HD #114
 http://45.160.15.130:2909/play/214
-#EXTINF:-1,  ESPN 3 HD#115
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png",  ESPN 3 HD #115
 http://45.160.15.130:2909/play/216
-#EXTINF:-1,  ESPN 4 HD#116
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png",  ESPN 4 HD #116
 http://45.160.15.130:2909/play/218
-#EXTINF:-1,  ID HD#117
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/674919.jpg",  ID HD #117
 http://45.160.15.130:2909/play/079
 #EXTINF:-1,  Warner Channel HD#118
 http://45.160.15.130:2909/play/081
