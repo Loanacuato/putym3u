@@ -244,11 +244,11 @@ http://45.160.15.130:2909/play/099
 http://45.160.15.130:2909/play/017
 #EXTINF:-1 tvg-logo="https://logospng.org/download/hbo-family/logo-hbo-family-512.png",  HBO Family HD #127
 http://45.160.15.130:2909/play/018
-#EXTINF:-1, HBO Plus SD#128
+#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/34-340329_hbo-logo-blue-hbo-plus-logo-2019-hd.png", HBO Plus SD #128
 http://45.160.15.130:2909/play/019
-#EXTINF:-1,  HBO Xtreme HD#129
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png",  HBO Xtreme HD #129
 http://45.160.15.130:2909/play/020
-#EXTINF:-1, HBO 2 HD#130
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png", HBO 2 HD #130
 http://45.160.15.130:2909/play/021
 #EXTINF:-1,  Discovery Channel HD#131 
 http://45.160.15.130:2909/play/024
