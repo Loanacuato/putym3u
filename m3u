@@ -208,7 +208,7 @@ http://45.160.15.130:2909/play/116
 http://45.160.15.130:2909/play/174
 #EXTINF:-1 tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/02/Logo-El-Gourmet-696x736.jpg",  El Gourmet HD #109
 http://45.160.15.130:2909/play/177
-#EXTINF:-1,  Fox Sports 1 HD#110
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png",  Fox Sports 1 HD #110
 http://45.160.15.130:2909/play/209
 #EXTINF:-1,  Fox Sports 2 HD#111
 http://45.160.15.130:2909/play/210
