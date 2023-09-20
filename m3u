@@ -298,13 +298,13 @@ http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/390.ts
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/0b/52/e2/0b52e21300cc30b5860ca15bc79d9c8d.png",LAT : Baby TV HD #155
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/391.ts
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-vQWpR3pgmD0/VH8OXE1-OsI/AAAAAAAABC4/mO8VmaGPS0w/s1600/Boomerang2014logo-recreation_zps7369e0dd.png~original.png",LAT : Boomerang HD #156
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-vQWpR3pgmD0/VH8OXE1-OsI/AAAAAAAABC4/mO8VmaGPS0w/s1600/Boomerang2014logo-recreation_zps7369e0dd.png~original.png",LAT : Boomerang HD # 156
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/386.ts
-#EXTINF:-1,LAT : Canal Sony HD#157
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/04/Sony-Logo-1961-1962.png",LAT : Canal Sony HD #157
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/179.ts
-#EXTINF:-1,LAT : Cartoon Newtwork HD#158
+#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/Cartoon_Network_logo_black.png",LAT : Cartoon Newtwork HD#158
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/381.ts
 #EXTINF:-1,LAT : Cine Canal HD VIP#159
