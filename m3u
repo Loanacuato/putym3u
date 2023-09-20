@@ -458,18 +458,7 @@ https://vivo.lamtv.tv:8081/a/0111/playlist.m3u8
 https://vivo.lamtv.tv:8081/a/0120/playlist.m3u8
 #EXTINF:-1,BABYTV#373
 http://204.199.120.34:16123/play/ch01
-#EXTINF:-1,DISCOVERY KIDS#374
-http://204.199.120.34:16123/play/ch02
-#EXTINF:-1,DISNEY#375
-http://204.199.120.34:16123/play/ch03
-#EXTINF:-1,DISNEY JR#376
-http://204.199.120.34:16123/play/ch05
-#EXTINF:-1,INFANTIL#377
-http://204.199.120.34:16123/play/ch06
-#EXTINF:-1,STAR#378
-http://204.199.120.34:16123/play/ch07
-#EXTINF:-1,FX#379
-http://204.199.120.34:16123/play/ch08
+
 #EXTINF:-1,CINECANAL#380
 http://204.199.120.34:16123/play/ch10
 #EXTINF:-1,Film&Arts#381
