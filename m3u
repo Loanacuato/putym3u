@@ -113,21 +113,19 @@ http://190.60.36.103:8000/play/a06s/index.m3u8
 http://190.60.36.103:8000/play/a01b/index.m3u8
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-cHVI6tOV0aY/UTY42ELH7LI/AAAAAAAADZo/R7_jdIyexFs/s1600/Enlace-logo.png", Enlace #60
 http://190.60.36.103:8000/play/a00f/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZGbW8yM/fx.png" tvg-group="CINE Y SERIES", FX#61
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZGbW8yM/fx.png" tvg-group="CINE Y SERIES", FX #61
 http://190.60.36.103:8000/play/a06i/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3ryQDk2/foxsports2ar.png" tvg-group="DEPORTES", FOX SPORTS 2#62
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3ryQDk2/foxsports2ar.png" tvg-group="DEPORTES", FOX SPORTS 2 #62
 http://190.60.36.103:8000/play/a014/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1Z0dCS5/foxsports3ar.png" tvg-group="DEPORTES", FOX SPORTS 3#63
-http://190.60.36.103:8000/play/a015/index.m3u8
- #EXTINF:-1 tvg-logo="https://i.imgur.com/9shfcbz.png" group-title="Mundo"#64
-http://190.60.36.103:8000/play/a04o/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KD4s81z/Golden-logo.png" tvg-group="CINE Y SERIES", GOLDEN#65
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1Z0dCS5/foxsports3ar.png" tvg-group="DEPORTES", FOX SPORTS 3 #63
+http://190.60.36.103:8000/play/a015/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KD4s81z/Golden-logo.png" tvg-group="CINE Y SERIES", GOLDEN #65
 http://190.60.36.103:8000/play/a053/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rZmZZsw/hbo.png" tvg-group="CINE Y SERIES", HBO#66
 http://190.60.36.103:8000/play/a06d/index.m3u8
-#EXTINF:-1,HBO 2#67
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png", HBO 2 #67
 http://190.60.36.103:8000/play/a00n/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2Y7MY0J/hbofamily.png" tvg-group="CINE Y SERIES", HBO FAMILY#68
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" tvg-group="CINE Y SERIES", HBO FAMILY #68
 http://190.60.36.103:8000/play/a00q/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FhWCVw7/hboplus.png" tvg-group="CINE Y SERIES", HBO PLUS#69
 http://190.60.36.103:8000/play/a00o/index.m3u8
