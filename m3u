@@ -85,11 +85,9 @@ http://190.60.36.103:8000/play/a00h/index.m3u8
 http://190.60.36.103:8000/play/a013/index.m3u8
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/logo-Cartoon-Network.png", Cartoon Network #44
 http://190.60.36.103:8000/play/a00d/index.m3u8
-#EXTINF:-1,Cinemax#45
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_(Yellow).svg/1200px-Cinemax_(Yellow).svg.png", Cinemax #45
 http://190.60.36.103:8000/play/a06e/index.m3u8
-#EXTINF:-1,De Pelicula#46
-http://190.60.36.103:8000/play/De Pelicula/index.m3u8
-#EXTINF:-1,Discovery Channel#47
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png", Discovery Channel #47
 http://190.60.36.103:8000/play/a00u/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6PPyvXN/id.png" tvg-group="CIENCIA Y CULTURA", INVESTIGATION DISCOVERY#48
 http://190.60.36.103:8000/play/a018/index.m3u8
