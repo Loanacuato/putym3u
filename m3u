@@ -212,11 +212,11 @@ http://45.160.15.130:2909/play/177
 http://45.160.15.130:2909/play/209
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/2560px-Fox_Sports_2_Argentina_2023.svg.png",  Fox Sports 2 HD #111
 http://45.160.15.130:2909/play/210
-#EXTINF:-1,  Fox Sports 3 HD#112
+#EXTINF:-1 tvg-logo="https://www.glasnet.nl/images/foxsports-3.png",  Fox Sports 3 HD #112
 http://45.160.15.130:2909/play/211
-#EXTINF:-1,  ESPN HD#113
+#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/05/ESPN_logo_wordmark.png",  ESPN HD #113
 http://45.160.15.130:2909/play/212
-#EXTINF:-1,  ESPN 2 HD#114
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png",  ESPN 2 HD #114
 http://45.160.15.130:2909/play/214
 #EXTINF:-1,  ESPN 3 HD#115
 http://45.160.15.130:2909/play/216
