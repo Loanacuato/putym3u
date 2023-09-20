@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/g72RdTP/Star-PNG-File.png" tvg-group=Nacionales",America#1
+#EXTINF:-1 tvg-logo="https://pluspng.com/img-png/logo-america-tv-png-open-2000.png" tvg-group=Nacionales",America#1
 http://190.60.36.103:8000/play/a03q/index.m3u8
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/292.png" tvg-group="Nacionales", TV Publica#2
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
