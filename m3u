@@ -193,15 +193,12 @@ http://45.160.15.130:2909/play/107
 http://45.160.15.130:2909/play/108
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1200px-TNT_Logo_2016.svg.png",  TNT HD #102
 http://45.160.15.130:2909/play/109
-#EXTINF:-1, TCM #103
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png", TCM #103
 http://45.160.15.130:2909/play/110
-#EXTINF:-1,  Cinemax HD#104
+#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/287-2873744_cinemax-logo-png-transparent-png.png",  Cinemax HD #104
 http://45.160.15.130:2909/play/112
-#EXTINF:-1,  I-Sat #105
+#EXTINF:-1 tvg-logo="https://www.animeunited.com.br/wp-content/uploads/2017/09/ISat.svg_.png",  I-Sat #105
 http://45.160.15.130:2909/play/116
-#EXTINF:-1, |CHL|, 119 Space HD
-#EXTINF:-1,  Pasiones HD#106
-http://45.160.15.130:2909/play/150
 #EXTINF:-1,  Las Estrellas HD#107
 http://45.160.15.130:2909/play/151
 #EXTINF:-1,  E Entertainment HD#108
