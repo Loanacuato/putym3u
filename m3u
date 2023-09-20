@@ -49,7 +49,7 @@ https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
 EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/palomar-logo-png-transparent.png" tvg-group="tucuman" , EL PALOMAR TUCUMAN#25
 https://stream.trixserver.com:3249/live/uv038live.m3u8
-EXTINF:-1tvg-logo"https://mytv.studio/watch/upload/retroplus.png"RETRO PLUS#26
+EXTINF:-1tvg-logo"https://mytv.studio/watch/upload/retroplus.png",RETRO PLUS#26
 https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8
 EXTINF:-1,RETRO PLUS 2#27
 https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/playlist.m3u8
