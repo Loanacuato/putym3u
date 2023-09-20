@@ -256,11 +256,11 @@ http://45.160.15.130:2909/play/024
 http://45.160.15.130:2909/play/025
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/National-Geographic-Emblem.png",  Nat Geo HD #133
 http://45.160.15.130:2909/play/027
-#EXTINF:-1,  History Channel HD#134
+#EXTINF:-1 tvg-logo="http://www.connecttv.se/app/uploads/2020/06/channel_logo_history_hd.png",  History Channel HD #134
 http://45.160.15.130:2909/play/032
-#EXTINF:-1, History 2 HD#135
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/H2_logo.png", History 2 HD #135
 http://45.160.15.130:2909/play/033
-#EXTINF:-1,  Discovery Kids HD#136
+#EXTINF:-1 tvg-logo="https://img2.gratispng.com/20180531/txy/kisspng-discovery-kids-logo-discovery-inc-discovery-chan-dragon-kids-5b104180be2d16.514813521527792000779.jpg",  Discovery Kids HD #136
 http://45.160.15.130:2909/play/005
 #EXTINF:-1,  BabyFirst#137 
 http://45.160.15.130:2909/play/008
