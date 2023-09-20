@@ -238,11 +238,11 @@ http://45.160.15.130:2909/play/088
 http://45.160.15.130:2909/play/093
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png",  Studio Universal HD #124
 http://45.160.15.130:2909/play/098
-#EXTINF:-1,  Paramount HD#125
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-0.png",  Paramount HD #125
 http://45.160.15.130:2909/play/099
-#EXTINF:-1,  HBO HD#126
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/01/logo-HBO.png",  HBO HD #126
 http://45.160.15.130:2909/play/017
-#EXTINF:-1,  HBO Family HD#127
+#EXTINF:-1 tvg-logo="https://logospng.org/download/hbo-family/logo-hbo-family-512.png",  HBO Family HD #127
 http://45.160.15.130:2909/play/018
 #EXTINF:-1, HBO Plus SD#128
 http://45.160.15.130:2909/play/019
