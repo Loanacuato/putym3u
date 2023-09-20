@@ -139,11 +139,11 @@ http://190.60.36.103:8000/play/History2/index.m3u8
 http://190.60.36.103:8000/play/a01a/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HDLNXWr/ISAT-LOGO.png" tvg-group="CINE Y SERIES", ISAT#74
 http://190.60.36.103:8000/play/a007/index.m3u8
-#EXTINF:-1,Lifetime#75
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/440px-Logo_Lifetime_2020.svg.png", Lifetime #75
 http://190.60.36.103:8000/play/a04g/index.m3u8
-#EXTINF:-1,MTV#76
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/MTV-Emblem.png", MTV #76
 http://190.60.36.103:8000/play/a008/index.m3u8
-#EXTINF:-1,Nat Geo#77
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/National-Geographic-Logo.png", Nat Geo #77
 http://190.60.36.103:8000/play/a003/index.m3u8
 #EXTINF:-1,Nick Jr#78
 http://190.60.36.103:8000/play/a06p/index.m3u8
