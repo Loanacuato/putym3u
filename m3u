@@ -47,7 +47,7 @@ https://stream1.sersat.com/hls/argentinisima.m3u8
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/174.png" tvg-group="Infantiles", Cartoonito #24
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
-EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/palomar-logo-png-transparent.png" tvg-group=#tucuman" , EL PALOMAR TUCUMAN#25
+EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/palomar-logo-png-transparent.png" tvg-group="tucuman" , EL PALOMAR TUCUMAN#25
 https://stream.trixserver.com:3249/live/uv038live.m3u8
 EXTINF:-1,RETRO PLUS#26
 https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8
