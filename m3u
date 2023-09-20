@@ -316,13 +316,13 @@ http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/55.ts
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/982922.png",LAT : Comedy Central HD #161
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/184.ts
-#EXTINF:-1,LAT : De Peliculas HD#162
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png",LAT : De Peliculas HD #162
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/532.ts
-#EXTINF:-1,LAT : Discovery Familia#163
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Discovery_Familia_logo.svg/1200px-Discovery_Familia_logo.svg.png",LAT : Discovery Familia #163
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/56.ts
-#EXTINF:-1,LAT : Discovery Kids HD#164
+#EXTINF:-1 tvg-logo="https://auvaromaia.com/wp-content/uploads/2015/12/Discovery_Kids.png",LAT : Discovery Kids HD #164
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/388.ts
 #EXTINF:-1,LAT : Discovery Science HD#165
