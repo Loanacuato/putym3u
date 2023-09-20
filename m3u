@@ -250,11 +250,11 @@ http://45.160.15.130:2909/play/019
 http://45.160.15.130:2909/play/020
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png", HBO 2 HD #130
 http://45.160.15.130:2909/play/021
-#EXTINF:-1,  Discovery Channel HD#131 
+#EXTINF:-1 tvg-logo="https://img2.gratispng.com/20180404/poe/kisspng-discovery-channel-logo-television-channel-discover-investigation-5ac4e8fb2f2be3.8742228415228541391932.jpg",  Discovery Channel HD #131 
 http://45.160.15.130:2909/play/024
-#EXTINF:-1,  Animal Planet HD#132
+#EXTINF:-1 tvg-logo="http://logos-download.com/wp-content/uploads/2016/06/Animal_Planet_channel_logo_green.png",  Animal Planet HD #132
 http://45.160.15.130:2909/play/025
-#EXTINF:-1,  Nat Geo HD#133
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/National-Geographic-Emblem.png",  Nat Geo HD #133
 http://45.160.15.130:2909/play/027
 #EXTINF:-1,  History Channel HD#134
 http://45.160.15.130:2909/play/032
