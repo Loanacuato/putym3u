@@ -280,16 +280,16 @@ http://179.51.161.3:8000/play/a01x/index.m3u8
 http://179.51.161.3:8000/play/a03u/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png",FOX Sports 2 HD #145
 http://179.51.161.3:8000/play/a04u/index.m3u8
-#EXTINF:-1,LAT : A&E HD#150
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/images/large/2x/ae-logo-png-transparent.png",LAT : A&E HD #150
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/187.ts
-#EXTINF:-1,LAT : AMC HD#151
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/01/amc-logo-0.png",LAT : AMC HD #151
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/186.ts
-#EXTINF:-1,LAT : Animal Planet HD#152
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-30p9JzBu8rY/U30uOKypXAI/AAAAAAAACZI/Q8L6Tnrh9xw/s1600/Logo+Animal_Planet.png",LAT : Animal Planet HD #152
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/174.ts
-#EXTINF:-1,LAT : AXN MX HD#153
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_(2015).svg/1200px-AXN_logo_(2015).svg.png",LAT : AXN MX HD #153
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/177.ts
 #EXTINF:-1,LAT : Baby First HD#154
