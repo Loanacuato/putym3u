@@ -247,7 +247,7 @@ http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/173.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png",LAT : HBO 2 HD#173
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/168.ts
-#EXTINF:-1,LAT : HBO Family HD#174
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/789117.jpg",LAT : HBO Family HD#174
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/169.ts
 #EXTINF:-1,LAT : HBO HD#175
