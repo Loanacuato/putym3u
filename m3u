@@ -241,10 +241,10 @@ http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/189.ts
 #EXTINF:-1 tvg-logo="https://televall.online/images/golden-hd.png",LAT : Golden HD #171
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/190.ts
-#EXTINF:-1,LAT : H2 History 2 HD#172
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/H2_logo.png",LAT : H2 History 2 HD#172
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/173.ts
-#EXTINF:-1,LAT : HBO 2 HD#173
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png",LAT : HBO 2 HD#173
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/168.ts
 #EXTINF:-1,LAT : HBO Family HD#174
