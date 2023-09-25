@@ -331,10 +331,10 @@ http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/163.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/1200px-Syfy.svg.png",LAT : SyFy Channel HD#204
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/181.ts
-#EXTINF:-1,LAT : TCM#205
+#EXTINF:-1 tvg-logo="https://www.entel.cl/public/logos/canales/tcm.png",LAT : TCM#205
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/183.ts
-#EXTINF:-1,LAT : Teen Nick HD#206
+#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180603/isl/kisspng-teennick-nickelodeon-television-channel-television-nickcom-5b143ff65d8d41.9739192315280537503832.jpg",LAT : Teen Nick HD#206
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/384.ts
 #EXTINF:-1,LAT : Telehits HD#207
