@@ -316,19 +316,19 @@ http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/482.ts
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Logo-700x394.png",LAT : Starz Encore Family HD#199
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/481.ts
-#EXTINF:-1,LAT : Starz Encore Suspense#200
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Logo-700x394.png",LAT : Starz Encore Suspense#200
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/486.ts
-#EXTINF:-1,LAT : Starz Encore Western HD#201
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Logo-700x394.png",LAT : Starz Encore Western HD#201
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/487.ts
-#EXTINF:-1,LAT : Starz HD#202
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Logo-700x394.png",LAT : Starz HD#202
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/480.ts
-#EXTINF:-1,LAT : Studio Universal HD VIP#203
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-zlI0-aFvSPs/VhWxcrzH_II/AAAAAAAAlqc/pT2pu__qCtM/s1600/2000px-Logo_Studio_Universal.svg.png",LAT : Studio Universal HD VIP#203
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/163.ts
-#EXTINF:-1,LAT : SyFy Channel HD#204
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/1200px-Syfy.svg.png",LAT : SyFy Channel HD#204
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/181.ts
 #EXTINF:-1,LAT : TCM#205
