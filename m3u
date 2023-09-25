@@ -265,13 +265,13 @@ http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/171.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png",LAT : HBO XTREME HD VIP#179
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/91.ts
-#EXTINF:-1,LAT : Las Estrellas#180
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-ED6deyYT1u4/WB_QGGftdbI/AAAAAAAABLg/2_HUFFQUGxsX1gt572lECXYFxziIx4VIwCLcB/s1600/canaldelasestrellas-2014.png",LAT : Las Estrellas#180
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/88.ts
-#EXTINF:-1,LAT : LifeTime HD#181
+#EXTINF:-1 tvg-logo="https://clipground.com/images/lifetime-png-5.png",LAT : LifeTime HD#181
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/370.ts
-#EXTINF:-1,LAT : MTV HD#183
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/MTV-Emblem.png",LAT : MTV HD#183
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/372.ts
 #EXTINF:-1,LAT : MTV LIVE HD#185
