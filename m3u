@@ -259,10 +259,10 @@ http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/170.ts
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-EJTtl-LVH2w/X-gfDMKZ4iI/AAAAAAAAQFA/w6o67oSLFD81ZuO-Z1fyauIP-s-tzkXEACLcBGAsYHQ/w1200-h630-p-k-no-nu/hbopop.png",LAT : HBO POP#177
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/61.ts
-#EXTINF:-1,LAT : HBO Signature HD#178
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png",LAT : HBO Signature HD#178
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/171.ts
-#EXTINF:-1,LAT : HBO XTREME HD VIP#179
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png",LAT : HBO XTREME HD VIP#179
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/91.ts
 #EXTINF:-1,LAT : Las Estrellas#180
