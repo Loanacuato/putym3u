@@ -274,13 +274,13 @@ http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/370.ts
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/MTV-Emblem.png",LAT : MTV HD#183
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/372.ts
-#EXTINF:-1,LAT : MTV LIVE HD#185
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/MTV-Emblem.png",LAT : MTV LIVE HD#185
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/375.ts
-#EXTINF:-1,LAT : NatGeo Kids HD#186
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-CLEv4CrGX2Y/Uuj8AqjHycI/AAAAAAAAAJ4/bzb7bgcOGi4/s1600/NatGeoLogo.jpg",LAT : NatGeo Kids HD#186
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/389.ts
-#EXTINF:-1,LAT : Nick Jr. HD#187
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png",LAT : Nick Jr. HD#187
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/385.ts
 #EXTINF:-1,LAT : Nickelodeon HD#188
