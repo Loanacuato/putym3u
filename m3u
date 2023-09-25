@@ -389,29 +389,18 @@ http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/164.ts
 
 
 
-#EXTINF:1,TUDN#367
-#EXTVLCOPT:http-user-agent=FFFFF
-https://vivo.lamtv.tv:8081/a/0139/playlist.m3u8
-#EXTINF:1,TVN#368
-#EXTVLCOPT:http-user-agent=FFFFF
-https://vivo.lamtv.tv:8081/a/0199/playlist.m3u8
-#EXTINF:1,TYC SPORTS#369
-#EXTVLCOPT:http-user-agent=FFFFF
-https://vivo.lamtv.tv:8081/a/0140/playlist.m3u8
+
 #EXTINF:1,UNIVERSAL TV#370
 #EXTVLCOPT:http-user-agent=FFFFF
 https://vivo.lamtv.tv:8081/a/0110/playlist.m3u8
-#EXTINF:1,WARNER TV#371
-#EXTVLCOPT:http-user-agent=FFFFF
-https://vivo.lamtv.tv:8081/a/0111/playlist.m3u8
+
 #EXTINF:1,WIN SPORTS#372
 #EXTVLCOPT:http-user-agent=FFFFF
 https://vivo.lamtv.tv:8081/a/0120/playlist.m3u8
 #EXTINF:-1,BABYTV#373
 http://204.199.120.34:16123/play/ch01
 
-#EXTINF:-1,CINECANAL#380
-http://204.199.120.34:16123/play/ch10
+
 #EXTINF:-1,Film&Arts#381
 http://204.199.120.34:16123/play/ch11
 #EXTINF:-1,CINELATINO#382
@@ -428,8 +417,7 @@ http://204.199.120.34:16123/play/ch18
 http://204.199.120.34:16123/play/ch19
 #EXTINF:-1,FOX SPORTS 2#388
 http://204.199.120.34:16123/play/ch20
-#EXTINF:-1,FOX SPORTS 3#389
-http://204.199.120.34:16123/play/ch21
+
 #EXTINF:-1,DISCOVERY#390
 http://204.199.120.34:16123/play/ch22
 #EXTINF:-1,ID#391
@@ -452,16 +440,8 @@ http://204.199.120.34:16123/play/ch31
 http://204.199.120.34:16123/play/ch32
 #EXTINF:-1,MAS CHIC#400
 http://204.199.120.34:16123/play/ch33
-#EXTINF:-1,GLITZ#401
-http://204.199.120.34:16123/play/ch34
-#EXTINF:-1,PASIONES#402
-http://204.199.120.34:16123/play/ch35
-#EXTINF:-1,ENLACE#403
-http://204.199.120.34:16123/play/ch38
-#EXTINF:-1,LAS ESTRELLAS#404
-http://204.199.120.34:16123/play/ch44
-#EXTINF:-1,TLNOVELAS#405
-http://204.199.120.34:16123/play/ch45
+
+
 #EXTINF:-1,GOLDEN#406
 http://204.199.120.34:16123/play/ch46
 #EXTINF:-1,GOLDEN EDGE#407
