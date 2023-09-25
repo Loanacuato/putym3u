@@ -295,25 +295,25 @@ http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/10.ts
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-rYwZhGBJZdU/XM5BsO_CaYI/AAAAAAABUrI/yrJOEcxR7JUypJu2YmyMs8dyd6uG6EmsACPcBGAYYCw/s1600/SPACE-min.jpg",LAT : Space HD VIP#192
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/182.ts
-#EXTINF:-1,LAT : Star Channel HD VIP#193
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/star-channel-logo-43098CF416-seeklogo.com.png",LAT : Star Channel HD VIP#193
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/5.ts
-#EXTINF:-1,LAT : Starz Black HD#194
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Logo-700x394.png",LAT : Starz Black HD#194
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/485.ts
-#EXTINF:-1,LAT : Starz Cinema HD#195
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Logo-700x394.png",LAT : Starz Cinema HD#195
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/478.ts
-#EXTINF:-1,LAT : Starz Edge HD#196
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Logo-700x394.png",LAT : Starz Edge HD#196
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/484.ts
-#EXTINF:-1,LAT : Starz Encore Action HD#197
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Logo-700x394.png,LAT : Starz Encore Action HD#197
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/479.ts
-#EXTINF:-1,LAT : Starz Encore Classic HD#198
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Logo-700x394.png",LAT : Starz Encore Classic HD#198
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/482.ts
-#EXTINF:-1,LAT : Starz Encore Family HD#199
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Logo-700x394.png",LAT : Starz Encore Family HD#199
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/481.ts
 #EXTINF:-1,LAT : Starz Encore Suspense#200
