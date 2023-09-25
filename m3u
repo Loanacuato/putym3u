@@ -283,16 +283,16 @@ http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/389.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png",LAT : Nick Jr. HD#187
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/385.ts
-#EXTINF:-1,LAT : Nickelodeon HD#188
+#EXTINF:-1 tvg-logo="http://1000logos.net/wp-content/uploads/2017/03/Font-of-the-Nickelodeon-Logo.jpg",LAT : Nickelodeon HD#188
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/382.ts
-#EXTINF:-1,LAT : Paramount Channel HD#190
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-0.png",LAT : Paramount Channel HD#190
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/180.ts
-#EXTINF:-1,LAT : Pasiones #191
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-yMmjBYqcyx4/Xyz9H_Mm16I/AAAAAAAAAu8/-gjkAmYda4AhuMemziNObIZZzy6_YbDhACNcBGAsYHQ/s640/PasionesLogo.png",LAT : Pasiones #191
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/10.ts
-#EXTINF:-1,LAT : Space HD VIP#192
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-rYwZhGBJZdU/XM5BsO_CaYI/AAAAAAABUrI/yrJOEcxR7JUypJu2YmyMs8dyd6uG6EmsACPcBGAYYCw/s1600/SPACE-min.jpg",LAT : Space HD VIP#192
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/182.ts
 #EXTINF:-1,LAT : Star Channel HD VIP#193
