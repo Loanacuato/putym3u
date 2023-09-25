@@ -190,7 +190,6 @@ http://190.60.36.103:8000/play/a00w/index.m3u8
 http://190.60.36.103:8000/play/a06k/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/1200px-Win_Sports%2B_logo.svg.png", Win Sports+ #97
 http://190.60.36.103:8000/play/a035/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.thoughtco.com/thmb/7SiGVptV1daM4Gwlu8DQDtWT-SU=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/Babyfirst-logo-579d69815f9b589aa9ac47ca.png",LAT : Baby first
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/390.ts
@@ -203,7 +202,6 @@ http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/386.ts
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/04/Sony-Logo-1961-1962.png",LAT : Canal Sony HD #157
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/179.ts
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png",LAT : Cine Canal HD VIP #159
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/4.ts
@@ -273,11 +271,9 @@ http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/88.ts
 #EXTINF:-1,LAT : LifeTime HD#181
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/370.ts
-
 #EXTINF:-1,LAT : MTV HD#183
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/372.ts
-
 #EXTINF:-1,LAT : MTV LIVE HD#185
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/375.ts
@@ -290,7 +286,6 @@ http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/385.ts
 #EXTINF:-1,LAT : Nickelodeon HD#188
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/382.ts
-
 #EXTINF:-1,LAT : Paramount Channel HD#190
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/180.ts
@@ -384,23 +379,14 @@ http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/76.ts
 #EXTINF:-1,LAT | Discovery World HD VIP#220
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/164.ts
-
-
-
-
-
-
 #EXTINF:1,UNIVERSAL TV#370
 #EXTVLCOPT:http-user-agent=FFFFF
 https://vivo.lamtv.tv:8081/a/0110/playlist.m3u8
-
 #EXTINF:1,WIN SPORTS#372
 #EXTVLCOPT:http-user-agent=FFFFF
 https://vivo.lamtv.tv:8081/a/0120/playlist.m3u8
 #EXTINF:-1,BABYTV#373
 http://204.199.120.34:16123/play/ch01
-
-
 #EXTINF:-1,Film&Arts#381
 http://204.199.120.34:16123/play/ch11
 #EXTINF:-1,CINELATINO#382
@@ -417,7 +403,6 @@ http://204.199.120.34:16123/play/ch18
 http://204.199.120.34:16123/play/ch19
 #EXTINF:-1,FOX SPORTS 2#388
 http://204.199.120.34:16123/play/ch20
-
 #EXTINF:-1,DISCOVERY#390
 http://204.199.120.34:16123/play/ch22
 #EXTINF:-1,ID#391
@@ -440,8 +425,6 @@ http://204.199.120.34:16123/play/ch31
 http://204.199.120.34:16123/play/ch32
 #EXTINF:-1,MAS CHIC#400
 http://204.199.120.34:16123/play/ch33
-
-
 #EXTINF:-1,GOLDEN#406
 http://204.199.120.34:16123/play/ch46
 #EXTINF:-1,GOLDEN EDGE#407
@@ -454,7 +437,6 @@ http://204.199.120.34:16123/play/ch49
 http://204.199.120.34:16123/play/ch51
 #EXTINF:-1,CINE FAMILIAR#411
 http://204.199.120.34:16123/play/ch52
-
 #EXTINF:-1,MIMUSICA ROMANTICA#413
 http://204.199.120.34:16123/play/ch54
 #EXTINF:-1,MIMUSICA SALSA#414
@@ -463,7 +445,6 @@ http://204.199.120.34:16123/play/ch55
 http://204.199.120.34:16123/play/ch56
 #EXTINF:-1,DEPELICULA#416
 http://204.199.120.34:16123/play/ch57
-
 #EXTINF:-1,ESPN 1 MX#418
 http://167.114.156.136:25461/INFINITV/ZX89NM22/35
 #EXTINF:-1,ESPN 2 MX#419
@@ -472,10 +453,8 @@ http://167.114.156.136:25461/INFINITV/ZX89NM22/36
 http://167.114.156.136:25461/INFINITV/ZX89NM22/37
 #EXTINF:-1,Fox Deportes#421
 http://167.114.156.136:25461/INFINITV/ZX89NM22/38
-
 #EXTINF:-1,Fox Sports 1 MX#423
 http://167.114.156.136:25461/INFINITV/ZX89NM22/40
-
 #EXTINF:-1,UFC TV#425
 http://167.114.156.136:25461/INFINITV/ZX89NM22/47
 #EXTINF:-1,F1 DAZN #426
@@ -484,50 +463,36 @@ http://167.114.156.136:25461/INFINITV/ZX89NM22/45
 http://167.114.156.136:25461/INFINITV/ZX89NM22/43
 #EXTINF:-1,Fox Sports MX#428
 http://167.114.156.136:25461/INFINITV/ZX89NM22/42
-
 #EXTINF:-1,Sony#430
 http://167.114.156.136:25461/INFINITV/ZX89NM22/53
-
 #EXTINF:-1,TNT#434
 http://167.114.156.136:25461/INFINITV/ZX89NM22/57
-
-
 #EXTINF:-1,Nick Jr#439
 http://167.114.156.136:25461/INFINITV/ZX89NM22/64
-
-
 #EXTINF:-1,Baby TV#443
 http://167.114.156.136:25461/INFINITV/ZX89NM22/60
 #EXTINF:-1,Warner Channel#444
 http://167.114.156.136:25461/INFINITV/ZX89NM22/59
-
 #EXTINF:-1,Fox Premium#446
 http://167.114.156.136:25461/INFINITV/ZX89NM22/69
 #EXTINF:-1,FX #447
 http://167.114.156.136:25461/INFINITV/ZX89NM22/70
-
 #EXTINF:-1,HBO 2#449
 http://167.114.156.136:25461/INFINITV/ZX89NM22/72
 #EXTINF:-1,HBO Family#450
 http://167.114.156.136:25461/INFINITV/ZX89NM22/73
-
 #EXTINF:-1,Animal Planet#452
 http://167.114.156.136:25461/INFINITV/ZX89NM22/75
 #EXTINF:-1,SYFY#453
 http://167.114.156.136:25461/INFINITV/ZX89NM22/80
-
-
 #EXTINF:-1,Bein Sports Esp#491
 http://167.114.156.136:25461/INFINITV/ZX89NM22/176
 #EXTINF:-1,A and E#492
 http://167.114.156.136:25461/INFINITV/ZX89NM22/178
-
-
 #EXTINF:-1,Golden#495
 http://167.114.156.136:25461/INFINITV/ZX89NM22/181
 #EXTINF:-1,HBO Signature#496
 http://167.114.156.136:25461/INFINITV/ZX89NM22/182
-
 #EXTINF:-1,Garage TV#498
 http://167.114.156.136:25461/INFINITV/ZX89NM22/184
 #EXTINF:-1,GolTV (USA)#499
@@ -546,10 +511,8 @@ http://167.114.156.136:25461/INFINITV/ZX89NM22/208
 http://167.114.156.136:25461/INFINITV/ZX89NM22/210
 #EXTINF:-1,DAZN 4#506
 http://167.114.156.136:25461/INFINITV/ZX89NM22/211
-
 #EXTINF:-1,HBO Plus#509
 http://167.114.156.136:25461/INFINITV/ZX89NM22/215
-
 #EXTINF:-1,El Gourmet#512
 http://167.114.156.136:25461/INFINITV/ZX89NM22/219
 #EXTINF:-1,Investigation Discovery#513
@@ -557,8 +520,4 @@ http://167.114.156.136:25461/INFINITV/ZX89NM22/220
 #EXTINF:-1,Fox Sport 1 (USA)#514
 http://167.114.156.136:25461/INFINITV/ZX89NM22/221
 
-#EXTINF:-1,ESPN PREMIUM 1#565
-http://m3u8.sytes.net:80/play/f_tX3muAnmwjZ9O03YP6cYfZ4I8_LtefNH42mpcdyxc/m3u8
 
-#EXTINF:-1,TNT SPORT
-http://m3u8.sytes.net:80/play/f_tX3muAnmwjZ9O03YP6cYnRoxtX3NYq04_ZLNyaJ9A/m3u8
