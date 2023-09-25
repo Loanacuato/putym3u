@@ -343,13 +343,13 @@ http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/542.ts
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/556098.png",LAT : Telemundo Internacional#208
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/161.ts
-#EXTINF:-1,LAT : TLC HD#209
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png",LAT : TLC HD#209
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/371.ts
-#EXTINF:-1,LAT : TNT HD VIP#210
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1200px-TNT_Logo_2016.svg.png",LAT : TNT HD VIP#210
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/1.ts
-#EXTINF:-1,LAT : Tooncast HD#211
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png",LAT : Tooncast HD#211
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/387.ts
 #EXTINF:-1,LAT : TruTV HD#212
