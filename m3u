@@ -337,10 +337,10 @@ http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/183.ts
 #EXTINF:-1 tvg-logo="https://img2.freepng.es/20180603/isl/kisspng-teennick-nickelodeon-television-channel-television-nickcom-5b143ff65d8d41.9739192315280537503832.jpg",LAT : Teen Nick HD#206
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/384.ts
-#EXTINF:-1,LAT : Telehits HD#207
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-QU_BXcH1T1o/UJhSqN_BhfI/AAAAAAAAXFM/dRO6Sl5DKqM/s1600/TELEHIt-2012.png",LAT : Telehits HD#207
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/542.ts
-#EXTINF:-1,LAT : Telemundo Internacional#208
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/556098.png",LAT : Telemundo Internacional#208
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/161.ts
 #EXTINF:-1,LAT : TLC HD#209
