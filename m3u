@@ -496,9 +496,9 @@ http://167.114.156.136:25461/INFINITV/ZX89NM22/182
 http://167.114.156.136:25461/INFINITV/ZX89NM22/184
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png",GolTV (USA)#499
 http://167.114.156.136:25461/INFINITV/ZX89NM22/187
-#EXTINF:-1,MLB NETWORK (USA)#500
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/1274762.png",MLB NETWORK (USA)#500
 http://167.114.156.136:25461/INFINITV/ZX89NM22/188
-#EXTINF:-1,Formula 1 DAZN 2#501
+#EXTINF:-1 tvg-logo="https://i0.wp.com/upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png",Formula 1 DAZN 2#501
 http://167.114.156.136:25461/INFINITV/ZX89NM22/196
 #EXTINF:-1,DAZN 3#502
 http://167.114.156.136:25461/INFINITV/ZX89NM22/205
