@@ -5,48 +5,48 @@
 #EXTINF:-1 ,NO COMPARTAS
 #EXTINF:-1 ,SI NO ESTAS CONFORME PAGA
 
-#EXTINF:-1 tvg-logo="https://pluspng.com/img-png/logo-america-tv-png-open-2000.png" tvg-group=Nacionales",America#1
+#EXTINF:-1 tvg-logo="https://pluspng.com/img-png/logo-america-tv-png-open-2000.png" tvg-group=Nacionales",America #1
 http://190.60.36.103:8000/play/a03q/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.1447386906_TVP20201.png.4f120de9cdc8d51b61c8f64885c8fde4.png" tvg-group="Nacionales", TV Publica#2
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.1447386906_TVP20201.png.4f120de9cdc8d51b61c8f64885c8fde4.png" tvg-group="Nacionales", TV Publica #2
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
-#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/35.png" tvg-group="Nacionales", Telefe#4 
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/35.png" tvg-group="Nacionales", Telefe #4 
 https://telefeviacom1.akamaized.net/hls/live/2037987/viacomINT/TOK/master-wild2.m3u8
-#EXTINF:-1 tvg-logo="https://p7.hiclipart.com/preview/222/434/566/history-television-channel-logo-television-show-story.jpg" tvg-group="cultura", History Channel HD#5
+#EXTINF:-1 tvg-logo="https://p7.hiclipart.com/preview/222/434/566/history-television-channel-logo-television-show-story.jpg" tvg-group="cultura", History Channel HD #5
 #EXTVLCOPT:http-user-agent=S11elW/2.57 ,
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/458.ts
-#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/6.png" tvg-group="Nacionales", eltrece#6 
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/6.png" tvg-group="Nacionales", eltrece #6 
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png" tvg-group="Nacionales", Net TV#7 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png" tvg-group="Nacionales", Net TV #7 
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/35.png" tvg-group="Locales", CANAL 8 TUCUMÁN#8 
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/35.png" tvg-group="Locales", CANAL 8 TUCUMÁN #8 
 https://ythls.onrender.com/channel/UCYozHHDnLnQs2yc2k3t8cPA.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Canal-10-tuc.png" tvg-group="Locales", Canal 10 | Tucuman 
-#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/175.png" tvg-group="Locales", America | Tucuman#9 
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/175.png" tvg-group="Locales", America | Tucuman #9 
 https://ythls.onrender.com/channel/UCZ8sgVyD7HqDor8ujB-TZpg.m3u8
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/36.png" tvg-group="Noticias", TN #10
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
-#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/709.png" tvg-group="Noticias", C5N#11 
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/709.png" tvg-group="Noticias", C5N #11 
 https://ythls.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/343.png" tvg-group="Noticias", A24 #12
 https://ythls.onrender.com/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/3.png" tvg-group="Noticias", Canal 26 #13
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/3644.png" tvg-group="Noticias", LN+#14
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/3644.png" tvg-group="Noticias", LN+ #14
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Logo_Diputados_TV.png" tvg-group="Noticias", Diputados TV #15
 https://ythls.onrender.com/channel/UC1h8_HKc5wScqeRw1HV6a6w.m3u8
-#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/40.png" tvg-group="Deportes", TyC Sports#16
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/40.png" tvg-group="Deportes", TyC Sports #16
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/2195.png" tvg-group="Deportes", Deportv #17
 https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/11.png" tvg-group="Variedades", Canal Rural #18
 https://cda2.alsolnet.com/elrural/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/477.png" tvg-group="Cultura y Documentales", Encuentro#19
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/477.png" tvg-group="Cultura y Documentales", Encuentro #19
 https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/Enlace-TV-en-vivo-Online.png" tvg-group="Religion",enlace#20
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/Enlace-TV-en-vivo-Online.png" tvg-group="Religion",enlace #20
 https://11554-1.b.cdn13.com/EnlaceTV/smil:enlace-FullHD.smil/chunklist_b3112000_sleng.m3u8 
-#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/1492.png" tvg-group="Infantiles", Paka Paka#21
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/1492.png" tvg-group="Infantiles", Paka Paka #21
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/57.png" tvg-group="Variedades", Argentinisima Satelital#22
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/57.png" tvg-group="Variedades", Argentinisima Satelital #22
 https://stream1.sersat.com/hls/argentinisima.m3u8 
 #EXTINF:-1, tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/226.png" tvg-group="Infantiles", Cartoon Network #23
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
@@ -54,9 +54,9 @@ https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
 #EXTINF:-1, tvg-logo="https://149448277.v2.pressablecdn.com/wp-content/uploads/2021/02/palomar-logo.png", EL PALOMAR TUCUMAN #25
 https://stream.trixserver.com:3249/live/uv038live.m3u8
-#EXTINF:-1, tvg-logo="https://mytv.studio/watch/upload/retroplus.png", RETRO PLUS#26
+#EXTINF:-1, tvg-logo="https://mytv.studio/watch/upload/retroplus.png", RETRO PLUS #26
 https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-77tsj_oHTlE/XnyAJtJQDaI/AAAAAAAA24I/bkhgzgIk9mg6SAG9Xca9EhpD-Jd7P5W3QCLcBGAsYHQ/s1600/Retro%2BPlus%2BTV.png", RETRO PLUS 2#27
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-77tsj_oHTlE/XnyAJtJQDaI/AAAAAAAA24I/bkhgzgIk9mg6SAG9Xca9EhpD-Jd7P5W3QCLcBGAsYHQ/s1600/Retro%2BPlus%2BTV.png", RETRO PLUS 2 #27
 https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/574/377/png-transparent-logo-retro-bar-design-thumbnail.png",RETRO PLUS 3 # 28
 https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8
@@ -64,7 +64,7 @@ https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/logos/weVy6A9B_400x400_5.jpg", CIUDAD MAGICA #30
 https://tv.initium.net.ar:3235/live/grupocitylive.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wRcv19b/Imagen-dummy.png" tvg-group="ARGENTINA", CRONICA TV#31
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wRcv19b/Imagen-dummy.png" tvg-group="ARGENTINA", CRONICA TV #31
 https://ythls.onrender.com/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/C5N_Logo_2015.PNG", C5N #32
 https://ythls.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
@@ -82,9 +82,9 @@ http://190.60.36.103:8000/play/a011/index.m3u8
 http://190.60.36.103:8000/play/a06g/index.m3u8
  #EXTINF:-1 tvg-logo="https://img2.freepng.es/20180706/gvp/kisspng-animal-planet-logo-television-channel-television-s-planet-express-5b4010646d8f98.7476101915309251564488.jpg", Animal Planet #41
 http://190.60.36.103:8000/play/a00v/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HPnbTg4/babytv.png" tvg-group="INFANTILES", BABY TV #42
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HPnbTg4/babytv.png" tvg-group="INFANTILES", BABY TV # 42
 http://190.60.36.103:8000/play/a04f/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MBBRBkz.png" group-title="Mundo", CNN #43
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MBBRBkz.png" group-title="Mundo", CNN # 43
 http://190.60.36.103:8000/play/a00h/index.m3u8
  #EXTINF:-1 tvg-logo="https://i.imgur.com/iGCVGEA.jpg" group-title="Mundo", HolaTV http://tv.teleclub.xyz/envivo/Mundo/HOLATV/index.m3u8 #EXTINF:-1 tvg-logo="https://i.imgur.com/kaTu9Qb.png" group-title="Mundo", Las Estrellas
 http://190.60.36.103:8000/play/a013/index.m3u8
@@ -94,19 +94,19 @@ http://190.60.36.103:8000/play/a00d/index.m3u8
 http://190.60.36.103:8000/play/a06e/index.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png", Discovery Channel #47
 http://190.60.36.103:8000/play/a00u/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6PPyvXN/id.png" tvg-group="CIENCIA Y CULTURA", INVESTIGATION DISCOVERY#48
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6PPyvXN/id.png" tvg-group="CIENCIA Y CULTURA", INVESTIGATION DISCOVERY #48
 http://190.60.36.103:8000/play/a018/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hFx2x0J/discoverykids.png" tvg-group="INFANTILES", DISCOVERY KIDS#49
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hFx2x0J/discoverykids.png" tvg-group="INFANTILES", DISCOVERY KIDS #49
 http://190.60.36.103:8000/play/a00g/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png", Discovery Turbo #50
 http://190.60.36.103:8000/play/a06q/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Disney_Channel_Germany_Logo_2014.png", Disney Channel #51
 http://190.60.36.103:8000/play/a00t/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GPwty1R/disneyjunior.png" tvg-group="INFANTILES", DISNEY JR#52
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GPwty1R/disneyjunior.png" tvg-group="INFANTILES", DISNEY JR #52
 http://190.60.36.103:8000/play/a00r/index.m3u8
 #EXTINF:-1 tvg-logo="https://img2.freepng.es/20180629/ss/kisspng-television-channel-logo-e-etv-network-tv-channel-5b35d053a04617.9816723615302533956565.jpg", E Entertainment #53
 http://190.60.36.103:8000/play/a00x/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/D4XMJV0/espnar.png" tvg-group="DEPORTES", ESPN AR#54
+#EXTINF:-1 tvg-logo="https://i.ibb.co/D4XMJV0/espnar.png" tvg-group="DEPORTES", ESPN AR #54
 http://190.60.36.103:8000/play/a010/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png", ESPN 2 #55
 http://190.60.36.103:8000/play/a00s/index.m3u8
@@ -126,15 +126,15 @@ http://190.60.36.103:8000/play/a014/index.m3u8
 http://190.60.36.103:8000/play/a015/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KD4s81z/Golden-logo.png" tvg-group="CINE Y SERIES", GOLDEN #65
 http://190.60.36.103:8000/play/a053/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rZmZZsw/hbo.png" tvg-group="CINE Y SERIES", HBO#66
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rZmZZsw/hbo.png" tvg-group="CINE Y SERIES", HBO #66
 http://190.60.36.103:8000/play/a06d/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png", HBO 2 #67
 http://190.60.36.103:8000/play/a00n/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" tvg-group="CINE Y SERIES", HBO FAMILY #68
 http://190.60.36.103:8000/play/a00q/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FhWCVw7/hboplus.png" tvg-group="CINE Y SERIES", HBO PLUS#69
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FhWCVw7/hboplus.png" tvg-group="CINE Y SERIES", HBO PLUS #69
 http://190.60.36.103:8000/play/a00o/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Vjrk31y/hboxtreme.png" tvg-group="CINE Y SERIES", HBO XTREME#70
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vjrk31y/hboxtreme.png" tvg-group="CINE Y SERIES", HBO XTREME #70
 http://190.60.36.103:8000/play/a00p/index.m3u8
 #EXTINF:-1 tvg-logo="https://seetoproductions.com/wp-content/uploads/2020/06/History_Logo_2015_Black.png", History Channel #71
 http://190.60.36.103:8000/play/a004/index.m3u8
@@ -142,7 +142,7 @@ http://190.60.36.103:8000/play/a004/index.m3u8
 http://190.60.36.103:8000/play/History2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Y8gJHw1/hyh.png" tvg-group="CIENCIA Y CULTURA", HOME & HEALT#73
 http://190.60.36.103:8000/play/a01a/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HDLNXWr/ISAT-LOGO.png" tvg-group="CINE Y SERIES", ISAT#74
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HDLNXWr/ISAT-LOGO.png" tvg-group="CINE Y SERIES", ISAT #74
 http://190.60.36.103:8000/play/a007/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/440px-Logo_Lifetime_2020.svg.png", Lifetime #75
 http://190.60.36.103:8000/play/a04g/index.m3u8
