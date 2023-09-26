@@ -140,7 +140,7 @@ http://190.60.36.103:8000/play/a00p/index.m3u8
 http://190.60.36.103:8000/play/a004/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png", History2 #72
 http://190.60.36.103:8000/play/History2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Y8gJHw1/hyh.png" tvg-group="CIENCIA Y CULTURA", HOME & HEALT#73
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y8gJHw1/hyh.png" tvg-group="CIENCIA Y CULTURA", HOME & HEALT #73
 http://190.60.36.103:8000/play/a01a/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HDLNXWr/ISAT-LOGO.png" tvg-group="CINE Y SERIES", ISAT #74
 http://190.60.36.103:8000/play/a007/index.m3u8
@@ -156,7 +156,7 @@ http://190.60.36.103:8000/play/a06p/index.m3u8
 http://190.60.36.103:8000/play/a001/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-ZUOM6xBxUMw/AAAAAAAAAAI/AAAAAAAAAAA/_-I8vEkAWXw/s900-c-k-no-mo-rj-c0xffffff/photo.jpg", RCN Novelas #80
 http://190.60.36.103:8000/play/a017/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6Dfxqjp/star.png" tvg-group="CINE Y SERIES", STAR#81
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6Dfxqjp/star.png" tvg-group="CINE Y SERIES", STAR #81
 http://190.60.36.103:8000/play/a00a/index.m3u8
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/04/Sony-Logo-1957-1961.png", Sony #82
 http://190.60.36.103:8000/play/a06f/index.m3u8
@@ -170,21 +170,21 @@ http://190.60.36.103:8000/play/a04h/index.m3u8
 http://190.60.36.103:8000/play/a012/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1200px-TNT_Logo_2016.svg.png", TNT #87
 http://190.60.36.103:8000/play/a00e/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/163X7Gy/telemundo.png" tvg-group="CINE Y SERIES", TELEMUNDO#88
+#EXTINF:-1 tvg-logo="https://i.ibb.co/163X7Gy/telemundo.png" tvg-group="CINE Y SERIES", TELEMUNDO #88
 http://190.60.36.103:8000/play/a016/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SVPbvZM/qr-UC8x-C8-400x400.png" tvg-group="CINE Y SERIES", TLNOVELAS #89
 http://190.60.36.103:8000/play/a073/index.m3u8
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/_B-8U8Jt0fZA/TBAjsRP3KAI/AAAAAAAAGNQ/G0AsN2cbOaE/s1600/tyc-logo.jpg", TyC #90
 http://190.60.36.103:8000/play/a036/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Z2LQWrH/universal.png" tvg-group="CINE Y SERIES", UNIVERSAL#91
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Z2LQWrH/universal.png" tvg-group="CINE Y SERIES", UNIVERSAL #91
 http://190.60.36.103:8000/play/a006/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Dz3NcB1/ucinema.png" tvg-group="CINE Y SERIES", UNIVERSAL CINEMA#92
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Dz3NcB1/ucinema.png" tvg-group="CINE Y SERIES", UNIVERSAL CINEMA #92
 http://190.60.36.103:8000/play/a04t/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Dz3NcB1/ucinema.png" tvg-group="CINE Y SERIES", UNIVERSAL CINEMA#93
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Dz3NcB1/ucinema.png" tvg-group="CINE Y SERIES", UNIVERSAL CINEMA #93
 http://190.60.36.103:8000/play/a04w/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Dz3NcB1/ucinema.png" tvg-group="CINE Y SERIES", UNIVERSAL CINEMA#94
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Dz3NcB1/ucinema.png" tvg-group="CINE Y SERIES", UNIVERSAL CINEMA #94
 http://190.60.36.103:8000/play/a04s/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/T0jMb06/warner.png" tvg-group="CINE Y SERIES", WARNER#95
+#EXTINF:-1 tvg-logo="https://i.ibb.co/T0jMb06/warner.png" tvg-group="CINE Y SERIES", WARNER #95
 http://190.60.36.103:8000/play/a00w/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/1200px-Win_Sports%2B_logo.svg.png", Win #96
 http://190.60.36.103:8000/play/a06k/index.m3u8
@@ -241,43 +241,43 @@ http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/189.ts
 #EXTINF:-1 tvg-logo="https://televall.online/images/golden-hd.png", Golden HD #171
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/190.ts
-#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/H2_logo.png", H2 History 2 HD#172
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/H2_logo.png", H2 History 2 HD #172
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/173.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png", HBO 2 HD#173
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png", HBO 2 HD #173
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/168.ts
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/789117.jpg", HBO Family HD#174
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/789117.jpg", HBO Family HD #174
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/169.ts
-#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_black.png", HBO HD#175
+#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_black.png", HBO HD #175
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/167.ts
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/hbo-plus-logo-E8E9BF8A5F-seeklogo.com.png", HBO PLUS HD#176
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/hbo-plus-logo-E8E9BF8A5F-seeklogo.com.png", HBO PLUS HD #176
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/170.ts
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-EJTtl-LVH2w/X-gfDMKZ4iI/AAAAAAAAQFA/w6o67oSLFD81ZuO-Z1fyauIP-s-tzkXEACLcBGAsYHQ/w1200-h630-p-k-no-nu/hbopop.png", HBO POP#177
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-EJTtl-LVH2w/X-gfDMKZ4iI/AAAAAAAAQFA/w6o67oSLFD81ZuO-Z1fyauIP-s-tzkXEACLcBGAsYHQ/w1200-h630-p-k-no-nu/hbopop.png", HBO POP #177
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/61.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png", HBO Signature HD#178
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png", HBO Signature HD #178
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/171.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png", HBO XTREME HD VIP#179
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png", HBO XTREME HD VIP #179
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/91.ts
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-ED6deyYT1u4/WB_QGGftdbI/AAAAAAAABLg/2_HUFFQUGxsX1gt572lECXYFxziIx4VIwCLcB/s1600/canaldelasestrellas-2014.png", Las Estrellas#180
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-ED6deyYT1u4/WB_QGGftdbI/AAAAAAAABLg/2_HUFFQUGxsX1gt572lECXYFxziIx4VIwCLcB/s1600/canaldelasestrellas-2014.png", Las Estrellas #180
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/88.ts
-#EXTINF:-1 tvg-logo="https://clipground.com/images/lifetime-png-5.png", LifeTime HD#181
+#EXTINF:-1 tvg-logo="https://clipground.com/images/lifetime-png-5.png", LifeTime HD #181
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/370.ts
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/MTV-Emblem.png", MTV HD#183
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/MTV-Emblem.png", MTV HD #183
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/372.ts
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/MTV-Emblem.png", MTV LIVE HD#185
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/MTV-Emblem.png", MTV LIVE HD #185
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/375.ts
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-CLEv4CrGX2Y/Uuj8AqjHycI/AAAAAAAAAJ4/bzb7bgcOGi4/s1600/NatGeoLogo.jpg", NatGeo Kids HD#186
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-CLEv4CrGX2Y/Uuj8AqjHycI/AAAAAAAAAJ4/bzb7bgcOGi4/s1600/NatGeoLogo.jpg", NatGeo Kids HD #186
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/389.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png", Nick Jr. HD#187
