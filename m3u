@@ -468,11 +468,11 @@ http://167.114.156.136:25461/INFINITV/ZX89NM22/53
 http://167.114.156.136:25461/INFINITV/ZX89NM22/57
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/nick_jr-mediano.png",Nick Jr#439
 http://167.114.156.136:25461/INFINITV/ZX89NM22/64
-#EXTINF:-1,Baby TV#443
+#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/641-6414103_baby-tv-channel-logo-hd-png-download.png",Baby TV#443
 http://167.114.156.136:25461/INFINITV/ZX89NM22/60
-#EXTINF:-1,Warner Channel#444
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-IVRi6G8ptjk/VSW-_Yi0XrI/AAAAAAAAkRo/yofu4G4tEZ8/s1600/Warner_Channel_logo.png",Warner Channel#444
 http://167.114.156.136:25461/INFINITV/ZX89NM22/59
-#EXTINF:-1,Fox Premium#446
+#EXTINF:-1 tvg-logo="https://img2.gratispng.com/20181122/pye/kisspng-logo-fox-channel-fox-networks-group-latin-america-5bf69ff4ca5908.8354122815428894608288.jpg",Fox Premium#446
 http://167.114.156.136:25461/INFINITV/ZX89NM22/69
 #EXTINF:-1,FX #447
 http://167.114.156.136:25461/INFINITV/ZX89NM22/70
