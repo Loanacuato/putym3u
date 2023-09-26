@@ -456,11 +456,11 @@ http://167.114.156.136:25461/INFINITV/ZX89NM22/38
 http://167.114.156.136:25461/INFINITV/ZX89NM22/40
 #EXTINF:-1 tvg-logo="https://i0.wp.com/superluchas.files.wordpress.com/2013/08/969274_461656220600014_301333140_n.jpg",UFC TV#425
 http://167.114.156.136:25461/INFINITV/ZX89NM22/47
-#EXTINF:-1,F1 DAZN #426
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-0-1-2048x2048.png",F1 DAZN #426
 http://167.114.156.136:25461/INFINITV/ZX89NM22/45
-#EXTINF:-1,IZZI Afizzionados#427
+#EXTINF:-1 tvg-logo="https://tynmagazine.com/wp-content/uploads/sites/3/2022/10/afizzionados-futbol-logo.jpeg",IZZI Afizzionados#427
 http://167.114.156.136:25461/INFINITV/ZX89NM22/43
-#EXTINF:-1,Fox Sports MX#428
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png",Fox Sports MX#428
 http://167.114.156.136:25461/INFINITV/ZX89NM22/42
 #EXTINF:-1,Sony#430
 http://167.114.156.136:25461/INFINITV/ZX89NM22/53
