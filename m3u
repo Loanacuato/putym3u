@@ -202,7 +202,7 @@ http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/386.ts
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/04/Sony-Logo-1961-1962.png", Canal Sony HD #157
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/179.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" : Cine Canal HD VIP #159
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png"  Cine Canal HD VIP #159
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/4.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_(Yellow).svg/1200px-Cinemax_(Yellow).svg.png", Cinemax HD VIP #160
