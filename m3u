@@ -506,11 +506,11 @@ http://167.114.156.136:25461/INFINITV/ZX89NM22/205
 http://167.114.156.136:25461/INFINITV/ZX89NM22/206
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png",GolTV#504
 http://167.114.156.136:25461/INFINITV/ZX89NM22/208
-#EXTINF:-1,Discovery Kids#505
+#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180702/lci/kisspng-discovery-kids-television-channel-discovery-channe-kids-logo-5b39aafcdda395.1583384515305059809079.jpg",Discovery Kids#505
 http://167.114.156.136:25461/INFINITV/ZX89NM22/210
-#EXTINF:-1,DAZN 4#506
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R9uWjII.jpg",DAZN 4#506
 http://167.114.156.136:25461/INFINITV/ZX89NM22/211
-#EXTINF:-1,HBO Plus#509
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",HBO Plus#509
 http://167.114.156.136:25461/INFINITV/ZX89NM22/215
 #EXTINF:-1,El Gourmet#512
 http://167.114.156.136:25461/INFINITV/ZX89NM22/219
