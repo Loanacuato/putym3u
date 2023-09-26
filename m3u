@@ -401,13 +401,13 @@ http://204.199.120.34:16123/play/ch17
 http://204.199.120.34:16123/play/ch18
 #EXTINF:-1 tvg-logo="https://fiber.nl/wp-content/uploads/tvicon-ESPN-4-International.png",ESPN4#387
 http://204.199.120.34:16123/play/ch19
-#EXTINF:-1,FOX SPORTS 2#388
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png",FOX SPORTS 2#388
 http://204.199.120.34:16123/play/ch20
-#EXTINF:-1,DISCOVERY#390
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png",DISCOVERY#390
 http://204.199.120.34:16123/play/ch22
-#EXTINF:-1,ID#391
+#EXTINF:-1 tvg-logo="https://tvnotiblog.com/wp-content/uploads/2012/05/INVESTIGATION-DISCOVERY-ID-LOGO-890x501.jpg",ID#391
 http://204.199.120.34:16123/play/ch23
-#EXTINF:-1,TURBO#392
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png",TURBO#392
 http://204.199.120.34:16123/play/ch24
 #EXTINF:-1,DISCOVERY H&H#393
 http://204.199.120.34:16123/play/ch25
