@@ -152,7 +152,7 @@ http://190.60.36.103:8000/play/a008/index.m3u8
 http://190.60.36.103:8000/play/a003/index.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/08/Nick-Jr.-Logo.png", Nick Jr #78
 http://190.60.36.103:8000/play/a06p/index.m3u8
-#EXTINF:-1 tvg-logo="http://logos-download.com/wp-content/uploads/2016/04/Nickelodeon_logo_logotype_2.png", Nickelodeon #79
+#EXTINF:-1 tvg-logo="https://www.pngjoy.com/pngm/209/15400854_nickelodeon-logo-nickelodeon-splat-logo-png-download.png", Nickelodeon #79
 http://190.60.36.103:8000/play/a001/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-ZUOM6xBxUMw/AAAAAAAAAAI/AAAAAAAAAAA/_-I8vEkAWXw/s900-c-k-no-mo-rj-c0xffffff/photo.jpg", RCN Novelas #80
 http://190.60.36.103:8000/play/a017/index.m3u8
@@ -283,7 +283,7 @@ http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/389.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png", Nick Jr. HD #187
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/385.ts
-#EXTINF:-1 tvg-logo="http://1000logos.net/wp-content/uploads/2017/03/Font-of-the-Nickelodeon-Logo.jpg", Nickelodeon HD #188
+#EXTINF:-1 tvg-logo="https://www.pngjoy.com/pngm/209/15400854_nickelodeon-logo-nickelodeon-splat-logo-png-download.png", Nickelodeon HD #188
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/382.ts
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-0.png", Paramount Channel HD #190
