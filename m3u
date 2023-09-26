@@ -379,15 +379,15 @@ http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/76.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png",LAT | Discovery World HD VIP#220
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/164.ts
-#EXTINF:1,UNIVERSAL TV#370
+#EXTINF:1 tvg-logo="https://clipground.com/images/universal-png-logo.png",UNIVERSAL TV#370
 #EXTVLCOPT:http-user-agent=FFFFF
 https://vivo.lamtv.tv:8081/a/0110/playlist.m3u8
-#EXTINF:1,WIN SPORTS#372
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png",WIN SPORTS#372
 #EXTVLCOPT:http-user-agent=FFFFF
 https://vivo.lamtv.tv:8081/a/0120/playlist.m3u8
-#EXTINF:-1,BABYTV#373
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/0b/7a/e2/0b7ae2c03d70e4b7059b0358719a7ffa.png",BABYTV#373
 http://204.199.120.34:16123/play/ch01
-#EXTINF:-1,Film&Arts#381
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_film-arts_m.png",Film&Arts#381
 http://204.199.120.34:16123/play/ch11
 #EXTINF:-1,CINELATINO#382
 http://204.199.120.34:16123/play/ch12
