@@ -512,11 +512,11 @@ http://167.114.156.136:25461/INFINITV/ZX89NM22/210
 http://167.114.156.136:25461/INFINITV/ZX89NM22/211
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",HBO Plus#509
 http://167.114.156.136:25461/INFINITV/ZX89NM22/215
-#EXTINF:-1,El Gourmet#512
+#EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/elgourmet.png",El Gourmet#512
 http://167.114.156.136:25461/INFINITV/ZX89NM22/219
-#EXTINF:-1,Investigation Discovery#513
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png",Investigation Discovery#513
 http://167.114.156.136:25461/INFINITV/ZX89NM22/220
-#EXTINF:-1,Fox Sport 1 (USA)#514
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png",Fox Sport 1 (USA)#514
 http://167.114.156.136:25461/INFINITV/ZX89NM22/221
 
 
