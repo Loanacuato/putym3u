@@ -424,13 +424,13 @@ http://204.199.120.34:16123/play/ch31
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_M%C3%A1s_Chic_(canal_de_televisi%C3%B3n).svg/1280px-Logo_M%C3%A1s_Chic_(canal_de_televisi%C3%B3n).svg.png",MAS CHIC#400
 http://204.199.120.34:16123/play/ch33
-#EXTINF:-1,GOLDEN#406
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-AkkPySD117w/VuCLEzcc4RI/AAAAAAAAAqI/VeRbS0i1EOU/s1600/Golden_logo.png",GOLDEN#406
 http://204.199.120.34:16123/play/ch46
-#EXTINF:-1,GOLDEN EDGE#407
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-AkkPySD117w/VuCLEzcc4RI/AAAAAAAAAqI/VeRbS0i1EOU/s1600/Golden_logo.png",GOLDEN EDGE#407
 http://204.199.120.34:16123/play/ch47
-#EXTINF:-1,SUN CHANNEL#408
+#EXTINF:-1 tvg-logo="https://www.estamosenlinea.com.ve/wp-content/uploads/2012/03/Sun-Channel-HD.jpg",SUN CHANNEL#408
 http://204.199.120.34:16123/play/ch48
-#EXTINF:-1,CINE PREMIUM#409
+#EXTINF:-1 tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinepremium.png",CINE PREMIUM#409
 http://204.199.120.34:16123/play/ch49
 #EXTINF:-1,CINE HISPANO#410
 http://204.199.120.34:16123/play/ch51
