@@ -415,15 +415,14 @@ http://204.199.120.34:16123/play/ch25
 http://204.199.120.34:16123/play/ch26
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_el-gourmet_m.png",EL GOURMET#395
 http://204.199.120.34:16123/play/ch27
-#EXTINF:-1,FOOD NETWORK#396
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-5f4dqZkDdX0/WRz0kNAU0FI/AAAAAAAA5k4/b3j1YokZs-g3y-4AhyttQSgTfzWIqnOeACLcB/s1600/logo_foodnetwork.png",FOOD NETWORK#396
 http://204.199.120.34:16123/play/ch28
-#EXTINF:-1,ANIMAL PLANET#397
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png",ANIMAL PLANET#397
 http://204.199.120.34:16123/play/ch29
-#EXTINF:-1,NATGEO#398
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/national-geographic-channel-logo.png",NATGEO#398
 http://204.199.120.34:16123/play/ch31
-#EXTINF:-1,CGTN#399
-http://204.199.120.34:16123/play/ch32
-#EXTINF:-1,MAS CHIC#400
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_M%C3%A1s_Chic_(canal_de_televisi%C3%B3n).svg/1280px-Logo_M%C3%A1s_Chic_(canal_de_televisi%C3%B3n).svg.png",MAS CHIC#400
 http://204.199.120.34:16123/play/ch33
 #EXTINF:-1,GOLDEN#406
 http://204.199.120.34:16123/play/ch46
