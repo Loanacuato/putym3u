@@ -436,11 +436,11 @@ http://204.199.120.34:16123/play/ch49
 http://204.199.120.34:16123/play/ch51
 #EXTINF:-1 tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinefamiliar.png",CINE FAMILIAR#411
 http://204.199.120.34:16123/play/ch52
-#EXTINF:-1,MIMUSICA ROMANTICA#413
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-faeGyyg06JA/WJu6btunM3I/AAAAAAAAG8k/DpOWGoqaxSoa0RyvPd9zi9nVgMPq-uYbACK4B/s1600/fanartCanalesMusica.png",MIMUSICA ROMANTICA#413
 http://204.199.120.34:16123/play/ch54
-#EXTINF:-1,MIMUSICA SALSA#414
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-faeGyyg06JA/WJu6btunM3I/AAAAAAAAG8k/DpOWGoqaxSoa0RyvPd9zi9nVgMPq-uYbACK4B/s1600/fanartCanalesMusica.png",MIMUSICA SALSA#414
 http://204.199.120.34:16123/play/ch55
-#EXTINF:-1,MIMUSICA POPULAR#415
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-faeGyyg06JA/WJu6btunM3I/AAAAAAAAG8k/DpOWGoqaxSoa0RyvPd9zi9nVgMPq-uYbACK4B/s1600/fanartCanalesMusica.png",MIMUSICA POPULAR#415
 http://204.199.120.34:16123/play/ch56
 #EXTINF:-1,DEPELICULA#416
 http://204.199.120.34:16123/play/ch57
