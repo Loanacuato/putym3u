@@ -208,7 +208,7 @@ http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/4.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_(Yellow).svg/1200px-Cinemax_(Yellow).svg.png", Cinemax HD VIP #160
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/55.ts
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/982922.png" : Comedy Central HD #161
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/982922.png"  Comedy Central HD #161
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/184.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png", De Peliculas HD #162
