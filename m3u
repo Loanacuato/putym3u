@@ -409,11 +409,11 @@ http://204.199.120.34:16123/play/ch22
 http://204.199.120.34:16123/play/ch23
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png",TURBO#392
 http://204.199.120.34:16123/play/ch24
-#EXTINF:-1,DISCOVERY H&H#393
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_h_y_h_hd_latinoamerica-mediano.png",DISCOVERY H&H#393
 http://204.199.120.34:16123/play/ch25
-#EXTINF:-1,TLC#394
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png",TLC#394
 http://204.199.120.34:16123/play/ch26
-#EXTINF:-1,EL GOURMET#395
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_el-gourmet_m.png",EL GOURMET#395
 http://204.199.120.34:16123/play/ch27
 #EXTINF:-1,FOOD NETWORK#396
 http://204.199.120.34:16123/play/ch28
