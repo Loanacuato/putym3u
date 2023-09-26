@@ -190,40 +190,40 @@ http://190.60.36.103:8000/play/a00w/index.m3u8
 http://190.60.36.103:8000/play/a06k/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/1200px-Win_Sports%2B_logo.svg.png", Win Sports+ #97
 http://190.60.36.103:8000/play/a035/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.thoughtco.com/thmb/7SiGVptV1daM4Gwlu8DQDtWT-SU=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/Babyfirst-logo-579d69815f9b589aa9ac47ca.png",LAT : Baby first
+#EXTINF:-1 tvg-logo="https://www.thoughtco.com/thmb/7SiGVptV1daM4Gwlu8DQDtWT-SU=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/Babyfirst-logo-579d69815f9b589aa9ac47ca.png", Baby first
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/390.ts
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/0b/52/e2/0b52e21300cc30b5860ca15bc79d9c8d.png",LAT : Baby TV HD #155
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/0b/52/e2/0b52e21300cc30b5860ca15bc79d9c8d.png", Baby TV HD #155
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/391.ts
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-vQWpR3pgmD0/VH8OXE1-OsI/AAAAAAAABC4/mO8VmaGPS0w/s1600/Boomerang2014logo-recreation_zps7369e0dd.png~original.png",LAT : Boomerang HD # 156
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-vQWpR3pgmD0/VH8OXE1-OsI/AAAAAAAABC4/mO8VmaGPS0w/s1600/Boomerang2014logo-recreation_zps7369e0dd.png~original.png", Boomerang HD # 156
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/386.ts
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/04/Sony-Logo-1961-1962.png",LAT : Canal Sony HD #157
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/04/Sony-Logo-1961-1962.png", Canal Sony HD #157
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/179.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png",LAT : Cine Canal HD VIP #159
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" : Cine Canal HD VIP #159
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/4.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_(Yellow).svg/1200px-Cinemax_(Yellow).svg.png",LAT : Cinemax HD VIP #160
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_(Yellow).svg/1200px-Cinemax_(Yellow).svg.png", Cinemax HD VIP #160
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/55.ts
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/982922.png",LAT : Comedy Central HD #161
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/982922.png" : Comedy Central HD #161
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/184.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png",LAT : De Peliculas HD #162
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png", De Peliculas HD #162
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/532.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Discovery_Familia_logo.svg/1200px-Discovery_Familia_logo.svg.png",LAT : Discovery Familia #163
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Discovery_Familia_logo.svg/1200px-Discovery_Familia_logo.svg.png", Discovery Familia #163
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/56.ts
-#EXTINF:-1 tvg-logo="https://auvaromaia.com/wp-content/uploads/2015/12/Discovery_Kids.png",LAT : Discovery Kids HD #164
+#EXTINF:-1 tvg-logo="https://auvaromaia.com/wp-content/uploads/2015/12/Discovery_Kids.png", Discovery Kids HD #164
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/388.ts
-#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/1-12825_discovery-science-tv-logo-hd-png-download.png",LAT : Discovery Science HD #165
+#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/1-12825_discovery-science-tv-logo-hd-png-download.png",  Discovery Science HD #165
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/165.ts
-#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/223-2233296_render-logo-disney-logos-png-image-sans-fond.png",LAT : Disney Channel HD #166
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/223-2233296_render-logo-disney-logos-png-image-sans-fond.png", Disney Channel HD #166
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/398.ts
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/223-2233296_render-logo-disney-logos-png-image-sans-fond.png",LAT : Disney Junior HD #167
