@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 ,LA TV NO ES GRATIS 
+#EXTINF:-1 ,#LA TV NO ES GRATIS 
 #EXTINF:-1 ,VALORE EL EZFUERZO AJENO
 #EXTINF:-1 ,NO COMPARTAS
 #EXTINF:-1 ,SI NO ESTAS CONFORME PAGA
@@ -432,9 +432,9 @@ http://204.199.120.34:16123/play/ch47
 http://204.199.120.34:16123/play/ch48
 #EXTINF:-1 tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinepremium.png",CINE PREMIUM#409
 http://204.199.120.34:16123/play/ch49
-#EXTINF:-1,CINE HISPANO#410
+#EXTINF:-1 tvg-logo="https://uspto.report/TM/90295976/mark.png",CINE HISPANO#410
 http://204.199.120.34:16123/play/ch51
-#EXTINF:-1,CINE FAMILIAR#411
+#EXTINF:-1 tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinefamiliar.png",CINE FAMILIAR#411
 http://204.199.120.34:16123/play/ch52
 #EXTINF:-1,MIMUSICA ROMANTICA#413
 http://204.199.120.34:16123/play/ch54
