@@ -389,17 +389,17 @@ https://vivo.lamtv.tv:8081/a/0120/playlist.m3u8
 http://204.199.120.34:16123/play/ch01
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_film-arts_m.png",Film&Arts#381
 http://204.199.120.34:16123/play/ch11
-#EXTINF:-1,CINELATINO#382
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Cinelatino_logo.png",CINELATINO#382
 http://204.199.120.34:16123/play/ch12
-#EXTINF:-1,AMC#383
+#EXTINF:-1 tvg-logo="https://cdn.technadu.com/wp-content/uploads/2019/12/AMC-Channel-Logo-1536x864.jpg",AMC#383
 http://204.199.120.34:16123/play/ch13
-#EXTINF:-1,ESPN#384
+#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/05/ESPN_logo_wordmark.png",ESPN#384
 http://204.199.120.34:16123/play/ch16
-#EXTINF:-1,ESPN2#385
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png",ESPN2#385
 http://204.199.120.34:16123/play/ch17
-#EXTINF:-1,ESPN3#386
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",ESPN3#386
 http://204.199.120.34:16123/play/ch18
-#EXTINF:-1,ESPN4#387
+#EXTINF:-1 tvg-logo="https://fiber.nl/wp-content/uploads/tvicon-ESPN-4-International.png",ESPN4#387
 http://204.199.120.34:16123/play/ch19
 #EXTINF:-1,FOX SPORTS 2#388
 http://204.199.120.34:16123/play/ch20
