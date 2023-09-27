@@ -195,9 +195,7 @@ http://190.60.36.103:8000/play/a035/index.m3u8
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/390.ts
 
 
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/04/Sony-Logo-1961-1962.png", Canal Sony HD #157
-#EXTVLCOPT:http-user-agent=S11elW/2.57
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/179.ts
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png"  Cine Canal HD VIP #159
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/4.ts
