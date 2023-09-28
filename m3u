@@ -41,7 +41,7 @@ https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 https://cda2.alsolnet.com/elrural/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/477.png" group-title="Variedades", Encuentro #19
 https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/Enlace-TV-en-vivo-Online.png" group-group="Religion",enlace #20
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/Enlace-TV-en-vivo-Online.png" group-title="Religion",enlace #20
 https://11554-1.b.cdn13.com/EnlaceTV/smil:enlace-FullHD.smil/chunklist_b3112000_sleng.m3u8 
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/1492.png" group-title="Infantiles", Paka Paka #21
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8 
@@ -134,17 +134,17 @@ http://190.60.36.103:8000/play/a00q/index.m3u8
 http://190.60.36.103:8000/play/a00o/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vjrk31y/hboxtreme.png" group-title="peliculas", HBO XTREME #70
 http://190.60.36.103:8000/play/a00p/index.m3u8
-#EXTINF:-1 tvg-logo="https://seetoproductions.com/wp-content/uploads/2020/06/History_Logo_2015_Black.png", History Channel #71
+#EXTINF:-1 tvg-logo="https://seetoproductions.com/wp-content/uploads/2020/06/History_Logo_2015_Black.png" group-title="cultura", History Channel #71
 http://190.60.36.103:8000/play/a004/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png", History2 #72
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png" group-title="cultura, History2 #72
 http://190.60.36.103:8000/play/History2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Y8gJHw1/hyh.png" tvg-group="CIENCIA Y CULTURA", HOME & HEALT #73
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y8gJHw1/hyh.png" group-title="cultura", HOME & HEALT #73
 http://190.60.36.103:8000/play/a01a/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HDLNXWr/ISAT-LOGO.png" tvg-group="CINE Y SERIES", ISAT #74
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HDLNXWr/ISAT-LOGO.png" group-title="peliculas", ISAT #74
 http://190.60.36.103:8000/play/a007/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/440px-Logo_Lifetime_2020.svg.png", Lifetime #75
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/440px-Logo_Lifetime_2020.svg.png" group-title="Variedades", Lifetime #75
 http://190.60.36.103:8000/play/a04g/index.m3u8
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/MTV-Emblem.png", MTV #76
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/MTV-Emblem.png" group-title="musica", MTV #76
 http://190.60.36.103:8000/play/a008/index.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/National-Geographic-Logo.png", Nat Geo #77
 http://190.60.36.103:8000/play/a003/index.m3u8
