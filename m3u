@@ -201,25 +201,25 @@ http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/4.ts
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/982922.png"group-title="Variedades" , Comedy Central HD #161
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/184.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png", De Peliculas HD #162
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="peliculas", De Peliculas HD #162
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/532.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Discovery_Familia_logo.svg/1200px-Discovery_Familia_logo.svg.png" group-title="cultura", Discovery Familia #163
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/56.ts
-#EXTINF:-1 tvg-logo="https://auvaromaia.com/wp-content/uploads/2015/12/Discovery_Kids.png", Discovery Kids HD #164
+#EXTINF:-1 tvg-logo="https://auvaromaia.com/wp-content/uploads/2015/12/Discovery_Kids.png" group-title="Infantiles", Discovery Kids HD #164
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/388.ts
-#EXTINF:-1 tvg-logo="https://www.dlf.pt/dfpng/middlepng/13-139534_discovery-science-tv-logo-hd-png-download.png",  Discovery Science HD #165
+#EXTINF:-1 tvg-logo="https://www.dlf.pt/dfpng/middlepng/13-139534_discovery-science-tv-logo-hd-png-download.png" group-title="cultura",  Discovery Science HD #165
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/165.ts
-#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/223-2233296_render-logo-disney-logos-png-image-sans-fond.png", Disney Channel HD #166
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/223-2233296_render-logo-disney-logos-png-image-sans-fond.png" group-title="Infantiles", Disney Channel HD #166
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/398.ts
-#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/223-2233296_render-logo-disney-logos-png-image-sans-fond.png", Disney Junior HD #167
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/223-2233296_render-logo-disney-logos-png-image-sans-fond.png" group-title="Infantiles", Disney Junior HD #167
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/399.ts
-#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/223-2233296_render-logo-disney-logos-png-image-sans-fond.png", Disney XD HD #168
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/223-2233296_render-logo-disney-logos-png-image-sans-fond.png" group-title="Infantiles", Disney XD HD #168
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/400.ts
 #EXTINF:-1 tvg-logo="https://www.frankwbaker.com/mlc/wp-content/uploads/2019/11/entertainment-weekly-logo-png-transparent-2048x2048.png", E! Entreteiment HD #169
