@@ -88,11 +88,11 @@ http://190.60.36.103:8000/play/a00h/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/logo-Cartoon-Network.png" group-title="Infantiles", Cartoon Network #44
 http://190.60.36.103:8000/play/a00d/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_(Yellow).svg/1200px-Cinemax_(Yellow).svg.png", Cinemax #45
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_(Yellow).svg/1200px-Cinemax_(Yellow).svg.png" group-title="peliculas", Cinemax #45
 http://190.60.36.103:8000/play/a06e/index.m3u8
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png", Discovery Channel #47
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png" group-title="cultura", Discovery Channel #47
 http://190.60.36.103:8000/play/a00u/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6PPyvXN/id.png" tvg-group="CIENCIA Y CULTURA", INVESTIGATION DISCOVERY #48
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6PPyvXN/id.png" group-title="cultura", INVESTIGATION DISCOVERY #48
 http://190.60.36.103:8000/play/a018/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hFx2x0J/discoverykids.png" tvg-group="INFANTILES", DISCOVERY KIDS #49
 http://190.60.36.103:8000/play/a00g/index.m3u8
