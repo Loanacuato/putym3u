@@ -3,14 +3,14 @@
 
 #EXTINF:-1 tvg-id="" tvg-name="El Ocho (1080p) [Not 24/7]" tvg-logo="https://i.ibb.co/0yFbZj4/Captura.png" group-title="nacionales",El Ocho (1080p) [Not 24/7]
 http://wpshop.tk:8080/XB21cLxBT4/kdeojk2vDM/23536
-#EXTINF:-1 tvg-id="" tvg-name="America #1" tvg-logo="https://pluspng.com/img-png/logo-america-tv-png-open-2000.png" tvg-title="Nacionales",America 1
+#EXTINF:-1 tvg-id="" tvg-name="America #1" tvg-logo="https://pluspng.com/img-png/logo-america-tv-png-open-2000.png" group-title="Nacionales",America 1
 http://190.60.36.103:8000/play/a03q/index.m3u8
-#EXTINF:-1  tvg-id=""tvg-name="tv publica" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.1447386906_TVP20201.png.4f120de9cdc8d51b61c8f64885c8fde4.png" tvg-title="Nacionales", TV Publica 2
+#EXTINF:-1  tvg-id=""tvg-name="tv publica" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.1447386906_TVP20201.png.4f120de9cdc8d51b61c8f64885c8fde4.png" group-title="Nacionales", TV Publica 2
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="telefe" tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/35.png" tvg-title="Nacionales", Telefe #4 
+#EXTINF:-1 tvg-id="" tvg-name="telefe" tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/35.png" group-title="Nacionales", Telefe #4 
 https://telefeviacom1.akamaized.net/hls/live/2037987/viacomINT/TOK/master-wild2.m3u8
 
-#EXTINF:-1 tvg-name="history" tvg-logo="https://p7.hiclipart.com/preview/222/434/566/history-television-channel-logo-television-show-story.jpg" tvg-title="cultura", History Channel HD #5
+#EXTINF:-1 tvg-name="history" tvg-logo="https://p7.hiclipart.com/preview/222/434/566/history-television-channel-logo-television-show-story.jpg" group-title="cultura", History Channel HD #5
 #EXTVLCOPT:http-user-agent=S11elW/2.57 ,
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/458.ts
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/6.png" tvg-title="Nacionales", eltrece #6 
