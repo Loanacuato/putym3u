@@ -7,9 +7,9 @@
 
 #EXTINF:-1 tvg-name="America #1" tvg-logo="https://pluspng.com/img-png/logo-america-tv-png-open-2000.png" tvg-group="Nacionales",America #1
 http://190.60.36.103:8000/play/a03q/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.1447386906_TVP20201.png.4f120de9cdc8d51b61c8f64885c8fde4.png" tvg-group="Nacionales", TV Publica #2
+#EXTINF:-1  tvg-name="tv publica" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.1447386906_TVP20201.png.4f120de9cdc8d51b61c8f64885c8fde4.png" tvg-group="Nacionales", TV Publica #2
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
-#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/35.png" tvg-group="Nacionales", Telefe #4 
+#EXTINF:-1 tvg-name="telefe" tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/35.png" tvg-group="Nacionales", Telefe #4 
 https://telefeviacom1.akamaized.net/hls/live/2037987/viacomINT/TOK/master-wild2.m3u8
 #EXTINF:-1 tvg-logo="https://p7.hiclipart.com/preview/222/434/566/history-television-channel-logo-television-show-story.jpg" tvg-group="cultura", History Channel HD #5
 #EXTVLCOPT:http-user-agent=S11elW/2.57 ,
