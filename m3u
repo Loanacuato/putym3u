@@ -184,27 +184,27 @@ http://190.60.36.103:8000/play/a04w/index.m3u8
 http://190.60.36.103:8000/play/a04s/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T0jMb06/warner.png" group-title="peliculas", WARNER #95
 http://190.60.36.103:8000/play/a00w/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/1200px-Win_Sports%2B_logo.svg.png", Win #96
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/1200px-Win_Sports%2B_logo.svg.png" group-title="Deportes", Win #96
 http://190.60.36.103:8000/play/a06k/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/1200px-Win_Sports%2B_logo.svg.png", Win Sports+ #97
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/1200px-Win_Sports%2B_logo.svg.png" group-title="Deportes", Win Sports+ #97
 http://190.60.36.103:8000/play/a035/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.thoughtco.com/thmb/7SiGVptV1daM4Gwlu8DQDtWT-SU=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/Babyfirst-logo-579d69815f9b589aa9ac47ca.png", Baby first
+#EXTINF:-1 tvg-logo="https://www.thoughtco.com/thmb/7SiGVptV1daM4Gwlu8DQDtWT-SU=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/Babyfirst-logo-579d69815f9b589aa9ac47ca.png" group-title="Infantiles", Baby first
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/390.ts
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png"  Cine Canal HD VIP #159
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="peliculas", Cine Canal HD VIP #159
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/4.ts
 
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/982922.png"  Comedy Central HD #161
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/982922.png"group-title="Variedades" , Comedy Central HD #161
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/184.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png", De Peliculas HD #162
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/532.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Discovery_Familia_logo.svg/1200px-Discovery_Familia_logo.svg.png", Discovery Familia #163
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Discovery_Familia_logo.svg/1200px-Discovery_Familia_logo.svg.png" group-title="cultura", Discovery Familia #163
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/56.ts
 #EXTINF:-1 tvg-logo="https://auvaromaia.com/wp-content/uploads/2015/12/Discovery_Kids.png", Discovery Kids HD #164
