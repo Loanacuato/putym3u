@@ -124,15 +124,15 @@ http://190.60.36.103:8000/play/a014/index.m3u8
 http://190.60.36.103:8000/play/a015/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KD4s81z/Golden-logo.png" group-title="peliculas", GOLDEN #65
 http://190.60.36.103:8000/play/a053/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rZmZZsw/hbo.png" tvg-group="CINE Y SERIES", HBO #66
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rZmZZsw/hbo.png" group-title="peliculas", HBO #66
 http://190.60.36.103:8000/play/a06d/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png", HBO 2 #67
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="peliculas, HBO 2 #67
 http://190.60.36.103:8000/play/a00n/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" tvg-group="CINE Y SERIES", HBO FAMILY #68
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="peliculas", HBO FAMILY #68
 http://190.60.36.103:8000/play/a00q/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FhWCVw7/hboplus.png" tvg-group="CINE Y SERIES", HBO PLUS #69
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FhWCVw7/hboplus.png" group-title="peliculas", HBO PLUS #69
 http://190.60.36.103:8000/play/a00o/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Vjrk31y/hboxtreme.png" tvg-group="CINE Y SERIES", HBO XTREME #70
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vjrk31y/hboxtreme.png" group-title="peliculas", HBO XTREME #70
 http://190.60.36.103:8000/play/a00p/index.m3u8
 #EXTINF:-1 tvg-logo="https://seetoproductions.com/wp-content/uploads/2020/06/History_Logo_2015_Black.png", History Channel #71
 http://190.60.36.103:8000/play/a004/index.m3u8
