@@ -16,7 +16,7 @@ https://telefeviacom1.akamaized.net/hls/live/2037987/viacomINT/TOK/master-wild2.
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/458.ts
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/6.png" tvg-title="Nacionales", eltrece #6 
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png" tvg-group="Nacionales", Net TV #7 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png" tvg-title="Nacionales", Net TV #7 
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/35.png" tvg-group="Locales", CANAL 8 TUCUMÁN #8 
 https://ythls.onrender.com/channel/UCYozHHDnLnQs2yc2k3t8cPA.m3u8
