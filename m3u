@@ -222,19 +222,19 @@ http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/399.ts
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/223-2233296_render-logo-disney-logos-png-image-sans-fond.png" group-title="Infantiles", Disney XD HD #168
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/400.ts
-#EXTINF:-1 tvg-logo="https://www.frankwbaker.com/mlc/wp-content/uploads/2019/11/entertainment-weekly-logo-png-transparent-2048x2048.png", E! Entreteiment HD #169
+#EXTINF:-1 tvg-logo="https://www.frankwbaker.com/mlc/wp-content/uploads/2019/11/entertainment-weekly-logo-png-transparent-2048x2048.png" group-title="Variedades", E! Entreteiment HD #169
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/188.ts
-#EXTINF:-1 tvg-logo="http://img1.wikia.nocookie.net/__cb20150312085751/logopedia/images/3/32/GOURMET_TV_2002.jpg", El Gourmet HD #170
+#EXTINF:-1 tvg-logo="http://img1.wikia.nocookie.net/__cb20150312085751/logopedia/images/3/32/GOURMET_TV_2002.jpg" group-title="Variedades", El Gourmet HD #170
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/189.ts
-#EXTINF:-1 tvg-logo="https://televall.online/images/golden-hd.png", Golden HD #171
+#EXTINF:-1 tvg-logo="https://televall.online/images/golden-hd.png" group-title="peliculas", Golden HD #171
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/190.ts
-#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/H2_logo.png", H2 History 2 HD #172
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/H2_logo.png" group-title="cultura", H2 History 2 HD #172
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/173.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png", HBO 2 HD #173
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="peliculas", HBO 2 HD #173
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/168.ts
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/789117.jpg", HBO Family HD #174
