@@ -102,11 +102,11 @@ http://190.60.36.103:8000/play/a06q/index.m3u8
 http://190.60.36.103:8000/play/a00t/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GPwty1R/disneyjunior.png" group-title="Infantiles", DISNEY JR #52
 http://190.60.36.103:8000/play/a00r/index.m3u8
-#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180629/ss/kisspng-television-channel-logo-e-etv-network-tv-channel-5b35d053a04617.9816723615302533956565.jpg", E Entertainment #53
+#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180629/ss/kisspng-television-channel-logo-e-etv-network-tv-channel-5b35d053a04617.9816723615302533956565.jpg" group-title="Variedades" , E Entertainment #53
 http://190.60.36.103:8000/play/a00x/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/D4XMJV0/espnar.png" tvg-group="DEPORTES", ESPN AR #54
+#EXTINF:-1 tvg-logo="https://i.ibb.co/D4XMJV0/espnar.png" group-title="Deportes", ESPN AR #54
 http://190.60.36.103:8000/play/a010/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png", ESPN 2 #55
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="Deportes", ESPN 2 #55
 http://190.60.36.103:8000/play/a00s/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png", ESPN 2 Latin #56
 http://190.60.36.103:8000/play/a00z/index.m3u8
