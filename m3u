@@ -69,11 +69,11 @@ https://ythls.onrender.com/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
 https://ythls.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-bhuFzYt4BMY/X3T-OEDYY1I/AAAAAAAA6FU/6m3id4x5NFQg-XMoRr4230kQk8wP12M6ACK8BGAsYHg/s0/2020-09-30.png" group-title="Locales", LA VOZ TUCUMAN #33
 https://srv3.zcast.com.br/lavozdetucumanhd/lavozdetucumanhd/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-QpPz8HHPGHE/UNznAoyfQ9I/AAAAAAAAYRA/hM-d0ZLNSXU/s1600/magic-kids.png", MAGIC KIDS #34
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-QpPz8HHPGHE/UNznAoyfQ9I/AAAAAAAAYRA/hM-d0ZLNSXU/s1600/magic-kids.png" group-title="Infantiles", MAGIC KIDS #34
 https://magicstream.ddns.net/magicstream/stream.m3u8
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/929/154/png-transparent-music-vocal-music-free-music-musical-note-album-logo-music-download.png", MAS MUSICA #35
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/929/154/png-transparent-music-vocal-music-free-music-musical-note-album-logo-music-download.png" group-title="musica", MAS MUSICA #35
 https://stmv1.cnarlatam.com/televideo/televideo/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://w7.pngwing.com/pngs/929/154/png-transparent-music-vocal-music-free-music-musical-note-album-logo-music-download.png",MUSIC TOP #36
+#EXTINF:-1  tvg-logo="https://w7.pngwing.com/pngs/929/154/png-transparent-music-vocal-music-free-music-musical-note-album-logo-music-download.png" group-title="musica",MUSIC TOP #36
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://megacanais.com/wp-content/uploads/2020/12/ae.png", AE Mundo # 39
 http://190.60.36.103:8000/play/a011/index.m3u8
