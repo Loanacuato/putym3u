@@ -4,7 +4,8 @@
 #EXTINF:-1 ,VALORE EL EZFUERZO AJENO
 #EXTINF:-1 ,NO COMPARTAS
 #EXTINF:-1 ,SI NO ESTAS CONFORME PAGA
-
+#EXTINF:-1 tvg-id="" tvg-name="El Ocho (1080p) [Not 24/7]" tvg-logo="https://i.ibb.co/0yFbZj4/Captura.png" group-title="⚜️ Lista alterna 06⚡",El Ocho (1080p) [Not 24/7]
+http://wpshop.tk:8080/XB21cLxBT4/kdeojk2vDM/23536
 #EXTINF:-1 tvg-id="" tvg-name="America #1" tvg-logo="https://pluspng.com/img-png/logo-america-tv-png-open-2000.png" tvg-title="Nacionales",America 1
 http://190.60.36.103:8000/play/a03q/index.m3u8
 #EXTINF:-1  tvg-id=""tvg-name="tv publica" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.1447386906_TVP20201.png.4f120de9cdc8d51b61c8f64885c8fde4.png" tvg-title="Nacionales", TV Publica 2
@@ -510,7 +511,6 @@ http://167.114.156.136:25461/INFINITV/ZX89NM22/219
 http://167.114.156.136:25461/INFINITV/ZX89NM22/220
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png",Fox Sport 1 (USA) #514
 http://167.114.156.136:25461/INFINITV/ZX89NM22/221
-#EXTINF:-1 tvg-id="" tvg-name="El Ocho (1080p) [Not 24/7]" tvg-logo="https://i.ibb.co/0yFbZj4/Captura.png" group-title="⚜️ Lista alterna 06⚡",El Ocho (1080p) [Not 24/7]
-http://wpshop.tk:8080/XB21cLxBT4/kdeojk2vDM/23536
+
 #EXTINF:-1, AMERICA
 https://ythls.onrender.com/channel/UC6NVDkuzY2exMOVFw4i9oHw.m3u8
