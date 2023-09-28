@@ -381,9 +381,9 @@ http://204.199.120.34:16123/play/ch01
 http://204.199.120.34:16123/play/ch11
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Cinelatino_logo.png",CINELATINO #382
 http://204.199.120.34:16123/play/ch12
-#EXTINF:-1 tvg-logo="https://cdn.technadu.com/wp-content/uploads/2019/12/AMC-Channel-Logo-1536x864.jpg",AMC #383
+#EXTINF:-1 tvg-logo="https://cdn.technadu.com/wp-content/uploads/2019/12/AMC-Channel-Logo-1536x864.jpg" group-title="Variedades",AMC #383
 http://204.199.120.34:16123/play/ch13
-#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/05/ESPN_logo_wordmark.png" group-title="Deportes",ESPN #384
+#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/05/ESPN_logo_wordmark.png" group-title="Deportes" group-title="Deportes",ESPN #384
 http://204.199.120.34:16123/play/ch16
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png",ESPN2 #385
 http://204.199.120.34:16123/play/ch17
@@ -393,7 +393,7 @@ http://204.199.120.34:16123/play/ch18
 http://204.199.120.34:16123/play/ch19
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png",FOX SPORTS 2 #388
 http://204.199.120.34:16123/play/ch20
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png",DISCOVERY #390
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png" group-title="cultura",DISCOVERY #390
 http://204.199.120.34:16123/play/ch22
 #EXTINF:-1 tvg-logo="https://tvnotiblog.com/wp-content/uploads/2012/05/INVESTIGATION-DISCOVERY-ID-LOGO-890x501.jpg",ID #391
 http://204.199.120.34:16123/play/ch23
@@ -401,18 +401,18 @@ http://204.199.120.34:16123/play/ch23
 http://204.199.120.34:16123/play/ch24
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_h_y_h_hd_latinoamerica-mediano.png",DISCOVERY H&H #393
 http://204.199.120.34:16123/play/ch25
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png",TLC #394
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="Variedades",TLC #394
 http://204.199.120.34:16123/play/ch26
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_el-gourmet_m.png",EL GOURMET #395
 http://204.199.120.34:16123/play/ch27
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-5f4dqZkDdX0/WRz0kNAU0FI/AAAAAAAA5k4/b3j1YokZs-g3y-4AhyttQSgTfzWIqnOeACLcB/s1600/logo_foodnetwork.png",FOOD NETWORK #396
 http://204.199.120.34:16123/play/ch28
-#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180706/gvp/kisspng-animal-planet-logo-television-channel-television-s-planet-express-5b4010646d8f98.7476101915309251564488.jpg",ANIMAL PLANET #397
+#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180706/gvp/kisspng-animal-planet-logo-television-channel-television-s-planet-express-5b4010646d8f98.7476101915309251564488.jpg" group-title="cultura",ANIMAL PLANET #397
 http://204.199.120.34:16123/play/ch29
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/national-geographic-channel-logo.png",NATGEO#398
 http://204.199.120.34:16123/play/ch31
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_M%C3%A1s_Chic_(canal_de_televisi%C3%B3n).svg/1280px-Logo_M%C3%A1s_Chic_(canal_de_televisi%C3%B3n).svg.png",MAS CHIC #400
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_M%C3%A1s_Chic_(canal_de_televisi%C3%B3n).svg/1280px-Logo_M%C3%A1s_Chic_(canal_de_televisi%C3%B3n).svg.png" group-title="Variedades",MAS CHIC #400
 http://204.199.120.34:16123/play/ch33
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-AkkPySD117w/VuCLEzcc4RI/AAAAAAAAAqI/VeRbS0i1EOU/s1600/Golden_logo.png",GOLDEN #406
 http://204.199.120.34:16123/play/ch46
