@@ -116,13 +116,13 @@ http://190.60.36.103:8000/play/a06s/index.m3u8
 http://190.60.36.103:8000/play/a01b/index.m3u8
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-cHVI6tOV0aY/UTY42ELH7LI/AAAAAAAADZo/R7_jdIyexFs/s1600/Enlace-logo.png" group-title="religion", Enlace #60
 http://190.60.36.103:8000/play/a00f/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZGbW8yM/fx.png" tvg-group="CINE Y SERIES", FX #61
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZGbW8yM/fx.png" group-title="peliculas", FX #61
 http://190.60.36.103:8000/play/a06i/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3ryQDk2/foxsports2ar.png" tvg-group="DEPORTES", FOX SPORTS 2 #62
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3ryQDk2/foxsports2ar.png" group-title="Deportes", FOX SPORTS 2 #62
 http://190.60.36.103:8000/play/a014/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1Z0dCS5/foxsports3ar.png" tvg-group="DEPORTES", FOX SPORTS 3 #63
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1Z0dCS5/foxsports3ar.png" group-title="Deportes", FOX SPORTS 3 #63
 http://190.60.36.103:8000/play/a015/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KD4s81z/Golden-logo.png" tvg-group="CINE Y SERIES", GOLDEN #65
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KD4s81z/Golden-logo.png" group-title="peliculas", GOLDEN #65
 http://190.60.36.103:8000/play/a053/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rZmZZsw/hbo.png" tvg-group="CINE Y SERIES", HBO #66
 http://190.60.36.103:8000/play/a06d/index.m3u8
