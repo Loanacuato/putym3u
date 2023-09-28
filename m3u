@@ -38,7 +38,7 @@ http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 https://ythls.onrender.com/channel/UC1h8_HKc5wScqeRw1HV6a6w.m3u8
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/40.png" tvg-group="Deportes", TyC Sports #16
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_1.m3u8
-#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/2195.png" tvg-group="Deportes", Deportv #17
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/2195.png" tvg-title="Deportes", Deportv #17
 https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/11.png" tvg-group="Variedades", Canal Rural #18
 https://cda2.alsolnet.com/elrural/live/playlist.m3u8
