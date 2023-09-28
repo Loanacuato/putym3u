@@ -75,9 +75,9 @@ https://magicstream.ddns.net/magicstream/stream.m3u8
 https://stmv1.cnarlatam.com/televideo/televideo/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://w7.pngwing.com/pngs/929/154/png-transparent-music-vocal-music-free-music-musical-note-album-logo-music-download.png" group-title="musica",MUSIC TOP #36
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://megacanais.com/wp-content/uploads/2020/12/ae.png", AE Mundo # 39
+#EXTINF:-1 tvg-logo="https://megacanais.com/wp-content/uploads/2020/12/ae.png" group-title="Variedades", AE Mundo # 39
 http://190.60.36.103:8000/play/a011/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_(2015).svg/1200px-AXN_logo_(2015).svg.png",AXN #40
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_(2015).svg/1200px-AXN_logo_(2015).svg.png" group-title="peliculas",AXN #40
 http://190.60.36.103:8000/play/a06g/index.m3u8
  #EXTINF:-1 tvg-logo="https://img2.freepng.es/20180706/gvp/kisspng-animal-planet-logo-television-channel-television-s-planet-express-5b4010646d8f98.7476101915309251564488.jpg", Animal Planet #41
 http://190.60.36.103:8000/play/a00v/index.m3u8
