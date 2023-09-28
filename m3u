@@ -357,7 +357,7 @@ http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/86.ts
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-IVRi6G8ptjk/VSW-_Yi0XrI/AAAAAAAAkRo/yofu4G4tEZ8/s1600/Warner_Channel_logo.png" group-title="peliculas", Warner Channel HD #216
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/176.ts
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png", Discovery Channel MX VIP #217
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png" group-title="cultura", Discovery Channel MX VIP #217
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/92.ts
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-n_Glu1jyeCI/XGyr0eeouTI/AAAAAAAABWg/8YDpudpkt_MS9kRm94t_srzW7rIa9VAawCLcBGAs/s1600/1.jpg", Discovery Theather HD VIP #218
@@ -369,21 +369,21 @@ http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/76.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png", Discovery World HD VIP #220
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/164.ts
-#EXTINF:1 tvg-logo="https://clipground.com/images/universal-png-logo.png",UNIVERSAL TV #370
+#EXTINF:1 tvg-logo="https://clipground.com/images/universal-png-logo.png" group-title="peliculas",UNIVERSAL TV #370
 #EXTVLCOPT:http-user-agent=FFFFF
 https://vivo.lamtv.tv:8081/a/0110/playlist.m3u8
-#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png",WIN SPORTS #372
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="Deportes",WIN SPORTS #372
 #EXTVLCOPT:http-user-agent=FFFFF
 https://vivo.lamtv.tv:8081/a/0120/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/0b/7a/e2/0b7ae2c03d70e4b7059b0358719a7ffa.png",BABYTV #373
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/0b/7a/e2/0b7ae2c03d70e4b7059b0358719a7ffa.png" group-title="Infantiles",BABYTV #373
 http://204.199.120.34:16123/play/ch01
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_film-arts_m.png",Film&Arts #381
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_film-arts_m.png" group-title="peliculas",Film&Arts #381
 http://204.199.120.34:16123/play/ch11
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Cinelatino_logo.png",CINELATINO #382
 http://204.199.120.34:16123/play/ch12
 #EXTINF:-1 tvg-logo="https://cdn.technadu.com/wp-content/uploads/2019/12/AMC-Channel-Logo-1536x864.jpg",AMC #383
 http://204.199.120.34:16123/play/ch13
-#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/05/ESPN_logo_wordmark.png",ESPN #384
+#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/05/ESPN_logo_wordmark.png" group-title="Deportes",ESPN #384
 http://204.199.120.34:16123/play/ch16
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png",ESPN2 #385
 http://204.199.120.34:16123/play/ch17
