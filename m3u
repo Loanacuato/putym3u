@@ -336,25 +336,25 @@ http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/161.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="Variedades", TLC HD #209
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/371.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1200px-TNT_Logo_2016.svg.png", TNT HD VIP #210
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1200px-TNT_Logo_2016.svg.png" group-title="peliculas", TNT HD VIP #210
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/1.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png", Tooncast HD #211
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png" group-title="Infantiles", Tooncast HD #211
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/387.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/TruTV.png", TruTV HD #212
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/TruTV.png" group-title="Variedades", TruTV HD #212
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/185.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png", TUDN TRANSCODER ORIGINAL HD #213
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png" group-title="Deportes", TUDN TRANSCODER ORIGINAL HD #213
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/120.ts
-#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180422/cpw/kisspng-universal-channel-television-channel-syfy-logo-universal-logo-5adcadad2a5f73.1784917815244118211736.jpg", Universal Channels TV HD#214
+#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180422/cpw/kisspng-universal-channel-television-channel-syfy-logo-universal-logo-5adcadad2a5f73.1784917815244118211736.jpg" group-title="peliculas", Universal Channels TV HD#214
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/175.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png", Univision Novelas HD #215
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="novelas", Univision Novelas HD #215
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/86.ts
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-IVRi6G8ptjk/VSW-_Yi0XrI/AAAAAAAAkRo/yofu4G4tEZ8/s1600/Warner_Channel_logo.png", Warner Channel HD #216
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-IVRi6G8ptjk/VSW-_Yi0XrI/AAAAAAAAkRo/yofu4G4tEZ8/s1600/Warner_Channel_logo.png" group-title="peliculas", Warner Channel HD #216
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/176.ts
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png", Discovery Channel MX VIP #217
