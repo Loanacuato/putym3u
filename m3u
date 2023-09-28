@@ -414,7 +414,7 @@ http://204.199.120.34:16123/play/ch31
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_M%C3%A1s_Chic_(canal_de_televisi%C3%B3n).svg/1280px-Logo_M%C3%A1s_Chic_(canal_de_televisi%C3%B3n).svg.png" group-title="Variedades",MAS CHIC #400
 http://204.199.120.34:16123/play/ch33
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-AkkPySD117w/VuCLEzcc4RI/AAAAAAAAAqI/VeRbS0i1EOU/s1600/Golden_logo.png",GOLDEN #406
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-AkkPySD117w/VuCLEzcc4RI/AAAAAAAAAqI/VeRbS0i1EOU/s1600/Golden_logo.png" group-title="peliculas",GOLDEN #406
 http://204.199.120.34:16123/play/ch46
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-AkkPySD117w/VuCLEzcc4RI/AAAAAAAAAqI/VeRbS0i1EOU/s1600/Golden_logo.png",GOLDEN EDGE #407
 http://204.199.120.34:16123/play/ch47
@@ -426,15 +426,15 @@ http://204.199.120.34:16123/play/ch49
 http://204.199.120.34:16123/play/ch51
 #EXTINF:-1 tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinefamiliar.png",CINE FAMILIAR #411
 http://204.199.120.34:16123/play/ch52
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-faeGyyg06JA/WJu6btunM3I/AAAAAAAAG8k/DpOWGoqaxSoa0RyvPd9zi9nVgMPq-uYbACK4B/s1600/fanartCanalesMusica.png",MIMUSICA ROMANTICA #413
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-faeGyyg06JA/WJu6btunM3I/AAAAAAAAG8k/DpOWGoqaxSoa0RyvPd9zi9nVgMPq-uYbACK4B/s1600/fanartCanalesMusica.png" group-title="musica",MIMUSICA ROMANTICA #413
 http://204.199.120.34:16123/play/ch54
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-faeGyyg06JA/WJu6btunM3I/AAAAAAAAG8k/DpOWGoqaxSoa0RyvPd9zi9nVgMPq-uYbACK4B/s1600/fanartCanalesMusica.png",MIMUSICA SALSA #414
 http://204.199.120.34:16123/play/ch55
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-faeGyyg06JA/WJu6btunM3I/AAAAAAAAG8k/DpOWGoqaxSoa0RyvPd9zi9nVgMPq-uYbACK4B/s1600/fanartCanalesMusica.png",MIMUSICA POPULAR #415
 http://204.199.120.34:16123/play/ch56
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png",DEPELICULA #416
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="peliculas",DEPELICULA #416
 http://204.199.120.34:16123/play/ch57
-#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/05/ESPN_logo_wordmark.png",ESPN 1 MX #418
+#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/05/ESPN_logo_wordmark.png" group-title="Deportes",ESPN 1 MX #418
 http://167.114.156.136:25461/INFINITV/ZX89NM22/35
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png",ESPN 2 MX #419
 http://167.114.156.136:25461/INFINITV/ZX89NM22/36
@@ -452,15 +452,15 @@ http://167.114.156.136:25461/INFINITV/ZX89NM22/45
 http://167.114.156.136:25461/INFINITV/ZX89NM22/43
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png",Fox Sports MX #428
 http://167.114.156.136:25461/INFINITV/ZX89NM22/42
-#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/113-1132876_canal-sony-logo-png-transparent-png.png",Sony #430
+#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/113-1132876_canal-sony-logo-png-transparent-png.png" group-title="peliculas",Sony #430
 http://167.114.156.136:25461/INFINITV/ZX89NM22/53
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1200px-TNT_Logo_2016.svg.png",TNT #434
 http://167.114.156.136:25461/INFINITV/ZX89NM22/57
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/nick_jr-mediano.png",Nick Jr#439
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/nick_jr-mediano.png" group-title="Infantiles",Nick Jr#439
 http://167.114.156.136:25461/INFINITV/ZX89NM22/64
 #EXTINF:-1 tvg-logo="https://img2.gratispng.com/20181107/ybo/kisspng-babytv-enchanted-babyfirsttv-television-logo-gua-de-canales-totalplay-paquete-familiar-5be3a1c441b737.7394800115416447402692.jpg",Baby TV #443
 http://167.114.156.136:25461/INFINITV/ZX89NM22/60
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-IVRi6G8ptjk/VSW-_Yi0XrI/AAAAAAAAkRo/yofu4G4tEZ8/s1600/Warner_Channel_logo.png",Warner Channel #444
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-IVRi6G8ptjk/VSW-_Yi0XrI/AAAAAAAAkRo/yofu4G4tEZ8/s1600/Warner_Channel_logo.png" group-title="peliculas",Warner Channel #444
 http://167.114.156.136:25461/INFINITV/ZX89NM22/59
 #EXTINF:-1 tvg-logo="https://img2.gratispng.com/20181122/pye/kisspng-logo-fox-channel-fox-networks-group-latin-america-5bf69ff4ca5908.8354122815428894608288.jpg",Fox Premium #446
 http://167.114.156.136:25461/INFINITV/ZX89NM22/69
