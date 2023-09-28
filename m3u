@@ -37,9 +37,9 @@ https://ythls.onrender.com/channel/UC1h8_HKc5wScqeRw1HV6a6w.m3u8
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/2195.png" group-title="Deportes", Deportv #17
 https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/11.png" group-title="Variedades", Canal Rural #18
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/11.png" group-title="Nacionales", Canal Rural #18
 https://cda2.alsolnet.com/elrural/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/477.png" group-title="Variedades", Encuentro #19
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/477.png" group-title="Nacionales", Encuentro #19
 https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/Enlace-TV-en-vivo-Online.png" group-title="Religion",enlace #20
 https://11554-1.b.cdn13.com/EnlaceTV/smil:enlace-FullHD.smil/chunklist_b3112000_sleng.m3u8 
@@ -176,13 +176,13 @@ http://190.60.36.103:8000/play/a073/index.m3u8
 http://190.60.36.103:8000/play/a036/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Z2LQWrH/universal.png" group-title="peliculas", UNIVERSAL #91
 http://190.60.36.103:8000/play/a006/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Dz3NcB1/ucinema.png" tvg-group="CINE Y SERIES", UNIVERSAL CINEMA #92
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Dz3NcB1/ucinema.png" group-title="peliculas", UNIVERSAL CINEMA #92
 http://190.60.36.103:8000/play/a04t/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Dz3NcB1/ucinema.png" tvg-group="CINE Y SERIES", UNIVERSAL CINEMA #93
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Dz3NcB1/ucinema.png" group-title="peliculas", UNIVERSAL CINEMA #93
 http://190.60.36.103:8000/play/a04w/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Dz3NcB1/ucinema.png" tvg-group="CINE Y SERIES", UNIVERSAL CINEMA #94
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Dz3NcB1/ucinema.png" group-title="peliculas", UNIVERSAL CINEMA #94
 http://190.60.36.103:8000/play/a04s/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/T0jMb06/warner.png" tvg-group="CINE Y SERIES", WARNER #95
+#EXTINF:-1 tvg-logo="https://i.ibb.co/T0jMb06/warner.png" group-title="peliculas", WARNER #95
 http://190.60.36.103:8000/play/a00w/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/1200px-Win_Sports%2B_logo.svg.png", Win #96
 http://190.60.36.103:8000/play/a06k/index.m3u8
