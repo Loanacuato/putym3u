@@ -41,7 +41,7 @@ https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 https://cda2.alsolnet.com/elrural/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/477.png" group-title="Nacionales", Encuentro #19
 https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/Enlace-TV-en-vivo-Online.png" group-title="Religion",enlace #20
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/Enlace-TV-en-vivo-Online.png" group-title="religion",enlace #20
 https://11554-1.b.cdn13.com/EnlaceTV/smil:enlace-FullHD.smil/chunklist_b3112000_sleng.m3u8 
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/1492.png" group-title="Infantiles", Paka Paka #21
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8 
@@ -282,10 +282,10 @@ http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/180.ts
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-yMmjBYqcyx4/Xyz9H_Mm16I/AAAAAAAAAu8/-gjkAmYda4AhuMemziNObIZZzy6_YbDhACNcBGAsYHQ/s640/PasionesLogo.png" group-title="novelas", Pasiones #191
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/10.ts
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-rYwZhGBJZdU/XM5BsO_CaYI/AAAAAAABUrI/yrJOEcxR7JUypJu2YmyMs8dyd6uG6EmsACPcBGAYYCw/s1600/SPACE-min.jpg", Space HD VIP #192
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-rYwZhGBJZdU/XM5BsO_CaYI/AAAAAAABUrI/yrJOEcxR7JUypJu2YmyMs8dyd6uG6EmsACPcBGAYYCw/s1600/SPACE-min.jpg" group-title="peliculas", Space HD VIP #192
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/182.ts
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/star-channel-logo-43098CF416-seeklogo.com.png", Star Channel HD VIP #193
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/star-channel-logo-43098CF416-seeklogo.com.png" group title="peliculas", Star Channel HD VIP #193
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/5.ts
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Logo-700x394.png", Starz Black HD #194
@@ -321,19 +321,19 @@ http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/163.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/1200px-Syfy.svg.png", SyFy Channel HD #204
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/181.ts
-#EXTINF:-1 tvg-logo="https://www.entel.cl/public/logos/canales/tcm.png", TCM #205
+#EXTINF:-1 tvg-logo="https://www.entel.cl/public/logos/canales/tcm.png" group-title="Variedades", TCM #205
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/183.ts
-#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180603/isl/kisspng-teennick-nickelodeon-television-channel-television-nickcom-5b143ff65d8d41.9739192315280537503832.jpg", Teen Nick HD #206
+#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180603/isl/kisspng-teennick-nickelodeon-television-channel-television-nickcom-5b143ff65d8d41.9739192315280537503832.jpg" group-title="Infantiles", Teen Nick HD #206
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/384.ts
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-QU_BXcH1T1o/UJhSqN_BhfI/AAAAAAAAXFM/dRO6Sl5DKqM/s1600/TELEHIt-2012.png", Telehits HD #207
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-QU_BXcH1T1o/UJhSqN_BhfI/AAAAAAAAXFM/dRO6Sl5DKqM/s1600/TELEHIt-2012.png" group-title="musica", Telehits HD #207
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/542.ts
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/556098.png", Telemundo Internacional#208
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/556098.png" group-title="Noticias", Telemundo Internacional#208
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/161.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png", TLC HD #209
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="Variedades", TLC HD #209
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/371.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1200px-TNT_Logo_2016.svg.png", TNT HD VIP #210
