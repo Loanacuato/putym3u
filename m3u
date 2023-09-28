@@ -63,11 +63,11 @@ https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/logos/weVy6A9B_400x400_5.jpg" group-title="Variedades" , CIUDAD MAGICA #30
 https://tv.initium.net.ar:3235/live/grupocitylive.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wRcv19b/Imagen-dummy.png" group-title="Nacionales", CRONICA TV #31
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wRcv19b/Imagen-dummy.png" group-title="Noticias", CRONICA TV #31
 https://ythls.onrender.com/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/C5N_Logo_2015.PNG", C5N #32
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/C5N_Logo_2015.PNG" group-title="Noticias", C5N #32
 https://ythls.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-bhuFzYt4BMY/X3T-OEDYY1I/AAAAAAAA6FU/6m3id4x5NFQg-XMoRr4230kQk8wP12M6ACK8BGAsYHg/s0/2020-09-30.png", LA VOZ TUCUMAN #33
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-bhuFzYt4BMY/X3T-OEDYY1I/AAAAAAAA6FU/6m3id4x5NFQg-XMoRr4230kQk8wP12M6ACK8BGAsYHg/s0/2020-09-30.png" group-title="Locales", LA VOZ TUCUMAN #33
 https://srv3.zcast.com.br/lavozdetucumanhd/lavozdetucumanhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-QpPz8HHPGHE/UNznAoyfQ9I/AAAAAAAAYRA/hM-d0ZLNSXU/s1600/magic-kids.png", MAGIC KIDS #34
 https://magicstream.ddns.net/magicstream/stream.m3u8
