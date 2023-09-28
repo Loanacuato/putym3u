@@ -158,15 +158,15 @@ http://190.60.36.103:8000/play/a017/index.m3u8
 http://190.60.36.103:8000/play/a00a/index.m3u8
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/04/Sony-Logo-1957-1961.png" group-title="peliculas", Sony #82
 http://190.60.36.103:8000/play/a06f/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/d6/6b/b5/d66bb576495837a6336a136895c0ee31.png", Space #83
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/d6/6b/b5/d66bb576495837a6336a136895c0ee31.png" group-title="peliculas", Space #83
 http://190.60.36.103:8000/play/a06h/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/829X9qs/studiouniversal.png" tvg-group="CINE Y SERIES", STUDIO UNIVERSAL#84
+#EXTINF:-1 tvg-logo="https://i.ibb.co/829X9qs/studiouniversal.png" tvg-group="CINE Y SERIES" group-title="peliculas", STUDIO UNIVERSAL#84
 http://190.60.36.103:8000/play/a04k/index.m3u8
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-ZByLhyYc9Ig/T46WE3EILPI/AAAAAAAAbrU/ODbEHLusQvg/s1600/NBC_Syfy_HD_InBox_Logo_Black_CMYK.jpg", SyFy #85
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-ZByLhyYc9Ig/T46WE3EILPI/AAAAAAAAbrU/ODbEHLusQvg/s1600/NBC_Syfy_HD_InBox_Logo_Black_CMYK.jpg" group-title="peliculas", SyFy #85
 http://190.60.36.103:8000/play/a04h/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png", TLC #86
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="Variedades", TLC #86
 http://190.60.36.103:8000/play/a012/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1200px-TNT_Logo_2016.svg.png", TNT #87
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1200px-TNT_Logo_2016.svg.png" group-title="peliculas", TNT #87
 http://190.60.36.103:8000/play/a00e/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/163X7Gy/telemundo.png" tvg-group="CINE Y SERIES", TELEMUNDO #88
 http://190.60.36.103:8000/play/a016/index.m3u8
