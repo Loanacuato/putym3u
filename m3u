@@ -39,7 +39,7 @@ https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/in
 https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/11.png" group-title="Variedades", Canal Rural #18
 https://cda2.alsolnet.com/elrural/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/477.png" group-title="Cultura y Documentales", Encuentro #19
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/477.png" group-title="Variedades", Encuentro #19
 https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/Enlace-TV-en-vivo-Online.png" group-group="Religion",enlace #20
 https://11554-1.b.cdn13.com/EnlaceTV/smil:enlace-FullHD.smil/chunklist_b3112000_sleng.m3u8 
@@ -79,14 +79,14 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 http://190.60.36.103:8000/play/a011/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_(2015).svg/1200px-AXN_logo_(2015).svg.png" group-title="peliculas",AXN #40
 http://190.60.36.103:8000/play/a06g/index.m3u8
- #EXTINF:-1 tvg-logo="https://img2.freepng.es/20180706/gvp/kisspng-animal-planet-logo-television-channel-television-s-planet-express-5b4010646d8f98.7476101915309251564488.jpg", Animal Planet #41
+ #EXTINF:-1 tvg-logo="https://img2.freepng.es/20180706/gvp/kisspng-animal-planet-logo-television-channel-television-s-planet-express-5b4010646d8f98.7476101915309251564488.jpg" group-title="cultura", Animal Planet #41
 http://190.60.36.103:8000/play/a00v/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HPnbTg4/babytv.png" tvg-group="INFANTILES", BABY TV # 42
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HPnbTg4/babytv.png" group-title="Infantiles", BABY TV # 42
 http://190.60.36.103:8000/play/a04f/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MBBRBkz.png" group-title="Mundo", CNN # 43
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MBBRBkz.png" group-title="Noticias", CNN # 43
 http://190.60.36.103:8000/play/a00h/index.m3u8
  
-#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/logo-Cartoon-Network.png", Cartoon Network #44
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/logo-Cartoon-Network.png" group-title="Infantiles", Cartoon Network #44
 http://190.60.36.103:8000/play/a00d/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_(Yellow).svg/1200px-Cinemax_(Yellow).svg.png", Cinemax #45
 http://190.60.36.103:8000/play/a06e/index.m3u8
