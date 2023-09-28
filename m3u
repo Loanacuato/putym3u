@@ -94,13 +94,13 @@ http://190.60.36.103:8000/play/a06e/index.m3u8
 http://190.60.36.103:8000/play/a00u/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6PPyvXN/id.png" group-title="cultura", INVESTIGATION DISCOVERY #48
 http://190.60.36.103:8000/play/a018/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hFx2x0J/discoverykids.png" tvg-group="INFANTILES", DISCOVERY KIDS #49
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hFx2x0J/discoverykids.png" group-title="cultura", DISCOVERY KIDS #49
 http://190.60.36.103:8000/play/a00g/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png", Discovery Turbo #50
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="cultura", Discovery Turbo #50
 http://190.60.36.103:8000/play/a06q/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Disney_Channel_Germany_Logo_2014.png", Disney Channel #51
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Disney_Channel_Germany_Logo_2014.png" group-title="Infantiles", Disney Channel #51
 http://190.60.36.103:8000/play/a00t/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GPwty1R/disneyjunior.png" tvg-group="INFANTILES", DISNEY JR #52
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GPwty1R/disneyjunior.png" group-title="Infantiles", DISNEY JR #52
 http://190.60.36.103:8000/play/a00r/index.m3u8
 #EXTINF:-1 tvg-logo="https://img2.freepng.es/20180629/ss/kisspng-television-channel-logo-e-etv-network-tv-channel-5b35d053a04617.9816723615302533956565.jpg", E Entertainment #53
 http://190.60.36.103:8000/play/a00x/index.m3u8
