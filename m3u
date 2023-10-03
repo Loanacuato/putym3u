@@ -545,7 +545,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047fabfce6e8e00070bcc
 
 #EXTINF:-1 tvg-id="6047fd723b5bd00007de7092" tvg-chno="916" tvg-logo="https://images.pluto.tv/channels/6047fd723b5bd00007de7092/colorLogoPNG.png" group-tle="Mexico",MTV Spankin' New
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047fd723b5bd00007de7092/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o858778_4201836.png" tvg-group="netflix", Descuida yo te cuido Netflix 2021
+#EXTINF:-1 tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o858778_4201836.png" tvg-group="netflix" group-title="CATALOGO DE PELICULAS", Descuida yo te cuido Netflix 2021
 https://archive.org/download/l.C4r3.4.I0l/l.C4r3.4.I0l.mp4
 
 #EXTINF:-1 tvg-logo="null" tvg-group="netflix", 10 Cosas que Odio de Ti 
