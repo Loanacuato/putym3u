@@ -2346,3 +2346,5 @@ https://nd106.republicaservers.com:4433/hls/c6611/index.m3u8
 https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
 #EXTINF:-1,CANAL 2 SALTA
 https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8
+#EXTINF:-1,CANAL 2 SINAGASTA
+https://stmvideo1.livecastv.com/canal2/canal2/playlist.m3u8
