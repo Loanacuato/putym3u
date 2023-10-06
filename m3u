@@ -2310,25 +2310,25 @@ http://vplay.club:80/live/Emma2023/Emma2023/589452.ts
 http://vplay.club:80/live/Emma2023/Emma2023/589371.ts
 #EXTINF:-1 group-title="Deportes",fox sport sd
 http://vplay.club:80/live/Emma2023/Emma2023/589454.ts
-#EXTINF-1 group-title="INTERIOR DE ARGENTINA", 5TV CORRIENTES
+#EXTINF:-1 group-title="INTERIOR DE ARGENTINA", 5TV CORRIENTES
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
-#EXTINF-1 group-title="INTERIOR DE ARGENTINA", 13 MAX TELEVISION
+#EXTINF:-1 group-title="INTERIOR DE ARGENTINA", 13 MAX TELEVISION
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
-#EXTINF-1 group-title="INTERIOR DE ARGENTINA", ACEQUIA TV"
+#EXTINF:-1 group-title="INTERIOR DE ARGENTINA", ACEQUIA TV"
 https://ythls.onrender.com/channel/UCrYFBjFOP_zlFzsif9XDhgw.m3u8
-#EXTINF-1 group-title="INTERIOR DE ARGENTINA", AIRE DE SANTA FE
+#EXTINF:-1 group-title="INTERIOR DE ARGENTINA", AIRE DE SANTA FE
 https://sc1.stweb.tv/airedigital/live/playlist.m3u8
-#EXTINF-1 group-title="INTERIOR DE ARGENTINA", ANTENA 91
+#EXTINF:-1 group-title="INTERIOR DE ARGENTINA", ANTENA 91
 https://tuvideoonline.com.ar:3393/live/antena91live.m3u8
-#EXTINF-1, AUNAR
+#EXTINF:-1, AUNAR
 https://538d0bde28ccf.streamlock.net/live-cont.ar/mirador/.m3u8
-#EXTINF-1, AVC HD
+#EXTINF:-1, AVC HD
 https://ssh101.bozztv.com/ssh101/streamavc/playlist.m3u8
-#EXTINF-1,AVENTURAS TV
+#EXTINF:-1,AVENTURAS TV
 https://stmv1.cnarlatam.com/mundotv/mundotv/playlist.m3u8
-#EXTINF-1,AZAHARES RADIO
+#EXTINF:-1,AZAHARES RADIO
 https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8
-#EXTINF-1,BAYRES TV
+#EXTINF:-1,BAYRES TV
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
-#EXTINF-1,BEATS RADIO
+#EXTINF:-1,BEATS RADIO
 https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8
