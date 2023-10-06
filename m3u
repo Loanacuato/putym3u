@@ -2324,3 +2324,5 @@ https://tuvideoonline.com.ar:3393/live/antena91live.m3u8
 https://538d0bde28ccf.streamlock.net/live-cont.ar/mirador/.m3u8
 #EXTINF-1, AVC HD
 https://ssh101.bozztv.com/ssh101/streamavc/playlist.m3u8
+#EXTINF,AVENTURAS TV
+https://stmv1.cnarlatam.com/mundotv/mundotv/playlist.m3u8
