@@ -2330,3 +2330,5 @@ https://stmv1.cnarlatam.com/mundotv/mundotv/playlist.m3u8
 https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8
 #EXTINF-1,BAYRES TV
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+#EXTINF-1,BEATS RADIO
+https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8
