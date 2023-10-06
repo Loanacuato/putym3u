@@ -2315,3 +2315,5 @@ http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 #EXTINF-1 group-title="INTERIOR DE ARGENTINA",13 MAX TELEVISION
 #EXTINF-1 group-title="INTERIOR DE ARGENTINA",ACEQUIA TV"
 #EXTINF-1 group-title="INTERIOR DE ARGENTINA",AIRE DE SANTA FE
+#EXTINF-1 group-title="INTERIOR DE ARGENTINA",ANTENA 91
+https://tuvideoonline.com.ar:3393/live/antena91live.m3u8
