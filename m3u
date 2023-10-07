@@ -2312,41 +2312,41 @@ http://vplay.club:80/live/Emma2023/Emma2023/589371.ts
 http://vplay.club:80/live/Emma2023/Emma2023/589454.ts
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/2057484.png" group-title="INTERIOR DE ARGENTINA", 5TV CORRIENTES
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
-#EXTINF:-1tvg-logo="https://logodix.com/logo/2057484.png" group-title="INTERIOR DE ARGENTINA", 13 MAX TELEVISION
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/2057484.png" group-title="INTERIOR DE ARGENTINA", 13 MAX TELEVISION
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
-#EXTINF:-1tvg-logo="https://logodix.com/logo/2057484.png" group-title="INTERIOR DE ARGENTINA", ACEQUIA TV"
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/2057484.png" group-title="INTERIOR DE ARGENTINA", ACEQUIA TV"
 https://ythls.onrender.com/channel/UCrYFBjFOP_zlFzsif9XDhgw.m3u8
-#EXTINF:-1tvg-logo="https://logodix.com/logo/2057484.png" group-title="INTERIOR DE ARGENTINA", AIRE DE SANTA FE
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/2057484.png" group-title="INTERIOR DE ARGENTINA", AIRE DE SANTA FE
 https://sc1.stweb.tv/airedigital/live/playlist.m3u8
-#EXTINF:-1tvg-logo="https://logodix.com/logo/2057484.png" group-title="INTERIOR DE ARGENTINA", ANTENA 91
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/2057484.png" group-title="INTERIOR DE ARGENTINA", ANTENA 91
 https://tuvideoonline.com.ar:3393/live/antena91live.m3u8
-#EXTINF:-1tvg-logo="https://logodix.com/logo/2057484.png", AUNAR
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/2057484.png", AUNAR
 https://538d0bde28ccf.streamlock.net/live-cont.ar/mirador/.m3u8
-#EXTINF:-1tvg-logo="https://logodix.com/logo/2057484.png", AVC HD
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/2057484.png", AVC HD
 https://ssh101.bozztv.com/ssh101/streamavc/playlist.m3u8
-#EXTINF:-1tvg-logo="https://logodix.com/logo/2057484.png",AVENTURAS TV
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/2057484.png",AVENTURAS TV
 https://stmv1.cnarlatam.com/mundotv/mundotv/playlist.m3u8
-#EXTINF:-1tvg-logo="https://logodix.com/logo/2057484.png",AZAHARES RADIO
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/2057484.png",AZAHARES RADIO
 https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8
-#EXTINF:-1tvg-logo="https://logodix.com/logo/2057484.png",BAYRES TV
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/2057484.png",BAYRES TV
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
-#EXTINF:-1tvg-logo="https://logodix.com/logo/2057484.png",BEATS RADIO
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/2057484.png",BEATS RADIO
 https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8
-#EXTINF:-1tvg-logo="https://logodix.com/logo/2057484.png",BVC
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/2057484.png",BVC
 https://vivo.solumedia.com:19360/bvconline/bvconline.m3u8
-#EXTINF:-1tvg-logo="https://logodix.com/logo/2057484.png",CABLE IMAGEN ARMSTRONG
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/2057484.png",CABLE IMAGEN ARMSTRONG
 https://stream.arcast.com.ar/casse/casse/playlist.m3u8
-#EXTINF:-1tvg-logo="https://logodix.com/logo/2057484.png",CADENA COVER CLASICO
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/2057484.png",CADENA COVER CLASICO
 https://stmv1.cnarlatam.com/mundotv/mundotv/playlist.m3u8
-#EXTINF:-1tvg-logo="https://logodix.com/logo/2057484.png",CADENA VIVO
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/2057484.png",CADENA VIVO
 https://stmv1.voxtvhd.com.br/cadenavivo/cadenavivo/playlist.m3u8
-#EXTINF:-1tvg-logo="https://logodix.com/logo/2057484.png",CANAL 2 USHUAIA
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/2057484.png",CANAL 2 USHUAIA
 https://nd106.republicaservers.com:4433/hls/c6611/index.m3u8
-#EXTINF:-1tvg-logo="https://logodix.com/logo/2057484.png",CANAL 2 MISIONES
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/2057484.png",CANAL 2 MISIONES
 https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
-#EXTINF:-1tvg-logo="https://logodix.com/logo/2057484.png",CANAL 2 SALTA
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/2057484.png",CANAL 2 SALTA
 https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8
-#EXTINF:-1tvg-logo="https://logodix.com/logo/2057484.png",CANAL 2 SINAGASTA
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/2057484.png",CANAL 2 SINAGASTA
 https://stmvideo1.livecastv.com/canal2/canal2/playlist.m3u8
-#EXTINF:-1tvg-logo="https://logodix.com/logo/2057484.png",CANAL 3 FORMOSA
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/2057484.png",CANAL 3 FORMOSA
 https://stmvideo2.livecastv.com/agenfor/agenfor/playlist.m3u8
