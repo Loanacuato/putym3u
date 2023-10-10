@@ -3273,33 +3273,8 @@ https://vivo.lamtv.tv:8081/a/0111/playlist.m3u8
 #EXTINF:1,WIN SPORTS
 #EXTVLCOPT:http-user-agent=FFFFF
 https://vivo.lamtv.tv:8081/a/0120/playlist.m3u8
-#EXTINF:1,XXX AMATEUR
-#EXTVLCOPT:http-user-agent=FFFFF
-https://vivo.lamtv.tv:8081/a/0440/playlist.m3u8
-#EXTINF:1,XXX LETSDUIT
-#EXTVLCOPT:http-user-agent=FFFFF
-https://vivo.lamtv.tv:8081/a/0441/playlist.m3u8
-#EXTINF:1,XXX PORNBOX
-#EXTVLCOPT:http-user-agent=FFFFF
-https://vivo.lamtv.tv:8081/a/0443/playlist.m3u8
-#EXTINF:1,XXX PORNBOX
-#EXTVLCOPT:http-user-agent=FFFFF
-https://vivo.lamtv.tv:8081/a/0438/playlist.m3u8
-#EXTINF:1,XXX PORNBOX
-#EXTVLCOPT:http-user-agent=FFFFF
-https://vivo.lamtv.tv:8081/a/0436/playlist.m3u8
-#EXTINF:1,XXX PORNBOX
-#EXTVLCOPT:http-user-agent=FFFFF
-https://vivo.lamtv.tv:8081/a/0432/playlist.m3u8
-#EXTINF:1,XXX PORNBOX
-#EXTVLCOPT:http-user-agent=FFFFF
-https://vivo.lamtv.tv:8081/a/0444/playlist.m3u8
-#EXTINF:1,XXX PORNBOX
-#EXTVLCOPT:http-user-agent=FFFFF
-https://vivo.lamtv.tv:8081/a/0442/playlist.m3u8
-#EXTINF:1,XXX PORNBOX
-#EXTVLCOPT:http-user-agent=FFFFF
-https://vivo.lamtv.tv:8081/a/0439/playlist.m3u8
+
+
 
 
 #EXTINF:-1 group-title="prueba de canales 3",BABYTV
@@ -4143,16 +4118,7 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1886
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1890
 #EXTINF:-1 tvg-id="Nick2.mx" tvg-name="INF-Nick 2 (PM)(720)" tvg-logo="https://1.bp.blogspot.com/-dFHl1z4YcQk/XbCJ6BgemaI/AAAAAAAAAm0/aQt5GvD7r5ATZetNP-4LfG1aS01FsKnMgCLcBGAsYHQ/s200/10.png" group-title="CANALES-INFANTILES",INF-Nick 2 (PM)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1891
-#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="MEX-Azteca 7 (X)(1080)" tvg-logo="https://1.bp.blogspot.com/-ie8UXB6UqPM/Xm55jaDr75I/AAAAAAAABjI/653qMC9f1pEKsLM1D_PgRVXhJwRFOlpBACLcBGAsYHQ/s200/31.png" group-title="MEXICO",MEX-Azteca 7 (X)(1080)
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1882
-#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="MEX-Azteca Uno (X)(720)" tvg-logo="https://1.bp.blogspot.com/-rCbIcWgf8KM/Xm54--dqL2I/AAAAAAAABjA/WfovYd6uNOMJFVGwof8uwuxEN4lHorZ_gCLcBGAsYHQ/s200/30.png" group-title="MEXICO",MEX-Azteca Uno (X)(720)
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1881
-#EXTINF:-1 tvg-id="5Nacional.mx" tvg-name="MEX-Canal 5 (X)(720)" tvg-logo="https://1.bp.blogspot.com/-MmJ4TgLhKa0/Xm5o4_B3H8I/AAAAAAAABeQ/b7jztTDAi5g7UDvJLofwH1KNMZmv0OvGwCLcBGAsYHQ/s200/12.png" group-title="MEXICO",MEX-Canal 5 (X)(720)
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1883
-#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="MEX-Las Estrellas (PM)(720)" tvg-logo="https://1.bp.blogspot.com/-e2wz8A8TfGM/Xm56KL_9AVI/AAAAAAAABjU/Ukz1VU_TSlAuHvW8BFmY7kgneq_wuU80QCLcBGAsYHQ/s200/32.png" group-title="MEXICO",MEX-Las Estrellas (PM)(720)
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1885
-#EXTINF:-1 tvg-id="Bandamax.mx" tvg-name="MUS-Bandamax (X)(720)" tvg-logo="" group-title="CANALES-MUSICA",MUS-Bandamax (X)(720)
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/69593
+
 #EXTINF:-1 tvg-id="UnivisionTelenovelas.us" tvg-name="NOV-tlNovela (M)(1080)" tvg-logo="" group-title="CANALES-NOVELAS",NOV-tlNovela (M)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/69579
 #EXTINF:-1 tvg-id="NBCUniverso.us" tvg-name="NOV-Universo Este (X)(720)" tvg-logo="https://1.bp.blogspot.com/-6M6hQPgGFJA/XzRaku-tHtI/AAAAAAAAA48/8r7dtHJwJ1E80DId_OZOGi-28-hwonydgCLcBGAsYHQ/w200-h200/124%2BTv%2Bone.png" group-title="CANALES-NOVELAS",NOV-Universo Este (X)(720)
