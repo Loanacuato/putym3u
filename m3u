@@ -2177,12 +2177,10 @@ http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/21086
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Juego de tronos (PM)(4k)" tvg-logo="https://1.bp.blogspot.com/-C8lxg5ulyBU/X4zXGFrpAAI/AAAAAAAAB2o/WMTKDEPlM4YWw6aOwmy_4NSc2HYgqiF6QCLcBGAsYHQ/w200-h200/Juego%2BDe%2Btronos4k.png" group-title="24/7 SERIES 4k" group-title="prueba de canales 5",24/7 Juego de tronos (PM)(4k)
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/63763
+
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Vikingos (PM)(4K)" tvg-logo="https://1.bp.blogspot.com/-h4B__5PL_Fo/X44CUaMkCRI/AAAAAAAAB20/rjmS5fh5roEhOLhKMEOlC-kfbQ_SiRcrgCLcBGAsYHQ/w200-h200/Vikingos%2B4k.png" group-title="24/7 SERIES 4k",24/7 Vikingos (PM)(4K)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/63771
-#EXTINF:-1 tvg-id="CDOPremium.cl" tvg-name="CHI-CDO Premium (e)(1080)" tvg-logo="https://1.bp.blogspot.com/-HEq9Fr6haPg/XaoHsfkDTPI/AAAAAAAAAUs/6FaGhc-wdVkg7m4PVBuIf9Vxyhgk3PfyQCLcBGAsYHQ/s200/21.png" group-title="CHILE",CHI-CDO Premium (e)(1080)
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/180308
+
 #EXTINF:-1 tvg-id="ESPN4.co" tvg-name="DEPORTES - Espn 4 (PM)(1080)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiLC_VXQCkNAifV1lJjHj7FcM-0hWo-H1HPnnJyvUCCszO-ytYPQi3nh7-YJL79L9z19w9Qjec6dpL6AoR6bO3DRYgoszmuPYKNYBWKn_ENfpVCW_4WOklCNVG5u8DelgF_GiRpIGViuN4IcQokCD0ItK2qT1uGrlHpjqjilbNjKCGxTHgeQ749jMlA=w200-h200" group-title="CANALES-DEPORTES",DEPORTES - Espn 4 (PM)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/975
 #EXTINF:-1 tvg-id="FoxSports.mx" tvg-name="DEPORTES - Fox Sports 1 MEX (L)(1080)" tvg-logo="https://1.bp.blogspot.com/-ANvUBZdXt0M/Xay_WItSP3I/AAAAAAAAAjs/00yDNyTvcs846cmFIVHEOrwLYd6UPJehgCLcBGAsYHQ/s200/1.png" group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 1 MEX (L)(1080)
@@ -2215,8 +2213,8 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1061
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/69600
 #EXTINF:-1 tvg-id="NatGeoWild.es" tvg-name="DOC-NatGeo Wild Ñ (PM)(1080)" tvg-logo="https://1.bp.blogspot.com/-FhNEkhNUM58/Xaukf7PCtkI/AAAAAAAAAgQ/azD1CxOYTugM3KsRnyICXyCVweXcKp1_gCLcBGAsYHQ/s200/5.png" group-title="CANALES-DOCUMENTALES",DOC-NatGeo Wild Ñ (PM)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1076
-#EXTINF:-1 tvg-id="" tvg-name="ECU-Canal Del Futbol (X)(1080)" tvg-logo="https://1.bp.blogspot.com/-xF1vpNkIs98/X7K_vuu_nVI/AAAAAAAAB3w/bETiZLyf2HEEBD9jz_rS-YvYKLDRO2QygCLcBGAsYHQ/w200-h200/Canal%2Bdel%2Bf%25C3%25BAtbol.png" group-title="ECUADOR",ECU-Canal Del Futbol (X)(1080)
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/65386
+
+
 #EXTINF:-1 tvg-id="BabyTV.pa" tvg-name="INF-Baby tv (PM)(720)" tvg-logo="https://1.bp.blogspot.com/-e2fNIV-SPZg/XbCJ779SimI/AAAAAAAAAnI/gnkHgVl1IjkHPfPhMUyEzUnR7ysP9jsgQCLcBGAsYHQ/s200/2.png" group-title="CANALES-INFANTILES",INF-Baby tv (PM)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1887
 #EXTINF:-1 tvg-id="Boomerang.mx" tvg-name="INF-boomerang (L)(720)" tvg-logo="https://1.bp.blogspot.com/-QpOaYsWgcPg/XbCJ8KR8dqI/AAAAAAAAAnM/ZbLWuXslEYs_34QSlNCN1NxCJD_LIhEjQCLcBGAsYHQ/s200/3.png" group-title="CANALES-INFANTILES",INF-boomerang (L)(720)
